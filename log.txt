@@ -274,3 +274,4 @@
 0566. 📚 docs: write FAQ section
 0946. ✅ test: add unit test for quiz service
 0664. ✅ test: add unit test for quiz service
+0239. 🎨 style: standardize quote style
