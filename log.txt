@@ -277,3 +277,4 @@
 0239. 🎨 style: standardize quote style
 0936. 🔧 refactor: organize models into subfolders
 0890. 🔧 refactor: organize models into subfolders
+0448. 🐛 fix: correct typo in registration form
