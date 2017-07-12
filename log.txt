@@ -287,3 +287,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0027. 📚 docs: clarify environment setup
 0342. 🚀 perf: cache repeated calculations
+0096. 🐛 fix: prevent crash on empty input
