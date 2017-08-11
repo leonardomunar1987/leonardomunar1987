@@ -294,3 +294,4 @@
 0337. 📚 docs: document token refresh logic
 0957. 🐛 fix: fix null pointer exception on login
 0765. ♻️ chore: clean up unused files
+0181. ♻️ chore: add GitHub actions badge
