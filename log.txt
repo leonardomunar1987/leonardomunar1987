@@ -298,3 +298,4 @@
 0059. ♻️ chore: bump dependencies
 0115. 🚀 perf: reduce image load time
 0969. ✨ feat: create admin dashboard
+0660. 🐛 fix: correct typo in registration form
