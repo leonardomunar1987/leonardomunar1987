@@ -304,3 +304,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0015. ✨ feat: implement quiz timer feature
 0341. 🚀 perf: lazy-load components
+0884. 📚 docs: clarify environment setup
