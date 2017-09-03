@@ -310,3 +310,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0424. ✨ feat: add user authentication
 0270. ♻️ chore: rename env.example
+0817. 🔧 refactor: remove redundant code blocks
