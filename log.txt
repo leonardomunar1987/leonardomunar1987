@@ -311,3 +311,4 @@
 0424. ✨ feat: add user authentication
 0270. ♻️ chore: rename env.example
 0817. 🔧 refactor: remove redundant code blocks
+0744. 🔧 refactor: remove redundant code blocks
