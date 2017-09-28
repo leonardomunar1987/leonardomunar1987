@@ -315,3 +315,4 @@
 0034. 📚 docs: improve code comments in utils
 0979. 🎨 style: standardize quote style
 0147. ♻️ chore: bump dependencies
+0734. ✨ feat: add export to CSV option
