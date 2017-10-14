@@ -318,3 +318,4 @@
 0734. ✨ feat: add export to CSV option
 0686. 🎨 style: standardize quote style
 0947. 📚 docs: write FAQ section
+0031. 📚 docs: document token refresh logic
