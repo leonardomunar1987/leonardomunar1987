@@ -332,3 +332,4 @@
 0707. 🎨 style: apply consistent indentation
 0114. ♻️ chore: update .gitignore
 0210. 🎨 style: apply consistent indentation
+0653. 🐛 fix: prevent crash on empty input
