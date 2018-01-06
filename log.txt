@@ -343,3 +343,4 @@
 0486. ✨ feat: add export to CSV option
 0363. 📚 docs: clarify environment setup
 0127. 🐛 fix: fix null pointer exception on login
+0536. ✨ feat: add user authentication
