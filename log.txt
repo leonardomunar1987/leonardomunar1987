@@ -354,3 +354,4 @@
 0432. 🎨 style: apply consistent indentation
 0622. 🎨 style: apply consistent indentation
 0538. 🐛 fix: fix broken CSS in mobile view
+0368. 🚀 perf: lazy-load components
