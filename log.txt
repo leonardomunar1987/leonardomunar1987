@@ -357,3 +357,4 @@
 0368. 🚀 perf: lazy-load components
 0576. ♻️ chore: update .gitignore
 0499. 🎨 style: reformat files with black
+0704. 🚀 perf: cache repeated calculations
