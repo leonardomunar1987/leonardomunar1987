@@ -365,3 +365,4 @@
 0778. 📚 docs: write FAQ section
 0414. 🔧 refactor: remove redundant code blocks
 0809. ♻️ chore: rename env.example
+0850. ♻️ chore: rename env.example
