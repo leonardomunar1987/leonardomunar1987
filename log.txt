@@ -371,3 +371,4 @@
 0180. ✨ feat: add export to CSV option
 0211. 🔧 refactor: remove redundant code blocks
 0911. ✅ test: increase coverage on auth module
+0847. ♻️ chore: clean up unused files
