@@ -381,3 +381,4 @@
 0950. 🎨 style: reformat files with black
 0991. ♻️ chore: clean up unused files
 0381. ♻️ chore: clean up unused files
+0391. 🐛 fix: fix null pointer exception on login
