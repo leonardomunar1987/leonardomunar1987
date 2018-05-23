@@ -394,3 +394,4 @@
 0624. ✅ test: add unit test for quiz service
 0787. ♻️ chore: rename env.example
 0794. ♻️ chore: clean up unused files
+0916. ♻️ chore: bump dependencies
