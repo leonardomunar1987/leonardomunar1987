@@ -397,3 +397,4 @@
 0916. ♻️ chore: bump dependencies
 0134. ✨ feat: implement quiz timer feature
 0187. ✨ feat: support email verification
+0256. ✅ test: mock database connection in test suite
