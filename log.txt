@@ -401,3 +401,4 @@
 0413. ✅ test: add integration test for /submit endpoint
 0656. 🎨 style: apply consistent indentation
 0106. 🎨 style: reformat files with black
+0873. 🚀 perf: cache repeated calculations
