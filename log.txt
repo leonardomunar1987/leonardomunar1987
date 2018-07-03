@@ -402,3 +402,4 @@
 0656. 🎨 style: apply consistent indentation
 0106. 🎨 style: reformat files with black
 0873. 🚀 perf: cache repeated calculations
+0783. 🐛 fix: handle 500 error in quiz API
