@@ -406,3 +406,4 @@
 0379. ✨ feat: support email verification
 0002. 🚀 perf: cache repeated calculations
 0937. 🐛 fix: handle 500 error in quiz API
+0401. 🚀 perf: reduce image load time
