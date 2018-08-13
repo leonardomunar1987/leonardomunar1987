@@ -412,3 +412,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0039. ✅ test: add integration test for /submit endpoint
 0739. 🎨 style: remove trailing whitespace
+0600. 🐛 fix: prevent crash on empty input
