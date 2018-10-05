@@ -435,3 +435,4 @@
 0392. 🎨 style: remove trailing whitespace
 0640. ♻️ chore: bump dependencies
 0638. 📚 docs: improve code comments in utils
+0636. ✅ test: increase coverage on auth module
