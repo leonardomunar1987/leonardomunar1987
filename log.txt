@@ -442,3 +442,4 @@
 0575. ✅ test: add unit test for quiz service
 0216. 🎨 style: rename variables for clarity
 0941. 🚀 perf: cache repeated calculations
+0612. ✅ test: test user registration edge cases
