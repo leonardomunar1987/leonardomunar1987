@@ -447,3 +447,4 @@
 0906. 📚 docs: add API usage examples
 0353. ♻️ chore: rename env.example
 0249. ✅ test: increase coverage on auth module
+0500. ✅ test: add integration test for /submit endpoint
