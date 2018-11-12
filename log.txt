@@ -451,3 +451,4 @@
 0919. 🚀 perf: optimize database query for quiz results
 0460. 📚 docs: write FAQ section
 0163. ✨ feat: implement quiz timer feature
+0135. ✅ test: test user registration edge cases
