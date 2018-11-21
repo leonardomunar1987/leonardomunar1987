@@ -454,3 +454,4 @@
 0135. ✅ test: test user registration edge cases
 0121. ✨ feat: support email verification
 0786. ✨ feat: enable dark mode toggle
+0117. ✅ test: increase coverage on auth module
