@@ -461,3 +461,4 @@
 0899. 🚀 perf: cache repeated calculations
 0984. ♻️ chore: clean up unused files
 0124. 🎨 style: reformat files with black
+0543. ✨ feat: support email verification
