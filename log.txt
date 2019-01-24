@@ -473,3 +473,4 @@
 0052. 🎨 style: standardize quote style
 0716. ✨ feat: implement quiz timer feature
 0869. ♻️ chore: bump dependencies
+0440. 📚 docs: update README with setup steps
