@@ -479,3 +479,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0079. 🐛 fix: correct typo in registration form
 0606. 📚 docs: improve code comments in utils
+0701. 🔧 refactor: clean up auth middleware
