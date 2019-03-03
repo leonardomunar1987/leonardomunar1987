@@ -485,3 +485,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0586. 🎨 style: remove trailing whitespace
 0692. ✅ test: add integration test for /submit endpoint
+0435. ✅ test: add unit test for quiz service
