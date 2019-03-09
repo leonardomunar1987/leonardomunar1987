@@ -490,3 +490,4 @@
 0953. 🎨 style: remove trailing whitespace
 0657. 🎨 style: standardize quote style
 0711. 🐛 fix: fix broken CSS in mobile view
+0976. ✨ feat: implement quiz timer feature
