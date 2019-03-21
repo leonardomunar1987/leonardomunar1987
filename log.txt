@@ -17,3 +17,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0203. 🚀 perf: lazy-load components
 0168. ✅ test: add integration test for /submit endpoint
+0609. 🐛 fix: handle 500 error in quiz API
