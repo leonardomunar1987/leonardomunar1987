@@ -496,3 +496,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0570. 🎨 style: apply consistent indentation
 0160. ♻️ chore: bump dependencies
+0664. ✅ test: add unit test for quiz service
