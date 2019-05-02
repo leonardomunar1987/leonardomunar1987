@@ -37,3 +37,4 @@
 0723. 🔧 refactor: remove redundant code blocks
 0712. 🎨 style: apply consistent indentation
 0425. 🔧 refactor: refactor quiz grading logic
+0989. 📚 docs: write FAQ section
