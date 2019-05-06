@@ -40,3 +40,4 @@
 0989. 📚 docs: write FAQ section
 0353. ♻️ chore: rename env.example
 0323. 📚 docs: clarify environment setup
+0402. 🎨 style: reformat files with black
