@@ -43,3 +43,4 @@
 0402. 🎨 style: reformat files with black
 0092. 🚀 perf: reduce image load time
 0957. 🐛 fix: fix null pointer exception on login
+0052. 🎨 style: standardize quote style
