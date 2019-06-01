@@ -50,3 +50,4 @@
 0648. ♻️ chore: bump dependencies
 0888. 🚀 perf: lazy-load components
 0790. 📚 docs: write FAQ section
+0236. 🔧 refactor: remove redundant code blocks
