@@ -51,3 +51,4 @@
 0888. 🚀 perf: lazy-load components
 0790. 📚 docs: write FAQ section
 0236. 🔧 refactor: remove redundant code blocks
+0362. 📚 docs: add API usage examples
