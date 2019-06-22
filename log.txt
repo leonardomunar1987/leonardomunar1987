@@ -521,3 +521,4 @@
 0558. ✨ feat: enable dark mode toggle
 0544. 🔧 refactor: organize models into subfolders
 0091. ✨ feat: add user authentication
+0475. 🔧 refactor: clean up auth middleware
