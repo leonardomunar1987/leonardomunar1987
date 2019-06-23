@@ -522,3 +522,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0091. ✨ feat: add user authentication
 0475. 🔧 refactor: clean up auth middleware
+0483. 📚 docs: update README with setup steps
