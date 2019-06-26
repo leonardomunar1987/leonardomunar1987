@@ -525,3 +525,4 @@
 0483. 📚 docs: update README with setup steps
 0747. 🔧 refactor: clean up auth middleware
 0101. 📚 docs: clarify environment setup
+0965. 🎨 style: reformat files with black
