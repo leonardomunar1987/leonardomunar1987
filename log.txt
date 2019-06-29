@@ -526,3 +526,4 @@
 0747. 🔧 refactor: clean up auth middleware
 0101. 📚 docs: clarify environment setup
 0965. 🎨 style: reformat files with black
+0319. 🐛 fix: handle 500 error in quiz API
