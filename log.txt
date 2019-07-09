@@ -527,3 +527,4 @@
 0101. 📚 docs: clarify environment setup
 0965. 🎨 style: reformat files with black
 0319. 🐛 fix: handle 500 error in quiz API
+0833. ✨ feat: add user authentication
