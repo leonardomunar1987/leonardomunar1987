@@ -60,3 +60,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0663. 🚀 perf: reduce image load time
 0027. 📚 docs: clarify environment setup
+0702. ✨ feat: add user authentication
