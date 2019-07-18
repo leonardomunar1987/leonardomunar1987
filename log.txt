@@ -531,3 +531,4 @@
 0730. ✅ test: test user registration edge cases
 0903. ✅ test: mock database connection in test suite
 0334. 🚀 perf: cache repeated calculations
+0722. 📚 docs: add API usage examples
