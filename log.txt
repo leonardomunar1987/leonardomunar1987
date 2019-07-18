@@ -61,3 +61,4 @@
 0663. 🚀 perf: reduce image load time
 0027. 📚 docs: clarify environment setup
 0702. ✨ feat: add user authentication
+0292. 📚 docs: clarify environment setup
