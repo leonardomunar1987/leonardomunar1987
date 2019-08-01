@@ -532,3 +532,4 @@
 0903. ✅ test: mock database connection in test suite
 0334. 🚀 perf: cache repeated calculations
 0722. 📚 docs: add API usage examples
+0022. 📚 docs: document token refresh logic
