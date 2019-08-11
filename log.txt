@@ -535,3 +535,4 @@
 0022. 📚 docs: document token refresh logic
 0410. 🎨 style: reformat files with black
 0665. ♻️ chore: update .gitignore
+0599. ✅ test: test user registration edge cases
