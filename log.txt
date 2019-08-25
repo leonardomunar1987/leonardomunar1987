@@ -72,3 +72,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0762. 🚀 perf: lazy-load components
 0091. ✨ feat: add user authentication
+0492. 🎨 style: remove trailing whitespace
