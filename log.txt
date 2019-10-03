@@ -552,3 +552,4 @@
 0714. 📚 docs: improve code comments in utils
 0944. ✨ feat: add user authentication
 0296. 🔧 refactor: organize models into subfolders
+0507. 🔧 refactor: clean up auth middleware
