@@ -558,3 +558,4 @@
 0384. 📚 docs: clarify environment setup
 0049. 🐛 fix: handle 500 error in quiz API
 0603. 🐛 fix: fix broken CSS in mobile view
+0835. 🐛 fix: prevent crash on empty input
