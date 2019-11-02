@@ -560,3 +560,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0835. 🐛 fix: prevent crash on empty input
 0960. ✅ test: increase coverage on auth module
+0563. 📚 docs: clarify environment setup
