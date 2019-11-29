@@ -564,3 +564,4 @@
 0376. 🎨 style: apply consistent indentation
 0706. ✨ feat: support email verification
 0830. 🎨 style: apply consistent indentation
+0200. 🐛 fix: handle 500 error in quiz API
