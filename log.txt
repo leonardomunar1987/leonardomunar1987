@@ -603,3 +603,4 @@
 0756. ✨ feat: support email verification
 0222. 🐛 fix: handle 500 error in quiz API
 0635. 🎨 style: apply consistent indentation
+0803. ✅ test: mock database connection in test suite
