@@ -628,3 +628,4 @@
 0136. 🚀 perf: lazy-load components
 0623. 🎨 style: standardize quote style
 0821. ✅ test: add integration test for /submit endpoint
+0697. ♻️ chore: bump dependencies
