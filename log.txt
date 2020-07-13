@@ -630,3 +630,4 @@
 0821. ✅ test: add integration test for /submit endpoint
 0697. ♻️ chore: bump dependencies
 0219. ✅ test: increase coverage on auth module
+0611. ✅ test: test user registration edge cases
