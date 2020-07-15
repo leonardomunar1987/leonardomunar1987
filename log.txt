@@ -631,3 +631,4 @@
 0697. ♻️ chore: bump dependencies
 0219. ✅ test: increase coverage on auth module
 0611. ✅ test: test user registration edge cases
+0050. ✨ feat: enable dark mode toggle
