@@ -633,3 +633,4 @@
 0611. ✅ test: test user registration edge cases
 0050. ✨ feat: enable dark mode toggle
 0940. 📚 docs: document token refresh logic
+0263. 📚 docs: add API usage examples
