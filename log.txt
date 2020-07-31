@@ -638,3 +638,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0312. ✨ feat: add user authentication
 0245. 🐛 fix: resolve issue with date parsing
+0573. ✅ test: add integration test for /submit endpoint
