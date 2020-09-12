@@ -650,3 +650,4 @@
 0837. 🚀 perf: cache repeated calculations
 0785. ✨ feat: enable dark mode toggle
 0168. ✅ test: add integration test for /submit endpoint
+0520. 🐛 fix: fix null pointer exception on login
