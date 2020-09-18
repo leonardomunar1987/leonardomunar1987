@@ -653,3 +653,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0056. ♻️ chore: rename env.example
 0108. 🎨 style: remove trailing whitespace
+0565. ♻️ chore: add GitHub actions badge
