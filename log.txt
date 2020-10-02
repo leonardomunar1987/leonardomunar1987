@@ -655,3 +655,4 @@
 0108. 🎨 style: remove trailing whitespace
 0565. ♻️ chore: add GitHub actions badge
 0652. 🔧 refactor: organize models into subfolders
+0377. ✨ feat: add user authentication
