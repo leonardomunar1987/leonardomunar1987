@@ -667,3 +667,4 @@
 0683. ✅ test: mock database connection in test suite
 0920. 🔧 refactor: organize models into subfolders
 0464. 🎨 style: remove trailing whitespace
+0672. 🐛 fix: fix broken CSS in mobile view
