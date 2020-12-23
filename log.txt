@@ -683,3 +683,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0547. 📚 docs: write FAQ section
 0195. 📚 docs: clarify environment setup
+0593. 🐛 fix: correct typo in registration form
