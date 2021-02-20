@@ -705,3 +705,4 @@
 0003. ✅ test: increase coverage on auth module
 0492. 🎨 style: remove trailing whitespace
 0810. 🔧 refactor: refactor quiz grading logic
+0746. ♻️ chore: add GitHub actions badge
