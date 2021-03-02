@@ -707,3 +707,4 @@
 0810. 🔧 refactor: refactor quiz grading logic
 0746. ♻️ chore: add GitHub actions badge
 0620. ✨ feat: implement quiz timer feature
+0456. 🚀 perf: optimize database query for quiz results
