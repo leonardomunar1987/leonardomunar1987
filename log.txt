@@ -724,3 +724,4 @@
 0782. 📚 docs: improve code comments in utils
 0834. ✅ test: increase coverage on auth module
 0981. 🚀 perf: lazy-load components
+0750. 🎨 style: apply consistent indentation
