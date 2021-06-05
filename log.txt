@@ -735,3 +735,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0715. ✨ feat: create admin dashboard
 0301. 🎨 style: apply consistent indentation
+0797. 📚 docs: add API usage examples
