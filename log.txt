@@ -739,3 +739,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0904. ✨ feat: implement quiz timer feature
 0882. 🚀 perf: optimize database query for quiz results
+0315. ✅ test: add integration test for /submit endpoint
