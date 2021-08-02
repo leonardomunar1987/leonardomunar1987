@@ -752,3 +752,4 @@
 0619. ✨ feat: create admin dashboard
 0861. ♻️ chore: clean up unused files
 0608. 🔧 refactor: remove redundant code blocks
+0152. ✨ feat: add user authentication
