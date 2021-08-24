@@ -757,3 +757,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0196. ♻️ chore: bump dependencies
 0551. 📚 docs: write FAQ section
+0545. 🎨 style: standardize quote style
