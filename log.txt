@@ -759,3 +759,4 @@
 0551. 📚 docs: write FAQ section
 0545. 🎨 style: standardize quote style
 0720. ✨ feat: add export to CSV option
+0118. 🚀 perf: reduce image load time
