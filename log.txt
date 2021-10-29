@@ -782,3 +782,4 @@
 0564. 📚 docs: clarify environment setup
 0446. 🎨 style: apply consistent indentation
 0632. 🎨 style: remove trailing whitespace
+0048. 📚 docs: update README with setup steps
