@@ -783,3 +783,4 @@
 0446. 🎨 style: apply consistent indentation
 0632. 🎨 style: remove trailing whitespace
 0048. 📚 docs: update README with setup steps
+0207. 🐛 fix: prevent crash on empty input
