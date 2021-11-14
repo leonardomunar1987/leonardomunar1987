@@ -788,3 +788,4 @@
 0670. ✨ feat: add export to CSV option
 0294. 🐛 fix: prevent crash on empty input
 0104. 🎨 style: apply consistent indentation
+0231. 🔧 refactor: clean up auth middleware
