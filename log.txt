@@ -791,3 +791,4 @@
 0231. 🔧 refactor: clean up auth middleware
 0699. 🎨 style: standardize quote style
 0454. ♻️ chore: bump dependencies
+0939. 📚 docs: update README with setup steps
