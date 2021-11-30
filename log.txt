@@ -792,3 +792,4 @@
 0699. 🎨 style: standardize quote style
 0454. ♻️ chore: bump dependencies
 0939. 📚 docs: update README with setup steps
+0633. ✨ feat: add user authentication
