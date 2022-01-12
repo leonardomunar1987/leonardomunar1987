@@ -809,3 +809,4 @@
 0938. 🎨 style: rename variables for clarity
 0659. 📚 docs: add API usage examples
 0153. ♻️ chore: rename env.example
+0581. ✅ test: add integration test for /submit endpoint
