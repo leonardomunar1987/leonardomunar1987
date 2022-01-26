@@ -813,3 +813,4 @@
 0928. 🎨 style: apply consistent indentation
 0824. 🚀 perf: lazy-load components
 0037. 🐛 fix: correct typo in registration form
+0292. 📚 docs: clarify environment setup
