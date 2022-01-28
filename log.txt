@@ -816,3 +816,4 @@
 0292. 📚 docs: clarify environment setup
 0123. ✨ feat: implement quiz timer feature
 0503. ♻️ chore: rename env.example
+0068. 🐛 fix: fix null pointer exception on login
