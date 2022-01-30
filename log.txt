@@ -818,3 +818,4 @@
 0503. ♻️ chore: rename env.example
 0068. 🐛 fix: fix null pointer exception on login
 0220. 🐛 fix: fix null pointer exception on login
+0864. 🐛 fix: correct typo in registration form
