@@ -823,3 +823,4 @@
 0509. ♻️ chore: bump dependencies
 0705. 🔧 refactor: refactor quiz grading logic
 0137. 🎨 style: rename variables for clarity
+0646. ✅ test: test user registration edge cases
