@@ -827,3 +827,4 @@
 0215. 🎨 style: reformat files with black
 0272. 🔧 refactor: remove redundant code blocks
 0105. 🐛 fix: correct typo in registration form
+0958. 🐛 fix: prevent crash on empty input
