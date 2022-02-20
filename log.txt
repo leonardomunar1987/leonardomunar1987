@@ -828,3 +828,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0105. 🐛 fix: correct typo in registration form
 0958. 🐛 fix: prevent crash on empty input
+0090. ✅ test: increase coverage on auth module
