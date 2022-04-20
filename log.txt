@@ -846,3 +846,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0514. 🐛 fix: fix broken CSS in mobile view
 0826. 📚 docs: clarify environment setup
+0521. 🎨 style: standardize quote style
