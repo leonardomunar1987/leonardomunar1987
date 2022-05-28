@@ -860,3 +860,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0825. 🔧 refactor: split large controller into smaller functions
 0075. ✅ test: mock database connection in test suite
+0892. ✅ test: add unit test for quiz service
