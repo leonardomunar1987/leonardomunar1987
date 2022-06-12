@@ -862,3 +862,4 @@
 0075. ✅ test: mock database connection in test suite
 0892. ✅ test: add unit test for quiz service
 0455. ♻️ chore: clean up unused files
+0628. ♻️ chore: add GitHub actions badge
