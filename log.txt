@@ -864,3 +864,4 @@
 0455. ♻️ chore: clean up unused files
 0628. ♻️ chore: add GitHub actions badge
 0516. ✅ test: add unit test for quiz service
+0888. 🚀 perf: lazy-load components
