@@ -867,3 +867,4 @@
 0888. 🚀 perf: lazy-load components
 0929. ✨ feat: support email verification
 0855. 🎨 style: reformat files with black
+0265. 🎨 style: reformat files with black
