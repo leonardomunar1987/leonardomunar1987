@@ -877,3 +877,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0159. 🚀 perf: lazy-load components
 0910. 🎨 style: remove trailing whitespace
+0949. 📚 docs: write FAQ section
