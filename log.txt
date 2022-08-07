@@ -876,3 +876,4 @@
 0868. ✅ test: add unit test for quiz service
 0753. 🔧 refactor: remove redundant code blocks
 0159. 🚀 perf: lazy-load components
+0910. 🎨 style: remove trailing whitespace
