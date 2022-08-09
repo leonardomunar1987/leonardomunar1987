@@ -878,3 +878,4 @@
 0159. 🚀 perf: lazy-load components
 0910. 🎨 style: remove trailing whitespace
 0949. 📚 docs: write FAQ section
+0552. 🐛 fix: fix null pointer exception on login
