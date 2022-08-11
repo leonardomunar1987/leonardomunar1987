@@ -879,3 +879,4 @@
 0910. 🎨 style: remove trailing whitespace
 0949. 📚 docs: write FAQ section
 0552. 🐛 fix: fix null pointer exception on login
+0192. ✨ feat: enable dark mode toggle
