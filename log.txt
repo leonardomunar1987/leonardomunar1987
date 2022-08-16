@@ -882,3 +882,4 @@
 0192. ✨ feat: enable dark mode toggle
 0988. 🐛 fix: fix broken CSS in mobile view
 0069. 🎨 style: rename variables for clarity
+0842. 🎨 style: remove trailing whitespace
