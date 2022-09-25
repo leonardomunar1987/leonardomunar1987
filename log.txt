@@ -895,3 +895,4 @@
 0217. 🚀 perf: reduce image load time
 0060. ♻️ chore: clean up unused files
 0815. 🔧 refactor: split large controller into smaller functions
+0295. 🎨 style: remove trailing whitespace
