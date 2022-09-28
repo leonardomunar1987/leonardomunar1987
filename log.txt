@@ -897,3 +897,4 @@
 0815. 🔧 refactor: split large controller into smaller functions
 0295. 🎨 style: remove trailing whitespace
 0502. 📚 docs: update README with setup steps
+0568. 🐛 fix: handle 500 error in quiz API
