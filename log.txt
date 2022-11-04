@@ -903,3 +903,4 @@
 0036. 🔧 refactor: clean up auth middleware
 0350. 🚀 perf: cache repeated calculations
 0009. ✨ feat: enable dark mode toggle
+0626. 🎨 style: standardize quote style
