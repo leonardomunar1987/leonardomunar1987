@@ -914,3 +914,4 @@
 0320. 📚 docs: update README with setup steps
 0918. ✨ feat: enable dark mode toggle
 0176. 🔧 refactor: remove redundant code blocks
+0237. 🎨 style: standardize quote style
