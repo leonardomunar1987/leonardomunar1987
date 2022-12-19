@@ -918,3 +918,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0905. ♻️ chore: bump dependencies
 0679. ♻️ chore: bump dependencies
+0629. 🔧 refactor: organize models into subfolders
