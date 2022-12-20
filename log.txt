@@ -919,3 +919,4 @@
 0905. ♻️ chore: bump dependencies
 0679. ♻️ chore: bump dependencies
 0629. 🔧 refactor: organize models into subfolders
+0865. ♻️ chore: add GitHub actions badge
