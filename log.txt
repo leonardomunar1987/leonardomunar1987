@@ -923,3 +923,4 @@
 0158. 📚 docs: clarify environment setup
 0267. 📚 docs: improve code comments in utils
 0959. 🐛 fix: fix null pointer exception on login
+0409. 🚀 perf: lazy-load components
