@@ -926,3 +926,4 @@
 0409. 🚀 perf: lazy-load components
 0574. ✨ feat: enable dark mode toggle
 0963. 🚀 perf: reduce image load time
+0784. ♻️ chore: clean up unused files
