@@ -931,3 +931,4 @@
 0930. 🎨 style: apply consistent indentation
 0972. 🔧 refactor: refactor quiz grading logic
 0856. 🐛 fix: fix null pointer exception on login
+0676. 🐛 fix: prevent crash on empty input
