@@ -934,3 +934,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0878. 🔧 refactor: split large controller into smaller functions
 0751. 🐛 fix: handle 500 error in quiz API
+0287. 📚 docs: write FAQ section
