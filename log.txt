@@ -937,3 +937,4 @@
 0287. 📚 docs: write FAQ section
 0609. 🐛 fix: handle 500 error in quiz API
 0955. 🔧 refactor: remove redundant code blocks
+0875. ✅ test: increase coverage on auth module
