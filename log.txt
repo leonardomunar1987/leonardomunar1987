@@ -939,3 +939,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0875. ✅ test: increase coverage on auth module
 0291. 📚 docs: write FAQ section
+0053. ✅ test: increase coverage on auth module
