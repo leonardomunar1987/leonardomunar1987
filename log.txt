@@ -950,3 +950,4 @@
 0695. ✨ feat: create admin dashboard
 0110. 🐛 fix: prevent crash on empty input
 0766. 🎨 style: reformat files with black
+0188. 🎨 style: apply consistent indentation
