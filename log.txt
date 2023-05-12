@@ -953,3 +953,4 @@
 0188. 🎨 style: apply consistent indentation
 0998. 🐛 fix: fix null pointer exception on login
 0887. 📚 docs: add API usage examples
+0542. 🔧 refactor: organize models into subfolders
