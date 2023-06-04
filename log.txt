@@ -961,3 +961,4 @@
 0729. 🔧 refactor: refactor quiz grading logic
 0390. 🎨 style: standardize quote style
 0726. ✨ feat: enable dark mode toggle
+0170. ✅ test: increase coverage on auth module
