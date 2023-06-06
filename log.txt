@@ -962,3 +962,4 @@
 0390. 🎨 style: standardize quote style
 0726. ✨ feat: enable dark mode toggle
 0170. ✅ test: increase coverage on auth module
+0418. ✅ test: mock database connection in test suite
