@@ -965,3 +965,4 @@
 0418. ✅ test: mock database connection in test suite
 0993. ✨ feat: implement quiz timer feature
 0852. ✨ feat: enable dark mode toggle
+0641. 📚 docs: write FAQ section
