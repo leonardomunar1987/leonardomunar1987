@@ -966,3 +966,4 @@
 0993. ✨ feat: implement quiz timer feature
 0852. ✨ feat: enable dark mode toggle
 0641. 📚 docs: write FAQ section
+0316. 🐛 fix: fix broken CSS in mobile view
