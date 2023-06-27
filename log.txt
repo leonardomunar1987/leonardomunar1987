@@ -970,3 +970,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0681. ✨ feat: create admin dashboard
 0174. 📚 docs: clarify environment setup
+0436. ✅ test: add integration test for /submit endpoint
