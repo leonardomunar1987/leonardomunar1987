@@ -972,3 +972,4 @@
 0174. 📚 docs: clarify environment setup
 0436. ✅ test: add integration test for /submit endpoint
 0447. ♻️ chore: bump dependencies
+0043. ✅ test: add integration test for /submit endpoint
