@@ -975,3 +975,4 @@
 0043. ✅ test: add integration test for /submit endpoint
 0308. 🚀 perf: reduce image load time
 0774. 🔧 refactor: refactor quiz grading logic
+0443. 🎨 style: standardize quote style
