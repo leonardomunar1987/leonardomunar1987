@@ -976,3 +976,4 @@
 0308. 🚀 perf: reduce image load time
 0774. 🔧 refactor: refactor quiz grading logic
 0443. 🎨 style: standardize quote style
+0386. 🚀 perf: optimize database query for quiz results
