@@ -982,3 +982,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0317. ✅ test: test user registration edge cases
 0429. ✨ feat: add user authentication
+0383. 🐛 fix: fix broken CSS in mobile view
