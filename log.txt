@@ -983,3 +983,4 @@
 0317. ✅ test: test user registration edge cases
 0429. ✨ feat: add user authentication
 0383. 🐛 fix: fix broken CSS in mobile view
+0149. ✨ feat: add export to CSV option
