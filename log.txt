@@ -988,3 +988,4 @@
 0016. 🎨 style: apply consistent indentation
 0832. 🔧 refactor: remove redundant code blocks
 0512. 🚀 perf: reduce image load time
+0395. 📚 docs: write FAQ section
