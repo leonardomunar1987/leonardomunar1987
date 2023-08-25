@@ -993,3 +993,4 @@
 0244. ✨ feat: add export to CSV option
 0915. 🚀 perf: cache repeated calculations
 0290. ✅ test: test user registration edge cases
+0996. ✅ test: test user registration edge cases
