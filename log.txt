@@ -996,3 +996,4 @@
 0996. ✅ test: test user registration edge cases
 0478. 🐛 fix: resolve issue with date parsing
 0480. ♻️ chore: add GitHub actions badge
+0630. 🚀 perf: lazy-load components
