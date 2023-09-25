@@ -1000,3 +1000,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0671. 🐛 fix: fix null pointer exception on login
 0895. ✨ feat: support email verification
+0647. 🐛 fix: prevent crash on empty input
