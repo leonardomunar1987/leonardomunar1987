@@ -1004,3 +1004,4 @@
 0155. ✨ feat: create admin dashboard
 0613. 🐛 fix: prevent crash on empty input
 0634. 🎨 style: reformat files with black
+0666. 🐛 fix: fix broken CSS in mobile view
