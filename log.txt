@@ -1017,3 +1017,4 @@
 0416. 🎨 style: rename variables for clarity
 0405. ✅ test: mock database connection in test suite
 0555. ✨ feat: create admin dashboard
+0871. ✅ test: add integration test for /submit endpoint
