@@ -76,3 +76,4 @@
 0082. 🔧 refactor: refactor quiz grading logic
 0044. ✅ test: add unit test for quiz service
 0485. 📚 docs: update README with setup steps
+0981. 🚀 perf: lazy-load components
