@@ -78,3 +78,4 @@
 0485. 📚 docs: update README with setup steps
 0981. 🚀 perf: lazy-load components
 0088. 📚 docs: add API usage examples
+0823. ✨ feat: add user authentication
