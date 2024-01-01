@@ -1027,3 +1027,4 @@
 0139. 📚 docs: document token refresh logic
 0202. 🔧 refactor: refactor quiz grading logic
 0352. ✨ feat: add export to CSV option
+0372. ✨ feat: add user authentication
