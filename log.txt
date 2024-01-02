@@ -1278,3 +1278,4 @@
 0661. ✅ test: add integration test for /submit endpoint
 0723. 🔧 refactor: remove redundant code blocks
 0946. ✅ test: add unit test for quiz service
+0967. ♻️ chore: add GitHub actions badge
