@@ -1287,3 +1287,4 @@
 0642. 🚀 perf: optimize database query for quiz results
 0324. 📚 docs: document token refresh logic
 0851. ✅ test: mock database connection in test suite
+0781. 🚀 perf: reduce image load time
