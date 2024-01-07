@@ -2278,3 +2278,4 @@
 0529. 📚 docs: write FAQ section
 0140. 🐛 fix: handle 500 error in quiz API
 0310. 🔧 refactor: refactor quiz grading logic
+0083. 🎨 style: reformat files with black
