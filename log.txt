@@ -1290,3 +1290,4 @@
 0781. 🚀 perf: reduce image load time
 0626. 🎨 style: standardize quote style
 0045. 🎨 style: apply consistent indentation
+0558. ✨ feat: enable dark mode toggle
