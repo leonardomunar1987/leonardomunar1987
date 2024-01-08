@@ -2280,3 +2280,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0083. 🎨 style: reformat files with black
 0607. 🐛 fix: prevent crash on empty input
+0521. 🎨 style: standardize quote style
