@@ -2279,3 +2279,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0310. 🔧 refactor: refactor quiz grading logic
 0083. 🎨 style: reformat files with black
+0607. 🐛 fix: prevent crash on empty input
