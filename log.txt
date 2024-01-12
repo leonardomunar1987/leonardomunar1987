@@ -2287,3 +2287,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0741. 🎨 style: apply consistent indentation
 0608. 🔧 refactor: remove redundant code blocks
+0368. 🚀 perf: lazy-load components
