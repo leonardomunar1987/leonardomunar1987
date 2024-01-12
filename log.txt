@@ -2289,3 +2289,4 @@
 0608. 🔧 refactor: remove redundant code blocks
 0368. 🚀 perf: lazy-load components
 0356. 📚 docs: write FAQ section
+0843. 📚 docs: document token refresh logic
