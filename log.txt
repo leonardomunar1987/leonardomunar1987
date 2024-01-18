@@ -2294,3 +2294,4 @@
 0692. ✅ test: add integration test for /submit endpoint
 0109. 🚀 perf: lazy-load components
 0480. ♻️ chore: add GitHub actions badge
+0075. ✅ test: mock database connection in test suite
