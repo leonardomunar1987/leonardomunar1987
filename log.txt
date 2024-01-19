@@ -2296,3 +2296,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0075. ✅ test: mock database connection in test suite
 0230. ✨ feat: create admin dashboard
+0959. 🐛 fix: fix null pointer exception on login
