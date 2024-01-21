@@ -1310,3 +1310,4 @@
 0570. 🎨 style: apply consistent indentation
 0819. 🚀 perf: reduce image load time
 0826. 📚 docs: clarify environment setup
+0605. ✨ feat: support email verification
