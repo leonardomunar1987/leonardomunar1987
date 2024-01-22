@@ -1312,3 +1312,4 @@
 0826. 📚 docs: clarify environment setup
 0605. ✨ feat: support email verification
 0494. 🎨 style: rename variables for clarity
+0242. ♻️ chore: clean up unused files
