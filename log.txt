@@ -1314,3 +1314,4 @@
 0494. 🎨 style: rename variables for clarity
 0242. ♻️ chore: clean up unused files
 0082. 🔧 refactor: refactor quiz grading logic
+0546. 🐛 fix: fix null pointer exception on login
