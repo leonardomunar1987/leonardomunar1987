@@ -1318,3 +1318,4 @@
 0137. 🎨 style: rename variables for clarity
 0191. 🔧 refactor: refactor quiz grading logic
 0696. 🔧 refactor: clean up auth middleware
+0426. ✅ test: add integration test for /submit endpoint
