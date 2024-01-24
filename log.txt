@@ -2300,3 +2300,4 @@
 0188. 🎨 style: apply consistent indentation
 0486. ✨ feat: add export to CSV option
 0773. 📚 docs: document token refresh logic
+0349. ✅ test: increase coverage on auth module
