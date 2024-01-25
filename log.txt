@@ -2301,3 +2301,4 @@
 0486. ✨ feat: add export to CSV option
 0773. 📚 docs: document token refresh logic
 0349. ✅ test: increase coverage on auth module
+0715. ✨ feat: create admin dashboard
