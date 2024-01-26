@@ -1321,3 +1321,4 @@
 0426. ✅ test: add integration test for /submit endpoint
 0934. ✨ feat: support email verification
 0968. 🎨 style: standardize quote style
+0342. 🚀 perf: cache repeated calculations
