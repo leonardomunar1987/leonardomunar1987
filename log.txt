@@ -1325,3 +1325,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0587. 🔧 refactor: remove redundant code blocks
 0695. ✨ feat: create admin dashboard
+0663. 🚀 perf: reduce image load time
