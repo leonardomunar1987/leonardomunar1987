@@ -2319,3 +2319,4 @@
 0005. ✅ test: add unit test for quiz service
 0181. ♻️ chore: add GitHub actions badge
 0101. 📚 docs: clarify environment setup
+0699. 🎨 style: standardize quote style
