@@ -1330,3 +1330,4 @@
 0519. 📚 docs: document token refresh logic
 0009. ✨ feat: enable dark mode toggle
 0385. ♻️ chore: clean up unused files
+0914. ✅ test: test user registration edge cases
