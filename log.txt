@@ -1333,3 +1333,4 @@
 0914. ✅ test: test user registration edge cases
 0463. 🚀 perf: reduce image load time
 0807. 🔧 refactor: remove redundant code blocks
+0362. 📚 docs: add API usage examples
