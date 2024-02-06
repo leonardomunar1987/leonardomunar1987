@@ -2321,3 +2321,4 @@
 0101. 📚 docs: clarify environment setup
 0699. 🎨 style: standardize quote style
 0274. 🔧 refactor: refactor quiz grading logic
+0348. ✅ test: test user registration edge cases
