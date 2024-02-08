@@ -1039,3 +1039,4 @@
 0539. 🔧 refactor: organize models into subfolders
 0759. 🔧 refactor: organize models into subfolders
 0098. 🎨 style: rename variables for clarity
+0122. ✨ feat: support email verification
