@@ -2327,3 +2327,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0425. 🔧 refactor: refactor quiz grading logic
 0113. ✨ feat: add user authentication
+0646. ✅ test: test user registration edge cases
