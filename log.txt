@@ -2329,3 +2329,4 @@
 0113. ✨ feat: add user authentication
 0646. ✅ test: test user registration edge cases
 0627. 📚 docs: document token refresh logic
+0977. 🔧 refactor: organize models into subfolders
