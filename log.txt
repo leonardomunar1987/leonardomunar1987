@@ -1345,3 +1345,4 @@
 0758. 🚀 perf: optimize database query for quiz results
 0170. ✅ test: increase coverage on auth module
 0171. 🐛 fix: fix broken CSS in mobile view
+0129. 🔧 refactor: organize models into subfolders
