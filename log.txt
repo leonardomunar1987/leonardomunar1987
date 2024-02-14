@@ -1349,3 +1349,4 @@
 0194. 🎨 style: standardize quote style
 0079. 🐛 fix: correct typo in registration form
 0149. ✨ feat: add export to CSV option
+0592. 📚 docs: add API usage examples
