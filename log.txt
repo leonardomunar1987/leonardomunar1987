@@ -1041,3 +1041,4 @@
 0098. 🎨 style: rename variables for clarity
 0122. ✨ feat: support email verification
 0209. ✨ feat: implement quiz timer feature
+0793. 📚 docs: clarify environment setup
