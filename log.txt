@@ -1353,3 +1353,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0091. ✨ feat: add user authentication
 0359. 🔧 refactor: clean up auth middleware
+0341. 🚀 perf: lazy-load components
