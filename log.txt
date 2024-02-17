@@ -1351,3 +1351,4 @@
 0149. ✨ feat: add export to CSV option
 0592. 📚 docs: add API usage examples
 0107. 🐛 fix: prevent crash on empty input
+0091. ✨ feat: add user authentication
