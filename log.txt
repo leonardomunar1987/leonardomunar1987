@@ -2334,3 +2334,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0330. ✅ test: test user registration edge cases
 0092. 🚀 perf: reduce image load time
+0621. 🔧 refactor: clean up auth middleware
