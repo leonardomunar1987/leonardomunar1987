@@ -1357,3 +1357,4 @@
 0454. ♻️ chore: bump dependencies
 0831. 📚 docs: clarify environment setup
 0361. ✨ feat: support email verification
+0383. 🐛 fix: fix broken CSS in mobile view
