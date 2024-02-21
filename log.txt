@@ -1360,3 +1360,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0056. ♻️ chore: rename env.example
 0167. 🚀 perf: reduce image load time
+0138. 🎨 style: rename variables for clarity
