@@ -1366,3 +1366,4 @@
 0403. ✅ test: mock database connection in test suite
 0930. 🎨 style: apply consistent indentation
 0230. ✨ feat: create admin dashboard
+0441. 📚 docs: add API usage examples
