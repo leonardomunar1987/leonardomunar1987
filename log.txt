@@ -2340,3 +2340,4 @@
 0091. ✨ feat: add user authentication
 0131. 📚 docs: write FAQ section
 0617. ✨ feat: support email verification
+0243. 🔧 refactor: clean up auth middleware
