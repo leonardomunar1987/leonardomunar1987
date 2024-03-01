@@ -99,3 +99,4 @@
 0599. ✅ test: test user registration edge cases
 0894. ✅ test: add integration test for /submit endpoint
 0220. 🐛 fix: fix null pointer exception on login
+0786. ✨ feat: enable dark mode toggle
