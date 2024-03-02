@@ -1381,3 +1381,4 @@
 0106. 🎨 style: reformat files with black
 0560. 🎨 style: rename variables for clarity
 0390. 🎨 style: standardize quote style
+0049. 🐛 fix: handle 500 error in quiz API
