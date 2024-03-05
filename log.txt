@@ -1383,3 +1383,4 @@
 0390. 🎨 style: standardize quote style
 0049. 🐛 fix: handle 500 error in quiz API
 0538. 🐛 fix: fix broken CSS in mobile view
+0977. 🔧 refactor: organize models into subfolders
