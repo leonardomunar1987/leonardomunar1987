@@ -2351,3 +2351,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0998. 🐛 fix: fix null pointer exception on login
 0469. 🚀 perf: lazy-load components
+0372. ✨ feat: add user authentication
