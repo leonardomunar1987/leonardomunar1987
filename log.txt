@@ -1388,3 +1388,4 @@
 0992. ♻️ chore: clean up unused files
 0457. 🐛 fix: handle 500 error in quiz API
 0702. ✨ feat: add user authentication
+0085. ✨ feat: support email verification
