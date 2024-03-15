@@ -1399,3 +1399,4 @@
 0377. ✨ feat: add user authentication
 0018. 🔧 refactor: organize models into subfolders
 0397. 🐛 fix: handle 500 error in quiz API
+0281. ✨ feat: support email verification
