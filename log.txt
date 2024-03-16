@@ -1401,3 +1401,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0281. ✨ feat: support email verification
 0253. 📚 docs: update README with setup steps
+0256. ✅ test: mock database connection in test suite
