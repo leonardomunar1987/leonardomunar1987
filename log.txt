@@ -1416,3 +1416,4 @@
 0298. ♻️ chore: update .gitignore
 0289. 🐛 fix: resolve issue with date parsing
 0420. 🚀 perf: reduce image load time
+0820. 📚 docs: add API usage examples
