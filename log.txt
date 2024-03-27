@@ -1049,3 +1049,4 @@
 0463. 🚀 perf: reduce image load time
 0082. 🔧 refactor: refactor quiz grading logic
 0354. 📚 docs: add API usage examples
+0467. ✅ test: add integration test for /submit endpoint
