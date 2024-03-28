@@ -2373,3 +2373,4 @@
 0369. 🎨 style: standardize quote style
 0288. 🔧 refactor: refactor quiz grading logic
 0973. 🔧 refactor: organize models into subfolders
+0553. 🐛 fix: correct typo in registration form
