@@ -1420,3 +1420,4 @@
 0644. 🎨 style: apply consistent indentation
 0245. 🐛 fix: resolve issue with date parsing
 0338. ♻️ chore: add GitHub actions badge
+0582. ✨ feat: add export to CSV option
