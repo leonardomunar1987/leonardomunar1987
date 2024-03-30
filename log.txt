@@ -2378,3 +2378,4 @@
 0501. ✨ feat: add export to CSV option
 0738. 🐛 fix: prevent crash on empty input
 0376. 🎨 style: apply consistent indentation
+0592. 📚 docs: add API usage examples
