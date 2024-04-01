@@ -1424,3 +1424,4 @@
 0336. ✨ feat: add export to CSV option
 0862. ♻️ chore: bump dependencies
 0427. ✅ test: mock database connection in test suite
+0635. 🎨 style: apply consistent indentation
