@@ -1427,3 +1427,4 @@
 0635. 🎨 style: apply consistent indentation
 0296. 🔧 refactor: organize models into subfolders
 0659. 📚 docs: add API usage examples
+0451. ✨ feat: support email verification
