@@ -2389,3 +2389,4 @@
 0572. ✨ feat: add user authentication
 0266. 🔧 refactor: remove redundant code blocks
 0468. 📚 docs: update README with setup steps
+0251. ♻️ chore: update .gitignore
