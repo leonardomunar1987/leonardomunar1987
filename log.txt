@@ -1436,3 +1436,4 @@
 0868. ✅ test: add unit test for quiz service
 0937. 🐛 fix: handle 500 error in quiz API
 0778. 📚 docs: write FAQ section
+0346. ✅ test: mock database connection in test suite
