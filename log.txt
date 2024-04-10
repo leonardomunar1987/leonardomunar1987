@@ -2397,3 +2397,4 @@
 0960. ✅ test: increase coverage on auth module
 0353. ♻️ chore: rename env.example
 0885. ♻️ chore: update .gitignore
+0441. 📚 docs: add API usage examples
