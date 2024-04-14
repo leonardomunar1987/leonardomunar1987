@@ -2405,3 +2405,4 @@
 0334. 🚀 perf: cache repeated calculations
 0438. ♻️ chore: bump dependencies
 0061. ✨ feat: create admin dashboard
+0565. ♻️ chore: add GitHub actions badge
