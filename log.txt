@@ -2408,3 +2408,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0295. 🎨 style: remove trailing whitespace
 0705. 🔧 refactor: refactor quiz grading logic
+0911. ✅ test: increase coverage on auth module
