@@ -1445,3 +1445,4 @@
 0356. 📚 docs: write FAQ section
 0906. 📚 docs: add API usage examples
 0254. 🚀 perf: reduce image load time
+0181. ♻️ chore: add GitHub actions badge
