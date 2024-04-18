@@ -1453,3 +1453,4 @@
 0954. 🚀 perf: cache repeated calculations
 0896. 🚀 perf: reduce image load time
 0179. 🔧 refactor: split large controller into smaller functions
+0307. ✨ feat: support email verification
