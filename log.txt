@@ -2413,3 +2413,4 @@
 0226. 🚀 perf: lazy-load components
 0313. 🎨 style: apply consistent indentation
 0697. ♻️ chore: bump dependencies
+0362. 📚 docs: add API usage examples
