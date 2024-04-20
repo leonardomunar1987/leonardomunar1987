@@ -2419,3 +2419,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0263. 📚 docs: add API usage examples
 0663. 🚀 perf: reduce image load time
+0397. 🐛 fix: handle 500 error in quiz API
