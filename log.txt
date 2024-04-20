@@ -2420,3 +2420,4 @@
 0263. 📚 docs: add API usage examples
 0663. 🚀 perf: reduce image load time
 0397. 🐛 fix: handle 500 error in quiz API
+0701. 🔧 refactor: clean up auth middleware
