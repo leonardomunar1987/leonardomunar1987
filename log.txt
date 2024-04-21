@@ -109,3 +109,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0180. ✨ feat: add export to CSV option
 0637. 🎨 style: apply consistent indentation
+0556. ✨ feat: support email verification
