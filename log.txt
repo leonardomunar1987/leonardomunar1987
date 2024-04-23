@@ -1457,3 +1457,4 @@
 0882. 🚀 perf: optimize database query for quiz results
 0628. ♻️ chore: add GitHub actions badge
 0110. 🐛 fix: prevent crash on empty input
+0212. 🎨 style: standardize quote style
