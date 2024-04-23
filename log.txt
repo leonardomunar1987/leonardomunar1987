@@ -2422,3 +2422,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0701. 🔧 refactor: clean up auth middleware
 0097. 🐛 fix: handle 500 error in quiz API
+0571. 🔧 refactor: clean up auth middleware
