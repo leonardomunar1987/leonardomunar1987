@@ -111,3 +111,4 @@
 0637. 🎨 style: apply consistent indentation
 0556. ✨ feat: support email verification
 0073. 🔧 refactor: split large controller into smaller functions
+0112. ✨ feat: enable dark mode toggle
