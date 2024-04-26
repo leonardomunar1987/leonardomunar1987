@@ -1462,3 +1462,4 @@
 0795. 📚 docs: update README with setup steps
 0863. 🐛 fix: correct typo in registration form
 0809. ♻️ chore: rename env.example
+0402. 🎨 style: reformat files with black
