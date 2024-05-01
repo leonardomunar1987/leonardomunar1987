@@ -2431,3 +2431,4 @@
 0053. ✅ test: increase coverage on auth module
 0126. 🎨 style: rename variables for clarity
 0742. 📚 docs: clarify environment setup
+0281. ✨ feat: support email verification
