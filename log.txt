@@ -1470,3 +1470,4 @@
 0915. 🚀 perf: cache repeated calculations
 0925. ✨ feat: add export to CSV option
 0710. 🐛 fix: fix broken CSS in mobile view
+0238. 🎨 style: apply consistent indentation
