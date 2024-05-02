@@ -1472,3 +1472,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0238. 🎨 style: apply consistent indentation
 0556. ✨ feat: support email verification
+0308. 🚀 perf: reduce image load time
