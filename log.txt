@@ -2433,3 +2433,4 @@
 0742. 📚 docs: clarify environment setup
 0281. ✨ feat: support email verification
 0910. 🎨 style: remove trailing whitespace
+0595. ✨ feat: enable dark mode toggle
