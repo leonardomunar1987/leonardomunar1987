@@ -1473,3 +1473,4 @@
 0238. 🎨 style: apply consistent indentation
 0556. ✨ feat: support email verification
 0308. 🚀 perf: reduce image load time
+0186. ✅ test: test user registration edge cases
