@@ -1474,3 +1474,4 @@
 0556. ✨ feat: support email verification
 0308. 🚀 perf: reduce image load time
 0186. ✅ test: test user registration edge cases
+0228. 🔧 refactor: remove redundant code blocks
