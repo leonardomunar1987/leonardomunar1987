@@ -1479,3 +1479,4 @@
 0741. 🎨 style: apply consistent indentation
 0428. 🐛 fix: fix null pointer exception on login
 0432. 🎨 style: apply consistent indentation
+0239. 🎨 style: standardize quote style
