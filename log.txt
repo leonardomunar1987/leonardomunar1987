@@ -2438,3 +2438,4 @@
 0965. 🎨 style: reformat files with black
 0675. 🔧 refactor: organize models into subfolders
 0371. ✅ test: add integration test for /submit endpoint
+0673. 🐛 fix: correct typo in registration form
