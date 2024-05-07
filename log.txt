@@ -1482,3 +1482,4 @@
 0239. 🎨 style: standardize quote style
 0222. 🐛 fix: handle 500 error in quiz API
 0993. ✨ feat: implement quiz timer feature
+0522. 🐛 fix: handle 500 error in quiz API
