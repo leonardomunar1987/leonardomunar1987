@@ -1483,3 +1483,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0993. ✨ feat: implement quiz timer feature
 0522. 🐛 fix: handle 500 error in quiz API
+0647. 🐛 fix: prevent crash on empty input
