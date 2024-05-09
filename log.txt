@@ -1485,3 +1485,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0647. 🐛 fix: prevent crash on empty input
 0189. 📚 docs: clarify environment setup
+0899. 🚀 perf: cache repeated calculations
