@@ -1491,3 +1491,4 @@
 0872. 🎨 style: rename variables for clarity
 0135. ✅ test: test user registration edge cases
 0516. ✅ test: add unit test for quiz service
+0996. ✅ test: test user registration edge cases
