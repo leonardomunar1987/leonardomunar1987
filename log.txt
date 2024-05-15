@@ -1494,3 +1494,4 @@
 0996. ✅ test: test user registration edge cases
 0389. 📚 docs: improve code comments in utils
 0265. 🎨 style: reformat files with black
+0005. ✅ test: add unit test for quiz service
