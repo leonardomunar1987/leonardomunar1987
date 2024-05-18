@@ -117,3 +117,4 @@
 0099. 🚀 perf: reduce image load time
 0960. ✅ test: increase coverage on auth module
 0023. 📚 docs: clarify environment setup
+0545. 🎨 style: standardize quote style
