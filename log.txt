@@ -1063,3 +1063,4 @@
 0530. 🔧 refactor: refactor quiz grading logic
 0071. 🔧 refactor: refactor quiz grading logic
 0183. 🔧 refactor: split large controller into smaller functions
+0934. ✨ feat: support email verification
