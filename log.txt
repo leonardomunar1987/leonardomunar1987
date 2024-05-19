@@ -1497,3 +1497,4 @@
 0005. ✅ test: add unit test for quiz service
 0810. 🔧 refactor: refactor quiz grading logic
 0203. 🚀 perf: lazy-load components
+0372. ✨ feat: add user authentication
