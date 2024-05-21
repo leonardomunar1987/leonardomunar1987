@@ -1500,3 +1500,4 @@
 0372. ✨ feat: add user authentication
 0725. 🚀 perf: lazy-load components
 0332. 🎨 style: standardize quote style
+0911. ✅ test: increase coverage on auth module
