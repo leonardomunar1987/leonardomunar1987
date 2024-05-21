@@ -2457,3 +2457,4 @@
 0192. ✨ feat: enable dark mode toggle
 0562. 🔧 refactor: clean up auth middleware
 0881. 🔧 refactor: split large controller into smaller functions
+0387. ✨ feat: enable dark mode toggle
