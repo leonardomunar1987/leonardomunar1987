@@ -2462,3 +2462,4 @@
 0015. ✨ feat: implement quiz timer feature
 0322. 🔧 refactor: split large controller into smaller functions
 0823. ✨ feat: add user authentication
+0105. 🐛 fix: correct typo in registration form
