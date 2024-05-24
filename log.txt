@@ -1502,3 +1502,4 @@
 0332. 🎨 style: standardize quote style
 0911. ✅ test: increase coverage on auth module
 0368. 🚀 perf: lazy-load components
+0237. 🎨 style: standardize quote style
