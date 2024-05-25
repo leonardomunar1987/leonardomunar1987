@@ -2463,3 +2463,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0823. ✨ feat: add user authentication
 0105. 🐛 fix: correct typo in registration form
+0393. 🚀 perf: lazy-load components
