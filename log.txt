@@ -1068,3 +1068,4 @@
 0351. ✨ feat: add export to CSV option
 0528. ♻️ chore: clean up unused files
 0643. 🎨 style: apply consistent indentation
+0100. ♻️ chore: update .gitignore
