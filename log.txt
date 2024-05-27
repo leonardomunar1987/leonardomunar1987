@@ -120,3 +120,4 @@
 0545. 🎨 style: standardize quote style
 0133. 🐛 fix: fix null pointer exception on login
 0309. 🔧 refactor: refactor quiz grading logic
+0496. ✅ test: add integration test for /submit endpoint
