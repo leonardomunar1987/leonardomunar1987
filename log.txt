@@ -1507,3 +1507,4 @@
 0314. ✨ feat: implement quiz timer feature
 0686. 🎨 style: standardize quote style
 0486. ✨ feat: add export to CSV option
+0109. 🚀 perf: lazy-load components
