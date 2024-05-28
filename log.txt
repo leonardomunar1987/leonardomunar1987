@@ -2469,3 +2469,4 @@
 0991. ♻️ chore: clean up unused files
 0768. 🎨 style: remove trailing whitespace
 0435. ✅ test: add unit test for quiz service
+0524. ♻️ chore: rename env.example
