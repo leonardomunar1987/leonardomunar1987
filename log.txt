@@ -2472,3 +2472,4 @@
 0524. ♻️ chore: rename env.example
 0017. ✅ test: mock database connection in test suite
 0473. 📚 docs: write FAQ section
+0982. 🚀 perf: lazy-load components
