@@ -2475,3 +2475,4 @@
 0982. 🚀 perf: lazy-load components
 0365. 🚀 perf: reduce image load time
 0431. 🎨 style: reformat files with black
+0290. ✅ test: test user registration edge cases
