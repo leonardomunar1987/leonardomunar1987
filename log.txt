@@ -2477,3 +2477,4 @@
 0431. 🎨 style: reformat files with black
 0290. ✅ test: test user registration edge cases
 0037. 🐛 fix: correct typo in registration form
+0596. ♻️ chore: update .gitignore
