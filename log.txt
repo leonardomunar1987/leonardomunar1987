@@ -1515,3 +1515,4 @@
 0808. 🚀 perf: optimize database query for quiz results
 0730. ✅ test: test user registration edge cases
 0950. 🎨 style: reformat files with black
+0335. ♻️ chore: update .gitignore
