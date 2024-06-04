@@ -1516,3 +1516,4 @@
 0730. ✅ test: test user registration edge cases
 0950. 🎨 style: reformat files with black
 0335. ♻️ chore: update .gitignore
+0399. ✅ test: mock database connection in test suite
