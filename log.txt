@@ -1070,3 +1070,4 @@
 0643. 🎨 style: apply consistent indentation
 0100. ♻️ chore: update .gitignore
 0506. 🐛 fix: handle 500 error in quiz API
+0519. 📚 docs: document token refresh logic
