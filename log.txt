@@ -2484,3 +2484,4 @@
 0412. ✅ test: increase coverage on auth module
 0185. 📚 docs: write FAQ section
 0312. ✨ feat: add user authentication
+0685. ✅ test: test user registration edge cases
