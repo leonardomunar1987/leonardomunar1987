@@ -1521,3 +1521,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0364. 🐛 fix: resolve issue with date parsing
 0970. ♻️ chore: update .gitignore
+0976. ✨ feat: implement quiz timer feature
