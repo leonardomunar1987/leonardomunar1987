@@ -1524,3 +1524,4 @@
 0976. ✨ feat: implement quiz timer feature
 0607. 🐛 fix: prevent crash on empty input
 0512. 🚀 perf: reduce image load time
+0220. 🐛 fix: fix null pointer exception on login
