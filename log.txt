@@ -2494,3 +2494,4 @@
 0078. ♻️ chore: update .gitignore
 0329. 📚 docs: update README with setup steps
 0563. 📚 docs: clarify environment setup
+0327. 🔧 refactor: split large controller into smaller functions
