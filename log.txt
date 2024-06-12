@@ -1527,3 +1527,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0610. 🚀 perf: lazy-load components
 0533. ♻️ chore: add GitHub actions badge
+0904. ✨ feat: implement quiz timer feature
