@@ -1532,3 +1532,4 @@
 0232. 🎨 style: apply consistent indentation
 0312. ✨ feat: add user authentication
 0718. 🐛 fix: resolve issue with date parsing
+0834. ✅ test: increase coverage on auth module
