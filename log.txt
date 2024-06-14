@@ -2498,3 +2498,4 @@
 0626. 🎨 style: standardize quote style
 0629. 🔧 refactor: organize models into subfolders
 0984. ♻️ chore: clean up unused files
+0507. 🔧 refactor: clean up auth middleware
