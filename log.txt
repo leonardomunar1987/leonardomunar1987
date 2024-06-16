@@ -2505,3 +2505,4 @@
 0112. ✨ feat: enable dark mode toggle
 0381. ♻️ chore: clean up unused files
 0587. 🔧 refactor: remove redundant code blocks
+0167. 🚀 perf: reduce image load time
