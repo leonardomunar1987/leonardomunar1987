@@ -2507,3 +2507,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0167. 🚀 perf: reduce image load time
 0552. 🐛 fix: fix null pointer exception on login
+0450. 🐛 fix: fix broken CSS in mobile view
