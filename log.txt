@@ -2506,3 +2506,4 @@
 0381. ♻️ chore: clean up unused files
 0587. 🔧 refactor: remove redundant code blocks
 0167. 🚀 perf: reduce image load time
+0552. 🐛 fix: fix null pointer exception on login
