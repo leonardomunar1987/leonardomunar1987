@@ -2509,3 +2509,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0450. 🐛 fix: fix broken CSS in mobile view
 0062. ♻️ chore: update .gitignore
+0213. ✅ test: add integration test for /submit endpoint
