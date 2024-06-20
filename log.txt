@@ -129,3 +129,4 @@
 0458. ✨ feat: create admin dashboard
 0633. ✨ feat: add user authentication
 0122. ✨ feat: support email verification
+0092. 🚀 perf: reduce image load time
