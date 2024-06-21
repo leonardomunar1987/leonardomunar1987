@@ -2510,3 +2510,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0062. ♻️ chore: update .gitignore
 0213. ✅ test: add integration test for /submit endpoint
+0415. 🐛 fix: handle 500 error in quiz API
