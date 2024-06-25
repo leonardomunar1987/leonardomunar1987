@@ -1547,3 +1547,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0736. 🐛 fix: fix null pointer exception on login
 0909. 🔧 refactor: organize models into subfolders
+0210. 🎨 style: apply consistent indentation
