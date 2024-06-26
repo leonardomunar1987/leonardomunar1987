@@ -1548,3 +1548,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0909. 🔧 refactor: organize models into subfolders
 0210. 🎨 style: apply consistent indentation
+0392. 🎨 style: remove trailing whitespace
