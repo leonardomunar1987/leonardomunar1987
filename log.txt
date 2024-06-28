@@ -1554,3 +1554,4 @@
 0474. ✅ test: add unit test for quiz service
 0791. 🔧 refactor: clean up auth middleware
 0384. 📚 docs: clarify environment setup
+0473. 📚 docs: write FAQ section
