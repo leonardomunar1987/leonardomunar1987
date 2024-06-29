@@ -2520,3 +2520,4 @@
 0923. ✨ feat: support email verification
 0744. 🔧 refactor: remove redundant code blocks
 0147. ♻️ chore: bump dependencies
+0054. ♻️ chore: update .gitignore
