@@ -1555,3 +1555,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0384. 📚 docs: clarify environment setup
 0473. 📚 docs: write FAQ section
+0345. 📚 docs: document token refresh logic
