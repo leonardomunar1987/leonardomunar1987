@@ -1558,3 +1558,4 @@
 0345. 📚 docs: document token refresh logic
 0555. ✨ feat: create admin dashboard
 0544. 🔧 refactor: organize models into subfolders
+0160. ♻️ chore: bump dependencies
