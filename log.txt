@@ -130,3 +130,4 @@
 0633. ✨ feat: add user authentication
 0122. ✨ feat: support email verification
 0092. 🚀 perf: reduce image load time
+0926. 🔧 refactor: organize models into subfolders
