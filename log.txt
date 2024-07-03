@@ -1563,3 +1563,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0584. 🚀 perf: lazy-load components
 0617. ✨ feat: support email verification
+1000. ✅ test: increase coverage on auth module
