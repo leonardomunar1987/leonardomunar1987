@@ -131,3 +131,4 @@
 0122. ✨ feat: support email verification
 0092. 🚀 perf: reduce image load time
 0926. 🔧 refactor: organize models into subfolders
+0235. 🐛 fix: fix null pointer exception on login
