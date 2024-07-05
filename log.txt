@@ -1564,3 +1564,4 @@
 0584. 🚀 perf: lazy-load components
 0617. ✨ feat: support email verification
 1000. ✅ test: increase coverage on auth module
+0898. 🐛 fix: fix broken CSS in mobile view
