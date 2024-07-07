@@ -1566,3 +1566,4 @@
 1000. ✅ test: increase coverage on auth module
 0898. 🐛 fix: fix broken CSS in mobile view
 0278. 🔧 refactor: clean up auth middleware
+0330. ✅ test: test user registration edge cases
