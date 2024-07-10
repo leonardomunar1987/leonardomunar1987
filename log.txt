@@ -132,3 +132,4 @@
 0092. 🚀 perf: reduce image load time
 0926. 🔧 refactor: organize models into subfolders
 0235. 🐛 fix: fix null pointer exception on login
+0945. ♻️ chore: add GitHub actions badge
