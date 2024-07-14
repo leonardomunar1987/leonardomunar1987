@@ -2541,3 +2541,4 @@
 0782. 📚 docs: improve code comments in utils
 0887. 📚 docs: add API usage examples
 0236. 🔧 refactor: remove redundant code blocks
+0826. 📚 docs: clarify environment setup
