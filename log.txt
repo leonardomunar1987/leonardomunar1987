@@ -1576,3 +1576,4 @@
 0413. ✅ test: add integration test for /submit endpoint
 0500. ✅ test: add integration test for /submit endpoint
 0523. ♻️ chore: bump dependencies
+0673. 🐛 fix: correct typo in registration form
