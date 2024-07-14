@@ -1578,3 +1578,4 @@
 0523. ♻️ chore: bump dependencies
 0673. 🐛 fix: correct typo in registration form
 0507. 🔧 refactor: clean up auth middleware
+0817. 🔧 refactor: remove redundant code blocks
