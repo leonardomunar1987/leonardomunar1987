@@ -2544,3 +2544,4 @@
 0826. 📚 docs: clarify environment setup
 0023. 📚 docs: clarify environment setup
 0818. 🔧 refactor: remove redundant code blocks
+0018. 🔧 refactor: organize models into subfolders
