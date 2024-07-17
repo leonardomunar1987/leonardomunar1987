@@ -135,3 +135,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0377. ✨ feat: add user authentication
 0651. ✨ feat: enable dark mode toggle
+0247. 🎨 style: apply consistent indentation
