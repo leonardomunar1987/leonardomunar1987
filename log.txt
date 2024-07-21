@@ -1586,3 +1586,4 @@
 0623. 🎨 style: standardize quote style
 0637. 🎨 style: apply consistent indentation
 0998. 🐛 fix: fix null pointer exception on login
+0738. 🐛 fix: prevent crash on empty input
