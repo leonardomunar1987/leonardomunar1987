@@ -2552,3 +2552,4 @@
 0306. 🎨 style: apply consistent indentation
 0239. 🎨 style: standardize quote style
 0577. ✨ feat: implement quiz timer feature
+0794. ♻️ chore: clean up unused files
