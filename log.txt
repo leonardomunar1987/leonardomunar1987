@@ -2554,3 +2554,4 @@
 0577. ✨ feat: implement quiz timer feature
 0794. ♻️ chore: clean up unused files
 0994. 🚀 perf: reduce image load time
+0354. 📚 docs: add API usage examples
