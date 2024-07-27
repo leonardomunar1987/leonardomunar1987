@@ -2559,3 +2559,4 @@
 0971. 🎨 style: standardize quote style
 0569. 📚 docs: document token refresh logic
 0318. 🔧 refactor: refactor quiz grading logic
+0549. ✨ feat: enable dark mode toggle
