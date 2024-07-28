@@ -2560,3 +2560,4 @@
 0569. 📚 docs: document token refresh logic
 0318. 🔧 refactor: refactor quiz grading logic
 0549. ✨ feat: enable dark mode toggle
+0841. 🚀 perf: optimize database query for quiz results
