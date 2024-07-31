@@ -1597,3 +1597,4 @@
 0460. 📚 docs: write FAQ section
 0126. 🎨 style: rename variables for clarity
 0995. ✅ test: mock database connection in test suite
+0567. 📚 docs: add API usage examples
