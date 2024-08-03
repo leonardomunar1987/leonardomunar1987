@@ -2568,3 +2568,4 @@
 0730. ✅ test: test user registration edge cases
 0454. ♻️ chore: bump dependencies
 0684. 🚀 perf: reduce image load time
+0838. 🎨 style: standardize quote style
