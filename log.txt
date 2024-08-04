@@ -139,3 +139,4 @@
 0757. 🔧 refactor: remove redundant code blocks
 0994. 🚀 perf: reduce image load time
 0062. ♻️ chore: update .gitignore
+0501. ✨ feat: add export to CSV option
