@@ -2570,3 +2570,4 @@
 0684. 🚀 perf: reduce image load time
 0838. 🎨 style: standardize quote style
 0027. 📚 docs: clarify environment setup
+0844. 📚 docs: update README with setup steps
