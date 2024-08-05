@@ -141,3 +141,4 @@
 0062. ♻️ chore: update .gitignore
 0501. ✨ feat: add export to CSV option
 0455. ♻️ chore: clean up unused files
+0561. 📚 docs: write FAQ section
