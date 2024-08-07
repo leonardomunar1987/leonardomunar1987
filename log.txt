@@ -2573,3 +2573,4 @@
 0844. 📚 docs: update README with setup steps
 0021. ✨ feat: support email verification
 0584. 🚀 perf: lazy-load components
+0068. 🐛 fix: fix null pointer exception on login
