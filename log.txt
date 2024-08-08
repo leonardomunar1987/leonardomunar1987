@@ -144,3 +144,4 @@
 0561. 📚 docs: write FAQ section
 0861. ♻️ chore: clean up unused files
 0425. 🔧 refactor: refactor quiz grading logic
+0574. ✨ feat: enable dark mode toggle
