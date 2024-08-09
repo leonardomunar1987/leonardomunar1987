@@ -2575,3 +2575,4 @@
 0584. 🚀 perf: lazy-load components
 0068. 🐛 fix: fix null pointer exception on login
 0625. 🐛 fix: handle 500 error in quiz API
+0556. ✨ feat: support email verification
