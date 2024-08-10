@@ -2578,3 +2578,4 @@
 0556. ✨ feat: support email verification
 0989. 📚 docs: write FAQ section
 0969. ✨ feat: create admin dashboard
+0301. 🎨 style: apply consistent indentation
