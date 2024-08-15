@@ -2585,3 +2585,4 @@
 0732. ♻️ chore: add GitHub actions badge
 0847. ♻️ chore: clean up unused files
 0597. 🚀 perf: cache repeated calculations
+0208. 🔧 refactor: clean up auth middleware
