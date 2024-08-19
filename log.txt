@@ -148,3 +148,4 @@
 0301. 🎨 style: apply consistent indentation
 0716. ✨ feat: implement quiz timer feature
 0481. ✅ test: add unit test for quiz service
+0982. 🚀 perf: lazy-load components
