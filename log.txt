@@ -1099,3 +1099,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0314. ✨ feat: implement quiz timer feature
 0743. 🎨 style: apply consistent indentation
+0529. 📚 docs: write FAQ section
