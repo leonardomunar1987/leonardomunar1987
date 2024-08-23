@@ -1102,3 +1102,4 @@
 0529. 📚 docs: write FAQ section
 0914. ✅ test: test user registration edge cases
 0185. 📚 docs: write FAQ section
+0212. 🎨 style: standardize quote style
