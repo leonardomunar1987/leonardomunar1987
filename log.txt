@@ -2599,3 +2599,4 @@
 0670. ✨ feat: add export to CSV option
 0784. ♻️ chore: clean up unused files
 0539. 🔧 refactor: organize models into subfolders
+0722. 📚 docs: add API usage examples
