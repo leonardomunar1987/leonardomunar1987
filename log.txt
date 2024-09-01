@@ -1642,3 +1642,4 @@
 0987. ✨ feat: create admin dashboard
 0300. ✨ feat: add export to CSV option
 0601. ✨ feat: implement quiz timer feature
+0805. ♻️ chore: add GitHub actions badge
