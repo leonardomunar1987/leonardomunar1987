@@ -2612,3 +2612,4 @@
 0024. 📚 docs: write FAQ section
 0665. ♻️ chore: update .gitignore
 0462. ♻️ chore: update .gitignore
+0162. ♻️ chore: add GitHub actions badge
