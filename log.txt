@@ -153,3 +153,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0963. 🚀 perf: reduce image load time
 0735. ♻️ chore: add GitHub actions badge
+0979. 🎨 style: standardize quote style
