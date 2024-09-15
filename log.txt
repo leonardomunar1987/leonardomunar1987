@@ -1656,3 +1656,4 @@
 0798. 🚀 perf: reduce image load time
 0177. 📚 docs: add API usage examples
 0812. 🔧 refactor: refactor quiz grading logic
+0227. ✅ test: test user registration edge cases
