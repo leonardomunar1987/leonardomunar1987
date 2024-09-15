@@ -2625,3 +2625,4 @@
 0050. ✨ feat: enable dark mode toggle
 0650. ✅ test: add unit test for quiz service
 0398. 🚀 perf: cache repeated calculations
+0434. 📚 docs: document token refresh logic
