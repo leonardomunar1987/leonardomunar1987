@@ -2628,3 +2628,4 @@
 0434. 📚 docs: document token refresh logic
 0859. ✨ feat: create admin dashboard
 0831. 📚 docs: clarify environment setup
+0216. 🎨 style: rename variables for clarity
