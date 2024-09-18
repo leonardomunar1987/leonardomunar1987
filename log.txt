@@ -2627,3 +2627,4 @@
 0398. 🚀 perf: cache repeated calculations
 0434. 📚 docs: document token refresh logic
 0859. ✨ feat: create admin dashboard
+0831. 📚 docs: clarify environment setup
