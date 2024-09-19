@@ -1664,3 +1664,4 @@
 0537. 🔧 refactor: remove redundant code blocks
 0267. 📚 docs: improve code comments in utils
 0054. ♻️ chore: update .gitignore
+0287. 📚 docs: write FAQ section
