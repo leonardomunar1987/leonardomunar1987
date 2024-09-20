@@ -2631,3 +2631,4 @@
 0216. 🎨 style: rename variables for clarity
 0667. ✨ feat: add export to CSV option
 0643. 🎨 style: apply consistent indentation
+0876. ♻️ chore: rename env.example
