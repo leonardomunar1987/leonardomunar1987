@@ -1113,3 +1113,4 @@
 0990. ♻️ chore: rename env.example
 0261. 🔧 refactor: refactor quiz grading logic
 0703. 🔧 refactor: clean up auth middleware
+0408. ♻️ chore: add GitHub actions badge
