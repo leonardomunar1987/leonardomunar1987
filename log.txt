@@ -1666,3 +1666,4 @@
 0054. ♻️ chore: update .gitignore
 0287. 📚 docs: write FAQ section
 0575. ✅ test: add unit test for quiz service
+0864. 🐛 fix: correct typo in registration form
