@@ -1676,3 +1676,4 @@
 0008. 🚀 perf: reduce image load time
 0869. ♻️ chore: bump dependencies
 0061. ✨ feat: create admin dashboard
+0573. ✅ test: add integration test for /submit endpoint
