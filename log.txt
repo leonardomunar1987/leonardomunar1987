@@ -1118,3 +1118,4 @@
 0102. ✨ feat: support email verification
 0812. 🔧 refactor: refactor quiz grading logic
 0764. ✨ feat: add user authentication
+0175. 📚 docs: add API usage examples
