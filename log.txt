@@ -1680,3 +1680,4 @@
 0475. 🔧 refactor: clean up auth middleware
 0938. 🎨 style: rename variables for clarity
 0331. 🐛 fix: fix broken CSS in mobile view
+0751. 🐛 fix: handle 500 error in quiz API
