@@ -1688,3 +1688,4 @@
 0067. 🔧 refactor: remove redundant code blocks
 0867. 🔧 refactor: refactor quiz grading logic
 0097. 🐛 fix: handle 500 error in quiz API
+0543. ✨ feat: support email verification
