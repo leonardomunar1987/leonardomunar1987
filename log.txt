@@ -2646,3 +2646,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0659. 📚 docs: add API usage examples
 0801. ✨ feat: enable dark mode toggle
+0702. ✨ feat: add user authentication
