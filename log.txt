@@ -2650,3 +2650,4 @@
 0777. 📚 docs: document token refresh logic
 0076. 🎨 style: reformat files with black
 0870. ♻️ chore: clean up unused files
+0725. 🚀 perf: lazy-load components
