@@ -1702,3 +1702,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0444. ✅ test: add unit test for quiz service
 0764. ✨ feat: add user authentication
+0150. 🎨 style: remove trailing whitespace
