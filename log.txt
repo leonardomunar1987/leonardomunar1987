@@ -2651,3 +2651,4 @@
 0076. 🎨 style: reformat files with black
 0870. ♻️ chore: clean up unused files
 0725. 🚀 perf: lazy-load components
+0835. 🐛 fix: prevent crash on empty input
