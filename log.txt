@@ -1705,3 +1705,4 @@
 0150. 🎨 style: remove trailing whitespace
 0547. 📚 docs: write FAQ section
 0682. ♻️ chore: rename env.example
+0443. 🎨 style: standardize quote style
