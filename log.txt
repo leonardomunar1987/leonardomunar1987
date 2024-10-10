@@ -1706,3 +1706,4 @@
 0547. 📚 docs: write FAQ section
 0682. ♻️ chore: rename env.example
 0443. 🎨 style: standardize quote style
+0515. 🚀 perf: optimize database query for quiz results
