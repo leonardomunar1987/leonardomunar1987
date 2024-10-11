@@ -1708,3 +1708,4 @@
 0443. 🎨 style: standardize quote style
 0515. 🚀 perf: optimize database query for quiz results
 0603. 🐛 fix: fix broken CSS in mobile view
+0790. 📚 docs: write FAQ section
