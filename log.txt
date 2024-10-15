@@ -1712,3 +1712,4 @@
 0839. 🎨 style: apply consistent indentation
 0096. 🐛 fix: prevent crash on empty input
 0722. 📚 docs: add API usage examples
+0159. 🚀 perf: lazy-load components
