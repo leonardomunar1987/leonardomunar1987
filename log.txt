@@ -1722,3 +1722,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0139. 📚 docs: document token refresh logic
 0593. 🐛 fix: correct typo in registration form
+0409. 🚀 perf: lazy-load components
