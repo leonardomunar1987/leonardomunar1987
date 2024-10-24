@@ -1724,3 +1724,4 @@
 0593. 🐛 fix: correct typo in registration form
 0409. 🚀 perf: lazy-load components
 0309. 🔧 refactor: refactor quiz grading logic
+0649. 📚 docs: update README with setup steps
