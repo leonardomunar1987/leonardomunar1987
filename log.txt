@@ -2675,3 +2675,4 @@
 0950. 🎨 style: reformat files with black
 0669. ✨ feat: enable dark mode toggle
 0778. 📚 docs: write FAQ section
+0222. 🐛 fix: handle 500 error in quiz API
