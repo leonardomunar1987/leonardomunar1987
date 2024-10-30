@@ -2681,3 +2681,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0765. ♻️ chore: clean up unused files
 0783. 🐛 fix: handle 500 error in quiz API
+0800. 🚀 perf: optimize database query for quiz results
