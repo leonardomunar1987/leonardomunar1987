@@ -1730,3 +1730,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0172. 📚 docs: add API usage examples
 0485. 📚 docs: update README with setup steps
+0748. 🚀 perf: optimize database query for quiz results
