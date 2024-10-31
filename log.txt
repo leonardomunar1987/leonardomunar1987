@@ -1733,3 +1733,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0121. ✨ feat: support email verification
 0504. 📚 docs: document token refresh logic
+0405. ✅ test: mock database connection in test suite
