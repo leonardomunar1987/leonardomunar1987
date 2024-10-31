@@ -1731,3 +1731,4 @@
 0172. 📚 docs: add API usage examples
 0485. 📚 docs: update README with setup steps
 0748. 🚀 perf: optimize database query for quiz results
+0121. ✨ feat: support email verification
