@@ -1737,3 +1737,4 @@
 0852. ✨ feat: enable dark mode toggle
 0026. 🔧 refactor: clean up auth middleware
 0989. 📚 docs: write FAQ section
+0743. 🎨 style: apply consistent indentation
