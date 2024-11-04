@@ -171,3 +171,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0794. ♻️ chore: clean up unused files
 0733. 🐛 fix: fix null pointer exception on login
+0893. 🐛 fix: handle 500 error in quiz API
