@@ -2687,3 +2687,4 @@
 0842. 🎨 style: remove trailing whitespace
 0717. 🔧 refactor: refactor quiz grading logic
 0578. ✅ test: add integration test for /submit endpoint
+0154. 🐛 fix: prevent crash on empty input
