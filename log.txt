@@ -2689,3 +2689,4 @@
 0578. ✅ test: add integration test for /submit endpoint
 0154. 🐛 fix: prevent crash on empty input
 0594. 🎨 style: reformat files with black
+0531. 🐛 fix: prevent crash on empty input
