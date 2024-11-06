@@ -1739,3 +1739,4 @@
 0989. 📚 docs: write FAQ section
 0743. 🎨 style: apply consistent indentation
 0083. 🎨 style: reformat files with black
+0745. ✅ test: add unit test for quiz service
