@@ -1133,3 +1133,4 @@
 0191. 🔧 refactor: refactor quiz grading logic
 0309. 🔧 refactor: refactor quiz grading logic
 0675. 🔧 refactor: organize models into subfolders
+0343. 🚀 perf: optimize database query for quiz results
