@@ -1751,3 +1751,4 @@
 0215. 🎨 style: reformat files with black
 0988. 🐛 fix: fix broken CSS in mobile view
 0600. 🐛 fix: prevent crash on empty input
+0140. 🐛 fix: handle 500 error in quiz API
