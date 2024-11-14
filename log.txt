@@ -1754,3 +1754,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0325. 🎨 style: rename variables for clarity
 0376. 🎨 style: apply consistent indentation
+0348. ✅ test: test user registration edge cases
