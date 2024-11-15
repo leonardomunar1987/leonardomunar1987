@@ -2711,3 +2711,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0554. 📚 docs: improve code comments in utils
 0771. 🚀 perf: cache repeated calculations
+0949. 📚 docs: write FAQ section
