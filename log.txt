@@ -1757,3 +1757,4 @@
 0348. ✅ test: test user registration edge cases
 0101. 📚 docs: clarify environment setup
 0299. 🐛 fix: resolve issue with date parsing
+0652. 🔧 refactor: organize models into subfolders
