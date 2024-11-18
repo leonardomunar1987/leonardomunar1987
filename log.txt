@@ -2717,3 +2717,4 @@
 0436. ✅ test: add integration test for /submit endpoint
 0576. ♻️ chore: update .gitignore
 0117. ✅ test: increase coverage on auth module
+0620. ✨ feat: implement quiz timer feature
