@@ -1758,3 +1758,4 @@
 0101. 📚 docs: clarify environment setup
 0299. 🐛 fix: resolve issue with date parsing
 0652. 🔧 refactor: organize models into subfolders
+0088. 📚 docs: add API usage examples
