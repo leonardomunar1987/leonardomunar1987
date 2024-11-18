@@ -1759,3 +1759,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0652. 🔧 refactor: organize models into subfolders
 0088. 📚 docs: add API usage examples
+0531. 🐛 fix: prevent crash on empty input
