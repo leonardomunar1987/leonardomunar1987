@@ -2721,3 +2721,4 @@
 0619. ✨ feat: create admin dashboard
 0234. ♻️ chore: rename env.example
 0762. 🚀 perf: lazy-load components
+0833. ✨ feat: add user authentication
