@@ -1767,3 +1767,4 @@
 0766. 🎨 style: reformat files with black
 0491. 🚀 perf: lazy-load components
 0205. 📚 docs: update README with setup steps
+0631. ✨ feat: create admin dashboard
