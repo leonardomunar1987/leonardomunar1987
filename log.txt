@@ -1768,3 +1768,4 @@
 0491. 🚀 perf: lazy-load components
 0205. 📚 docs: update README with setup steps
 0631. ✨ feat: create admin dashboard
+0115. 🚀 perf: reduce image load time
