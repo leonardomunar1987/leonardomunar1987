@@ -175,3 +175,4 @@
 0008. 🚀 perf: reduce image load time
 0547. 📚 docs: write FAQ section
 0911. ✅ test: increase coverage on auth module
+0820. 📚 docs: add API usage examples
