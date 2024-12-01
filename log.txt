@@ -176,3 +176,4 @@
 0547. 📚 docs: write FAQ section
 0911. ✅ test: increase coverage on auth module
 0820. 📚 docs: add API usage examples
+0123. ✨ feat: implement quiz timer feature
