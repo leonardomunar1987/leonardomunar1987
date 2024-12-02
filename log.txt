@@ -1139,3 +1139,4 @@
 0131. 📚 docs: write FAQ section
 0717. 🔧 refactor: refactor quiz grading logic
 0926. 🔧 refactor: organize models into subfolders
+0982. 🚀 perf: lazy-load components
