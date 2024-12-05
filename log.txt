@@ -2731,3 +2731,4 @@
 0922. 📚 docs: write FAQ section
 0233. 🚀 perf: lazy-load components
 0790. 📚 docs: write FAQ section
+0427. ✅ test: mock database connection in test suite
