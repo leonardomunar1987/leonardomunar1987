@@ -2730,3 +2730,4 @@
 0503. ♻️ chore: rename env.example
 0922. 📚 docs: write FAQ section
 0233. 🚀 perf: lazy-load components
+0790. 📚 docs: write FAQ section
