@@ -2738,3 +2738,4 @@
 0543. ✨ feat: support email verification
 0135. ✅ test: test user registration edge cases
 0872. 🎨 style: rename variables for clarity
+0689. 🎨 style: reformat files with black
