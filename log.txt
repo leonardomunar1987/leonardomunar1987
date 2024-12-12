@@ -1782,3 +1782,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0394. 🚀 perf: lazy-load components
 0529. 📚 docs: write FAQ section
+0755. 🚀 perf: cache repeated calculations
