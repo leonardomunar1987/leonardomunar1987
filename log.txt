@@ -2746,3 +2746,4 @@
 0320. 📚 docs: update README with setup steps
 0108. 🎨 style: remove trailing whitespace
 0930. 🎨 style: apply consistent indentation
+0451. ✨ feat: support email verification
