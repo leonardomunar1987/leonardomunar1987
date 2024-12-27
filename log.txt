@@ -1150,3 +1150,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0983. 🔧 refactor: split large controller into smaller functions
 0246. ✅ test: add integration test for /submit endpoint
+0923. ✨ feat: support email verification
