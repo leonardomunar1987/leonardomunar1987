@@ -1796,3 +1796,4 @@
 0244. ✨ feat: add export to CSV option
 0887. 📚 docs: add API usage examples
 0094. 📚 docs: document token refresh logic
+0349. ✅ test: increase coverage on auth module
