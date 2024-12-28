@@ -2758,3 +2758,4 @@
 0547. 📚 docs: write FAQ section
 0035. ✅ test: increase coverage on auth module
 0180. ✨ feat: add export to CSV option
+0743. 🎨 style: apply consistent indentation
