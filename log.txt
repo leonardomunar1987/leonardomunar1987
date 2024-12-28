@@ -5275,3 +5275,4 @@
 0176. 🔧 refactor: remove redundant code blocks
 0257. 📚 docs: clarify environment setup
 0270. ♻️ chore: rename env.example
+0086. 🐛 fix: correct typo in registration form
