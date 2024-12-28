@@ -5274,3 +5274,4 @@
 0837. 🚀 perf: cache repeated calculations
 0176. 🔧 refactor: remove redundant code blocks
 0257. 📚 docs: clarify environment setup
+0270. ♻️ chore: rename env.example
