@@ -4275,3 +4275,4 @@
 0673. 🐛 fix: correct typo in registration form
 0171. 🐛 fix: fix broken CSS in mobile view
 0286. ✅ test: mock database connection in test suite
+0250. 📚 docs: update README with setup steps
