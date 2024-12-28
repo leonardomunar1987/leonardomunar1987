@@ -3276,3 +3276,4 @@
 0895. ✨ feat: support email verification
 0259. 🚀 perf: lazy-load components
 0245. 🐛 fix: resolve issue with date parsing
+0111. 📚 docs: update README with setup steps
