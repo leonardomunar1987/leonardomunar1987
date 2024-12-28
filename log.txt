@@ -3274,3 +3274,4 @@
 0247. 🎨 style: apply consistent indentation
 0713. 🐛 fix: handle 500 error in quiz API
 0895. ✨ feat: support email verification
+0259. 🚀 perf: lazy-load components
