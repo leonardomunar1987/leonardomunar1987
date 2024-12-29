@@ -4280,3 +4280,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0277. 🎨 style: standardize quote style
 0781. 🚀 perf: reduce image load time
+0844. 📚 docs: update README with setup steps
