@@ -3278,3 +3278,4 @@
 0245. 🐛 fix: resolve issue with date parsing
 0111. 📚 docs: update README with setup steps
 0364. 🐛 fix: resolve issue with date parsing
+0925. ✨ feat: add export to CSV option
