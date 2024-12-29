@@ -5278,3 +5278,4 @@
 0086. 🐛 fix: correct typo in registration form
 0532. 🔧 refactor: split large controller into smaller functions
 0927. ♻️ chore: bump dependencies
+0099. 🚀 perf: reduce image load time
