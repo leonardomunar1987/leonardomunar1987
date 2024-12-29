@@ -5280,3 +5280,4 @@
 0927. ♻️ chore: bump dependencies
 0099. 🚀 perf: reduce image load time
 0974. ✨ feat: add export to CSV option
+0096. 🐛 fix: prevent crash on empty input
