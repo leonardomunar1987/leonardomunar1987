@@ -3289,3 +3289,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0708. ✅ test: add integration test for /submit endpoint
 0225. 🚀 perf: reduce image load time
+0979. 🎨 style: standardize quote style
