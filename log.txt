@@ -3285,3 +3285,4 @@
 0174. 📚 docs: clarify environment setup
 0492. 🎨 style: remove trailing whitespace
 0149. ✨ feat: add export to CSV option
+0691. 🎨 style: rename variables for clarity
