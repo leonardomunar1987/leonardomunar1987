@@ -1803,3 +1803,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0048. 📚 docs: update README with setup steps
 0861. ♻️ chore: clean up unused files
+0895. ✨ feat: support email verification
