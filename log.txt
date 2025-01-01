@@ -5290,3 +5290,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0745. ✅ test: add unit test for quiz service
 0317. ✅ test: test user registration edge cases
+0050. ✨ feat: enable dark mode toggle
