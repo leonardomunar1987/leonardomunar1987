@@ -5289,3 +5289,4 @@
 0360. ✨ feat: add export to CSV option
 0680. ♻️ chore: add GitHub actions badge
 0745. ✅ test: add unit test for quiz service
+0317. ✅ test: test user registration edge cases
