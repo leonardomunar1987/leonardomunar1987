@@ -4287,3 +4287,4 @@
 0809. ♻️ chore: rename env.example
 0385. ♻️ chore: clean up unused files
 0470. 🎨 style: remove trailing whitespace
+0843. 📚 docs: document token refresh logic
