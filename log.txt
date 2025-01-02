@@ -2762,3 +2762,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0331. 🐛 fix: fix broken CSS in mobile view
 0277. 🎨 style: standardize quote style
+0386. 🚀 perf: optimize database query for quiz results
