@@ -4289,3 +4289,4 @@
 0470. 🎨 style: remove trailing whitespace
 0843. 📚 docs: document token refresh logic
 0917. ✅ test: add integration test for /submit endpoint
+0944. ✨ feat: add user authentication
