@@ -5293,3 +5293,4 @@
 0050. ✨ feat: enable dark mode toggle
 0134. ✨ feat: implement quiz timer feature
 0928. 🎨 style: apply consistent indentation
+0603. 🐛 fix: fix broken CSS in mobile view
