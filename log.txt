@@ -1808,3 +1808,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0042. 📚 docs: document token refresh logic
 0414. 🔧 refactor: remove redundant code blocks
+0947. 📚 docs: write FAQ section
