@@ -5298,3 +5298,4 @@
 0765. ♻️ chore: clean up unused files
 0434. 📚 docs: document token refresh logic
 0953. 🎨 style: remove trailing whitespace
+0466. 🚀 perf: optimize database query for quiz results
