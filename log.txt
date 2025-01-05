@@ -1153,3 +1153,4 @@
 0923. ✨ feat: support email verification
 0818. 🔧 refactor: remove redundant code blocks
 0585. 🚀 perf: lazy-load components
+0133. 🐛 fix: fix null pointer exception on login
