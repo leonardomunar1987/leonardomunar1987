@@ -3306,3 +3306,4 @@
 0163. ✨ feat: implement quiz timer feature
 0769. ✨ feat: create admin dashboard
 0170. ✅ test: increase coverage on auth module
+0152. ✨ feat: add user authentication
