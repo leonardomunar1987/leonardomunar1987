@@ -5301,3 +5301,4 @@
 0466. 🚀 perf: optimize database query for quiz results
 0666. 🐛 fix: fix broken CSS in mobile view
 0859. ✨ feat: create admin dashboard
+0739. 🎨 style: remove trailing whitespace
