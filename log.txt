@@ -5309,3 +5309,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0403. ✅ test: mock database connection in test suite
 0700. 🎨 style: rename variables for clarity
+0218. 🔧 refactor: clean up auth middleware
