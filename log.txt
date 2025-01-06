@@ -1810,3 +1810,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0947. 📚 docs: write FAQ section
 0948. 🐛 fix: fix broken CSS in mobile view
+0801. ✨ feat: enable dark mode toggle
