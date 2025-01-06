@@ -3308,3 +3308,4 @@
 0170. ✅ test: increase coverage on auth module
 0152. ✨ feat: add user authentication
 0205. 📚 docs: update README with setup steps
+0607. 🐛 fix: prevent crash on empty input
