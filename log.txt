@@ -4301,3 +4301,4 @@
 0474. ✅ test: add unit test for quiz service
 0956. 📚 docs: clarify environment setup
 0561. 📚 docs: write FAQ section
+0371. ✅ test: add integration test for /submit endpoint
