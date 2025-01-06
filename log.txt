@@ -5305,3 +5305,4 @@
 0318. 🔧 refactor: refactor quiz grading logic
 0681. ✨ feat: create admin dashboard
 0911. ✅ test: increase coverage on auth module
+0365. 🚀 perf: reduce image load time
