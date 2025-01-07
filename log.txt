@@ -4302,3 +4302,4 @@
 0956. 📚 docs: clarify environment setup
 0561. 📚 docs: write FAQ section
 0371. ✅ test: add integration test for /submit endpoint
+0100. ♻️ chore: update .gitignore
