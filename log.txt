@@ -5314,3 +5314,4 @@
 0921. 🐛 fix: correct typo in registration form
 0448. 🐛 fix: correct typo in registration form
 0248. 🐛 fix: handle 500 error in quiz API
+0930. 🎨 style: apply consistent indentation
