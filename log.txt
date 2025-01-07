@@ -2773,3 +2773,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0545. 🎨 style: standardize quote style
 0367. 🐛 fix: fix null pointer exception on login
+0890. 🔧 refactor: organize models into subfolders
