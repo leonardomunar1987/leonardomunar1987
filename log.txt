@@ -2774,3 +2774,4 @@
 0545. 🎨 style: standardize quote style
 0367. 🐛 fix: fix null pointer exception on login
 0890. 🔧 refactor: organize models into subfolders
+0121. ✨ feat: support email verification
