@@ -5316,3 +5316,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0930. 🎨 style: apply consistent indentation
 0236. 🔧 refactor: remove redundant code blocks
+0710. 🐛 fix: fix broken CSS in mobile view
