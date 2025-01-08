@@ -4305,3 +4305,4 @@
 0100. ♻️ chore: update .gitignore
 0052. 🎨 style: standardize quote style
 0650. ✅ test: add unit test for quiz service
+0535. 📚 docs: write FAQ section
