@@ -5325,3 +5325,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0557. 🔧 refactor: clean up auth middleware
 0912. 📚 docs: document token refresh logic
+0552. 🐛 fix: fix null pointer exception on login
