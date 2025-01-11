@@ -3315,3 +3315,4 @@
 0541. 🐛 fix: correct typo in registration form
 0944. ✨ feat: add user authentication
 0506. 🐛 fix: handle 500 error in quiz API
+0778. 📚 docs: write FAQ section
