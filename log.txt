@@ -3316,3 +3316,4 @@
 0944. ✨ feat: add user authentication
 0506. 🐛 fix: handle 500 error in quiz API
 0778. 📚 docs: write FAQ section
+0522. 🐛 fix: handle 500 error in quiz API
