@@ -5333,3 +5333,4 @@
 0024. 📚 docs: write FAQ section
 0349. ✅ test: increase coverage on auth module
 0630. 🚀 perf: lazy-load components
+0543. ✨ feat: support email verification
