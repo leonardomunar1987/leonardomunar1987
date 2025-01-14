@@ -2782,3 +2782,4 @@
 0237. 🎨 style: standardize quote style
 0551. 📚 docs: write FAQ section
 0754. 🐛 fix: handle 500 error in quiz API
+0751. 🐛 fix: handle 500 error in quiz API
