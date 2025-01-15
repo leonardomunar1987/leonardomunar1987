@@ -1824,3 +1824,4 @@
 0279. ✨ feat: support email verification
 0350. 🚀 perf: cache repeated calculations
 0888. 🚀 perf: lazy-load components
+0884. 📚 docs: clarify environment setup
