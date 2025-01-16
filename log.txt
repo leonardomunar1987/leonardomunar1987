@@ -2788,3 +2788,4 @@
 0694. 🎨 style: rename variables for clarity
 0170. ✅ test: increase coverage on auth module
 0360. ✨ feat: add export to CSV option
+0574. ✨ feat: enable dark mode toggle
