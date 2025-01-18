@@ -1828,3 +1828,4 @@
 0262. 🎨 style: remove trailing whitespace
 0978. 🐛 fix: prevent crash on empty input
 0586. 🎨 style: remove trailing whitespace
+0692. ✅ test: add integration test for /submit endpoint
