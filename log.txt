@@ -2793,3 +2793,4 @@
 0892. ✅ test: add unit test for quiz service
 0115. 🚀 perf: reduce image load time
 0022. 📚 docs: document token refresh logic
+0471. ✨ feat: support email verification
