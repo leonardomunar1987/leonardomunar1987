@@ -2795,3 +2795,4 @@
 0022. 📚 docs: document token refresh logic
 0471. ✨ feat: support email verification
 0618. ✨ feat: support email verification
+0045. 🎨 style: apply consistent indentation
