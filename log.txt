@@ -2796,3 +2796,4 @@
 0471. ✨ feat: support email verification
 0618. ✨ feat: support email verification
 0045. 🎨 style: apply consistent indentation
+0265. 🎨 style: reformat files with black
