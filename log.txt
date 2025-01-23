@@ -4333,3 +4333,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0559. 🔧 refactor: split large controller into smaller functions
 0706. ✨ feat: support email verification
+0778. 📚 docs: write FAQ section
