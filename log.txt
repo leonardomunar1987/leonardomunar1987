@@ -4335,3 +4335,4 @@
 0706. ✨ feat: support email verification
 0778. 📚 docs: write FAQ section
 0820. 📚 docs: add API usage examples
+0798. 🚀 perf: reduce image load time
