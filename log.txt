@@ -5360,3 +5360,4 @@
 0659. 📚 docs: add API usage examples
 0628. ♻️ chore: add GitHub actions badge
 0689. 🎨 style: reformat files with black
+0740. 🐛 fix: resolve issue with date parsing
