@@ -1837,3 +1837,4 @@
 0855. 🎨 style: reformat files with black
 0283. ♻️ chore: add GitHub actions badge
 0353. ♻️ chore: rename env.example
+0251. ♻️ chore: update .gitignore
