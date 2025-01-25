@@ -3343,3 +3343,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0501. ✨ feat: add export to CSV option
 0730. ✅ test: test user registration edge cases
+0507. 🔧 refactor: clean up auth middleware
