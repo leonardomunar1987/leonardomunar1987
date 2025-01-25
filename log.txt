@@ -4337,3 +4337,4 @@
 0820. 📚 docs: add API usage examples
 0798. 🚀 perf: reduce image load time
 0890. 🔧 refactor: organize models into subfolders
+0571. 🔧 refactor: clean up auth middleware
