@@ -1838,3 +1838,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0353. ♻️ chore: rename env.example
 0251. ♻️ chore: update .gitignore
+0773. 📚 docs: document token refresh logic
