@@ -5367,3 +5367,4 @@
 0384. 📚 docs: clarify environment setup
 0062. ♻️ chore: update .gitignore
 0211. 🔧 refactor: remove redundant code blocks
+0503. ♻️ chore: rename env.example
