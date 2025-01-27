@@ -5368,3 +5368,4 @@
 0062. ♻️ chore: update .gitignore
 0211. 🔧 refactor: remove redundant code blocks
 0503. ♻️ chore: rename env.example
+0824. 🚀 perf: lazy-load components
