@@ -1164,3 +1164,4 @@
 0466. 🚀 perf: optimize database query for quiz results
 0369. 🎨 style: standardize quote style
 0508. ✅ test: add unit test for quiz service
+0140. 🐛 fix: handle 500 error in quiz API
