@@ -1165,3 +1165,4 @@
 0369. 🎨 style: standardize quote style
 0508. ✅ test: add unit test for quiz service
 0140. 🐛 fix: handle 500 error in quiz API
+0604. 📚 docs: add API usage examples
