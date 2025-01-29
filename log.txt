@@ -5373,3 +5373,4 @@
 0095. ✅ test: mock database connection in test suite
 0736. 🐛 fix: fix null pointer exception on login
 0896. 🚀 perf: reduce image load time
+0340. 🚀 perf: optimize database query for quiz results
