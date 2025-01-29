@@ -1848,3 +1848,4 @@
 0257. 📚 docs: clarify environment setup
 0669. ✨ feat: enable dark mode toggle
 0089. 🔧 refactor: remove redundant code blocks
+0291. 📚 docs: write FAQ section
