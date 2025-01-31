@@ -5377,3 +5377,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0470. 🎨 style: remove trailing whitespace
 0323. 📚 docs: clarify environment setup
+0838. 🎨 style: standardize quote style
