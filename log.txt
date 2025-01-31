@@ -2811,3 +2811,4 @@
 0195. 📚 docs: clarify environment setup
 0174. 📚 docs: clarify environment setup
 0566. 📚 docs: write FAQ section
+0780. 📚 docs: add API usage examples
