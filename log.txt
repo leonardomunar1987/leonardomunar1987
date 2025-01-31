@@ -192,3 +192,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0897. 🐛 fix: prevent crash on empty input
 0228. 🔧 refactor: remove redundant code blocks
+0409. 🚀 perf: lazy-load components
