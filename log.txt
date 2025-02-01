@@ -3365,3 +3365,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0304. 🔧 refactor: remove redundant code blocks
 0338. ♻️ chore: add GitHub actions badge
+0978. 🐛 fix: prevent crash on empty input
