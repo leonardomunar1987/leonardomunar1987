@@ -4349,3 +4349,4 @@
 0432. 🎨 style: apply consistent indentation
 0166. 🚀 perf: cache repeated calculations
 0471. ✨ feat: support email verification
+0773. 📚 docs: document token refresh logic
