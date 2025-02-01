@@ -1167,3 +1167,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0604. 📚 docs: add API usage examples
 0277. 🎨 style: standardize quote style
+0241. 📚 docs: add API usage examples
