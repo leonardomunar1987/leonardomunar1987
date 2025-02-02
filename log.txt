@@ -5386,3 +5386,4 @@
 0368. 🚀 perf: lazy-load components
 0028. 🎨 style: standardize quote style
 0819. 🚀 perf: reduce image load time
+0187. ✨ feat: support email verification
