@@ -1851,3 +1851,4 @@
 0291. 📚 docs: write FAQ section
 0286. ✅ test: mock database connection in test suite
 0482. ✨ feat: add export to CSV option
+0434. 📚 docs: document token refresh logic
