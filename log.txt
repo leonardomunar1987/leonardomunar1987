@@ -3371,3 +3371,4 @@
 0875. ✅ test: increase coverage on auth module
 0872. 🎨 style: rename variables for clarity
 0931. 🚀 perf: reduce image load time
+0661. ✅ test: add integration test for /submit endpoint
