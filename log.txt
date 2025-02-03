@@ -3368,3 +3368,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0918. ✨ feat: enable dark mode toggle
 0997. ✅ test: increase coverage on auth module
+0875. ✅ test: increase coverage on auth module
