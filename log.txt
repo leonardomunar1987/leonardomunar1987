@@ -5389,3 +5389,4 @@
 0187. ✨ feat: support email verification
 0142. ✨ feat: implement quiz timer feature
 0227. ✅ test: test user registration edge cases
+0440. 📚 docs: update README with setup steps
