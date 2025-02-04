@@ -5393,3 +5393,4 @@
 0482. ✨ feat: add export to CSV option
 0185. 📚 docs: write FAQ section
 0976. ✨ feat: implement quiz timer feature
+0781. 🚀 perf: reduce image load time
