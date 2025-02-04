@@ -3376,3 +3376,4 @@
 0604. 📚 docs: add API usage examples
 0473. 📚 docs: write FAQ section
 0890. 🔧 refactor: organize models into subfolders
+0535. 📚 docs: write FAQ section
