@@ -3378,3 +3378,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0535. 📚 docs: write FAQ section
 0382. 📚 docs: improve code comments in utils
+0471. ✨ feat: support email verification
