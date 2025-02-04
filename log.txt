@@ -3379,3 +3379,4 @@
 0535. 📚 docs: write FAQ section
 0382. 📚 docs: improve code comments in utils
 0471. ✨ feat: support email verification
+0577. ✨ feat: implement quiz timer feature
