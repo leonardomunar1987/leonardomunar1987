@@ -5392,3 +5392,4 @@
 0440. 📚 docs: update README with setup steps
 0482. ✨ feat: add export to CSV option
 0185. 📚 docs: write FAQ section
+0976. ✨ feat: implement quiz timer feature
