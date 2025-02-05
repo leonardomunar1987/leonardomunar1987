@@ -3380,3 +3380,4 @@
 0382. 📚 docs: improve code comments in utils
 0471. ✨ feat: support email verification
 0577. ✨ feat: implement quiz timer feature
+0475. 🔧 refactor: clean up auth middleware
