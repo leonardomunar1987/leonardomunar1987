@@ -5394,3 +5394,4 @@
 0185. 📚 docs: write FAQ section
 0976. ✨ feat: implement quiz timer feature
 0781. 🚀 perf: reduce image load time
+0237. 🎨 style: standardize quote style
