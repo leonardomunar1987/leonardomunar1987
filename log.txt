@@ -4359,3 +4359,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0117. ✅ test: increase coverage on auth module
 0139. 📚 docs: document token refresh logic
+0096. 🐛 fix: prevent crash on empty input
