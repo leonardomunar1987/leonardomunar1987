@@ -5402,3 +5402,4 @@
 0809. ♻️ chore: rename env.example
 0720. ✨ feat: add export to CSV option
 0044. ✅ test: add unit test for quiz service
+0491. 🚀 perf: lazy-load components
