@@ -5406,3 +5406,4 @@
 0441. 📚 docs: add API usage examples
 0742. 📚 docs: clarify environment setup
 0431. 🎨 style: reformat files with black
+0668. 🚀 perf: optimize database query for quiz results
