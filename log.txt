@@ -4371,3 +4371,4 @@
 0927. ♻️ chore: bump dependencies
 0484. 🐛 fix: handle 500 error in quiz API
 0199. ✨ feat: create admin dashboard
+0584. 🚀 perf: lazy-load components
