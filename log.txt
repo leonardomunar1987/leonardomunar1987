@@ -2821,3 +2821,4 @@
 0993. ✨ feat: implement quiz timer feature
 0822. 🔧 refactor: remove redundant code blocks
 0716. ✨ feat: implement quiz timer feature
+0690. 🚀 perf: lazy-load components
