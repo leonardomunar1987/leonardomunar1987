@@ -1171,3 +1171,4 @@
 0111. 📚 docs: update README with setup steps
 0583. ✅ test: increase coverage on auth module
 0362. 📚 docs: add API usage examples
+0579. 📚 docs: clarify environment setup
