@@ -1173,3 +1173,4 @@
 0362. 📚 docs: add API usage examples
 0579. 📚 docs: clarify environment setup
 0805. ♻️ chore: add GitHub actions badge
+0169. 📚 docs: add API usage examples
