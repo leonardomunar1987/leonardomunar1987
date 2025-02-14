@@ -3399,3 +3399,4 @@
 0360. ✨ feat: add export to CSV option
 0526. ✨ feat: add user authentication
 0370. 🚀 perf: reduce image load time
+0404. 📚 docs: improve code comments in utils
