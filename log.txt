@@ -1872,3 +1872,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0261. 🔧 refactor: refactor quiz grading logic
 0554. 📚 docs: improve code comments in utils
+0127. 🐛 fix: fix null pointer exception on login
