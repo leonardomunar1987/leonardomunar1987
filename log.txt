@@ -3405,3 +3405,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0454. ♻️ chore: bump dependencies
 0379. ✨ feat: support email verification
+0333. 🚀 perf: cache repeated calculations
