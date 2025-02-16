@@ -3406,3 +3406,4 @@
 0454. ♻️ chore: bump dependencies
 0379. ✨ feat: support email verification
 0333. 🚀 perf: cache repeated calculations
+0064. 📚 docs: clarify environment setup
