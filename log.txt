@@ -4395,3 +4395,4 @@
 0238. 🎨 style: apply consistent indentation
 0112. ✨ feat: enable dark mode toggle
 0235. 🐛 fix: fix null pointer exception on login
+0260. ✨ feat: create admin dashboard
