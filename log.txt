@@ -3412,3 +3412,4 @@
 0993. ✨ feat: implement quiz timer feature
 0980. 🎨 style: reformat files with black
 0865. ♻️ chore: add GitHub actions badge
+0175. 📚 docs: add API usage examples
