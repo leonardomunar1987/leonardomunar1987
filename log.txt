@@ -4401,3 +4401,4 @@
 0039. ✅ test: add integration test for /submit endpoint
 0282. 🔧 refactor: remove redundant code blocks
 0930. 🎨 style: apply consistent indentation
+0835. 🐛 fix: prevent crash on empty input
