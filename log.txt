@@ -3417,3 +3417,4 @@
 0527. 🎨 style: remove trailing whitespace
 0536. ✨ feat: add user authentication
 0949. 📚 docs: write FAQ section
+0731. 🎨 style: standardize quote style
