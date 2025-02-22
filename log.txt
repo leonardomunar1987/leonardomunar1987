@@ -2833,3 +2833,4 @@
 0750. 🎨 style: apply consistent indentation
 0069. 🎨 style: rename variables for clarity
 0374. 🎨 style: standardize quote style
+0064. 📚 docs: clarify environment setup
