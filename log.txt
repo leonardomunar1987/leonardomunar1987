@@ -4407,3 +4407,4 @@
 0405. ✅ test: mock database connection in test suite
 0806. 📚 docs: improve code comments in utils
 0419. 🎨 style: remove trailing whitespace
+0883. 📚 docs: improve code comments in utils
