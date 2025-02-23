@@ -4412,3 +4412,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0530. 🔧 refactor: refactor quiz grading logic
 0363. 📚 docs: clarify environment setup
+0315. ✅ test: add integration test for /submit endpoint
