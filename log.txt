@@ -2835,3 +2835,4 @@
 0374. 🎨 style: standardize quote style
 0064. 📚 docs: clarify environment setup
 0370. 🚀 perf: reduce image load time
+0651. ✨ feat: enable dark mode toggle
