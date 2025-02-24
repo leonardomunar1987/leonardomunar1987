@@ -3427,3 +3427,4 @@
 0909. 🔧 refactor: organize models into subfolders
 0873. 🚀 perf: cache repeated calculations
 0518. ✨ feat: support email verification
+0785. ✨ feat: enable dark mode toggle
