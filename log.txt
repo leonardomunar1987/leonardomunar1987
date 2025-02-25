@@ -1885,3 +1885,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0234. ♻️ chore: rename env.example
 0484. 🐛 fix: handle 500 error in quiz API
+0540. ♻️ chore: add GitHub actions badge
