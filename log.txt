@@ -1178,3 +1178,4 @@
 0332. 🎨 style: standardize quote style
 0388. 🎨 style: reformat files with black
 0828. ♻️ chore: add GitHub actions badge
+0721. 🚀 perf: optimize database query for quiz results
