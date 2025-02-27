@@ -4418,3 +4418,4 @@
 0012. 🚀 perf: cache repeated calculations
 0692. ✅ test: add integration test for /submit endpoint
 0370. 🚀 perf: reduce image load time
+0144. ✅ test: increase coverage on auth module
