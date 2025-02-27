@@ -3431,3 +3431,4 @@
 0916. ♻️ chore: bump dependencies
 0763. 🔧 refactor: organize models into subfolders
 0470. 🎨 style: remove trailing whitespace
+0803. ✅ test: mock database connection in test suite
