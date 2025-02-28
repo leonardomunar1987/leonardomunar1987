@@ -5451,3 +5451,4 @@
 0056. ♻️ chore: rename env.example
 0903. ✅ test: mock database connection in test suite
 0518. ✨ feat: support email verification
+0864. 🐛 fix: correct typo in registration form
