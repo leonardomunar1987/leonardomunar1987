@@ -3435,3 +3435,4 @@
 0329. 📚 docs: update README with setup steps
 0167. 🚀 perf: reduce image load time
 0967. ♻️ chore: add GitHub actions badge
+0690. 🚀 perf: lazy-load components
