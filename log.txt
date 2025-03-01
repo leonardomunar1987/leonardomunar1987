@@ -2840,3 +2840,4 @@
 0708. ✅ test: add integration test for /submit endpoint
 0871. ✅ test: add integration test for /submit endpoint
 0187. ✨ feat: support email verification
+0186. ✅ test: test user registration edge cases
