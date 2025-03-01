@@ -3441,3 +3441,4 @@
 0739. 🎨 style: remove trailing whitespace
 0809. ♻️ chore: rename env.example
 0283. ♻️ chore: add GitHub actions badge
+0427. ✅ test: mock database connection in test suite
