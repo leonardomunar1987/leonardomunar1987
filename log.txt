@@ -3452,3 +3452,4 @@
 0734. ✨ feat: add export to CSV option
 0822. 🔧 refactor: remove redundant code blocks
 0973. 🔧 refactor: organize models into subfolders
+0617. ✨ feat: support email verification
