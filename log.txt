@@ -3448,3 +3448,4 @@
 0947. 📚 docs: write FAQ section
 0004. 🚀 perf: optimize database query for quiz results
 0132. ✅ test: add unit test for quiz service
+0937. 🐛 fix: handle 500 error in quiz API
