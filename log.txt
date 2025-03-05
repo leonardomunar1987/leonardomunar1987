@@ -5464,3 +5464,4 @@
 0161. ✨ feat: create admin dashboard
 0210. 🎨 style: apply consistent indentation
 0072. 🚀 perf: optimize database query for quiz results
+0167. 🚀 perf: reduce image load time
