@@ -5468,3 +5468,4 @@
 0052. 🎨 style: standardize quote style
 0152. ✨ feat: add user authentication
 0641. 📚 docs: write FAQ section
+0591. ♻️ chore: clean up unused files
