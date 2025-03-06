@@ -4436,3 +4436,4 @@
 0447. ♻️ chore: bump dependencies
 0678. ✨ feat: add user authentication
 0810. 🔧 refactor: refactor quiz grading logic
+0170. ✅ test: increase coverage on auth module
