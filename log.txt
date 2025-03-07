@@ -1891,3 +1891,4 @@
 0919. 🚀 perf: optimize database query for quiz results
 0508. ✅ test: add unit test for quiz service
 0400. 🐛 fix: fix null pointer exception on login
+0894. ✅ test: add integration test for /submit endpoint
