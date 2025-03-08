@@ -1894,3 +1894,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0760. 🐛 fix: resolve issue with date parsing
 0424. ✨ feat: add user authentication
+0535. 📚 docs: write FAQ section
