@@ -5476,3 +5476,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0596. ♻️ chore: update .gitignore
 0729. 🔧 refactor: refactor quiz grading logic
+0521. 🎨 style: standardize quote style
