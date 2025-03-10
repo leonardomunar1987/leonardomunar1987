@@ -5474,3 +5474,4 @@
 0145. 📚 docs: improve code comments in utils
 0478. 🐛 fix: resolve issue with date parsing
 0565. ♻️ chore: add GitHub actions badge
+0596. ♻️ chore: update .gitignore
