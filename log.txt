@@ -3470,3 +3470,4 @@
 0474. ✅ test: add unit test for quiz service
 0321. 🔧 refactor: organize models into subfolders
 0431. 🎨 style: reformat files with black
+0603. 🐛 fix: fix broken CSS in mobile view
