@@ -4450,3 +4450,4 @@
 0750. 🎨 style: apply consistent indentation
 0188. 🎨 style: apply consistent indentation
 0347. ♻️ chore: update .gitignore
+0292. 📚 docs: clarify environment setup
