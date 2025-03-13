@@ -1183,3 +1183,4 @@
 0631. ✨ feat: create admin dashboard
 0488. ♻️ chore: add GitHub actions badge
 0770. ♻️ chore: rename env.example
+0074. ♻️ chore: add GitHub actions badge
