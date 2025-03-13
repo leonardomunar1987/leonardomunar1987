@@ -3478,3 +3478,4 @@
 0879. 🎨 style: standardize quote style
 0738. 🐛 fix: prevent crash on empty input
 0472. 🐛 fix: fix null pointer exception on login
+0263. 📚 docs: add API usage examples
