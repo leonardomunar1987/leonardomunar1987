@@ -5483,3 +5483,4 @@
 0939. 📚 docs: update README with setup steps
 0388. 🎨 style: reformat files with black
 0610. 🚀 perf: lazy-load components
+0677. 📚 docs: add API usage examples
