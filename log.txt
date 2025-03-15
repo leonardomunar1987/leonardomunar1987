@@ -4458,3 +4458,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0493. ✨ feat: add user authentication
 0628. ♻️ chore: add GitHub actions badge
+0754. 🐛 fix: handle 500 error in quiz API
