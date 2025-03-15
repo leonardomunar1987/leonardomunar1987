@@ -5486,3 +5486,4 @@
 0677. 📚 docs: add API usage examples
 0537. 🔧 refactor: remove redundant code blocks
 0844. 📚 docs: update README with setup steps
+0856. 🐛 fix: fix null pointer exception on login
