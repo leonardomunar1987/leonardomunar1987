@@ -3483,3 +3483,4 @@
 0295. 🎨 style: remove trailing whitespace
 0505. ♻️ chore: add GitHub actions badge
 0583. ✅ test: increase coverage on auth module
+0063. 🐛 fix: handle 500 error in quiz API
