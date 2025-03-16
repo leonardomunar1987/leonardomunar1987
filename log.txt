@@ -5489,3 +5489,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0969. ✨ feat: create admin dashboard
 0253. 📚 docs: update README with setup steps
+0010. ✨ feat: add user authentication
