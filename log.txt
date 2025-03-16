@@ -3485,3 +3485,4 @@
 0583. ✅ test: increase coverage on auth module
 0063. 🐛 fix: handle 500 error in quiz API
 0835. 🐛 fix: prevent crash on empty input
+0278. 🔧 refactor: clean up auth middleware
