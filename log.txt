@@ -1185,3 +1185,4 @@
 0770. ♻️ chore: rename env.example
 0074. ♻️ chore: add GitHub actions badge
 0639. 🐛 fix: correct typo in registration form
+0768. 🎨 style: remove trailing whitespace
