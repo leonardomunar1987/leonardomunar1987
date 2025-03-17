@@ -4463,3 +4463,4 @@
 0137. 🎨 style: rename variables for clarity
 0849. 🐛 fix: correct typo in registration form
 0780. 📚 docs: add API usage examples
+0482. ✨ feat: add export to CSV option
