@@ -5494,3 +5494,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0993. ✨ feat: implement quiz timer feature
 0808. 🚀 perf: optimize database query for quiz results
+0291. 📚 docs: write FAQ section
