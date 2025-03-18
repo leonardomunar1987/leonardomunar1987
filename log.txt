@@ -2857,3 +2857,4 @@
 0648. ♻️ chore: bump dependencies
 0300. ✨ feat: add export to CSV option
 0422. 🔧 refactor: organize models into subfolders
+0737. 🐛 fix: handle 500 error in quiz API
