@@ -5499,3 +5499,4 @@
 0329. 📚 docs: update README with setup steps
 0968. 🎨 style: standardize quote style
 0967. ♻️ chore: add GitHub actions badge
+0569. 📚 docs: document token refresh logic
