@@ -2860,3 +2860,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0449. ✅ test: add unit test for quiz service
 0606. 📚 docs: improve code comments in utils
+0948. 🐛 fix: fix broken CSS in mobile view
