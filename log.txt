@@ -4480,3 +4480,4 @@
 0429. ✨ feat: add user authentication
 0301. 🎨 style: apply consistent indentation
 0364. 🐛 fix: resolve issue with date parsing
+0960. ✅ test: increase coverage on auth module
