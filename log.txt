@@ -4477,3 +4477,4 @@
 0343. 🚀 perf: optimize database query for quiz results
 0109. 🚀 perf: lazy-load components
 0355. 🚀 perf: optimize database query for quiz results
+0429. ✨ feat: add user authentication
