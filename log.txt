@@ -3496,3 +3496,4 @@
 0883. 📚 docs: improve code comments in utils
 0482. ✨ feat: add export to CSV option
 0616. 🚀 perf: lazy-load components
+0994. 🚀 perf: reduce image load time
