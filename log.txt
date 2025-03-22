@@ -4481,3 +4481,4 @@
 0301. 🎨 style: apply consistent indentation
 0364. 🐛 fix: resolve issue with date parsing
 0960. ✅ test: increase coverage on auth module
+0063. 🐛 fix: handle 500 error in quiz API
