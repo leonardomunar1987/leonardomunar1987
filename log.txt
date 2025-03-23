@@ -5506,3 +5506,4 @@
 0196. ♻️ chore: bump dependencies
 0796. 🔧 refactor: refactor quiz grading logic
 0702. ✨ feat: add user authentication
+0281. ✨ feat: support email verification
