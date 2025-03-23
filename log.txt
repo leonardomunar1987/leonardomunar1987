@@ -2868,3 +2868,4 @@
 0149. ✨ feat: add export to CSV option
 0049. 🐛 fix: handle 500 error in quiz API
 0107. 🐛 fix: prevent crash on empty input
+0755. 🚀 perf: cache repeated calculations
