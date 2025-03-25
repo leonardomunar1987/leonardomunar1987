@@ -4491,3 +4491,4 @@
 0654. ✨ feat: create admin dashboard
 0381. ♻️ chore: clean up unused files
 0158. 📚 docs: clarify environment setup
+0206. 🐛 fix: handle 500 error in quiz API
