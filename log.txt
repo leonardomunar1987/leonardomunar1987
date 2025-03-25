@@ -4493,3 +4493,4 @@
 0158. 📚 docs: clarify environment setup
 0206. 🐛 fix: handle 500 error in quiz API
 0801. ✨ feat: enable dark mode toggle
+0845. 🚀 perf: cache repeated calculations
