@@ -5512,3 +5512,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0769. ✨ feat: create admin dashboard
 0131. 📚 docs: write FAQ section
+0308. 🚀 perf: reduce image load time
