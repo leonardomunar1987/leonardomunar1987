@@ -2873,3 +2873,4 @@
 0537. 🔧 refactor: remove redundant code blocks
 0536. ✨ feat: add user authentication
 0231. 🔧 refactor: clean up auth middleware
+0383. 🐛 fix: fix broken CSS in mobile view
