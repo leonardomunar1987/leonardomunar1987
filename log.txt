@@ -1916,3 +1916,4 @@
 0854. ♻️ chore: rename env.example
 0814. 🔧 refactor: remove redundant code blocks
 0200. 🐛 fix: handle 500 error in quiz API
+0594. 🎨 style: reformat files with black
