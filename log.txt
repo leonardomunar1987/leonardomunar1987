@@ -1919,3 +1919,4 @@
 0594. 🎨 style: reformat files with black
 0022. 📚 docs: document token refresh logic
 0971. 🎨 style: standardize quote style
+0994. 🚀 perf: reduce image load time
