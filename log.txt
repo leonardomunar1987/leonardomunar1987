@@ -2876,3 +2876,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0395. 📚 docs: write FAQ section
 0880. 🐛 fix: fix broken CSS in mobile view
+0456. 🚀 perf: optimize database query for quiz results
