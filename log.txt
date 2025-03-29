@@ -2880,3 +2880,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0902. ✨ feat: enable dark mode toggle
 0695. ✨ feat: create admin dashboard
+0609. 🐛 fix: handle 500 error in quiz API
