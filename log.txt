@@ -5518,3 +5518,4 @@
 0108. 🎨 style: remove trailing whitespace
 0949. 📚 docs: write FAQ section
 0766. 🎨 style: reformat files with black
+0219. ✅ test: increase coverage on auth module
