@@ -3521,3 +3521,4 @@
 0573. ✅ test: add integration test for /submit endpoint
 0862. ♻️ chore: bump dependencies
 0761. ✅ test: add unit test for quiz service
+0981. 🚀 perf: lazy-load components
