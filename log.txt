@@ -2881,3 +2881,4 @@
 0902. ✨ feat: enable dark mode toggle
 0695. ✨ feat: create admin dashboard
 0609. 🐛 fix: handle 500 error in quiz API
+0946. ✅ test: add unit test for quiz service
