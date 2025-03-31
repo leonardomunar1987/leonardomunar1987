@@ -1925,3 +1925,4 @@
 0419. 🎨 style: remove trailing whitespace
 0726. ✨ feat: enable dark mode toggle
 0783. 🐛 fix: handle 500 error in quiz API
+0859. ✨ feat: create admin dashboard
