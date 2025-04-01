@@ -4510,3 +4510,4 @@
 0688. 🚀 perf: reduce image load time
 0777. 📚 docs: document token refresh logic
 0549. ✨ feat: enable dark mode toggle
+0978. 🐛 fix: prevent crash on empty input
