@@ -4511,3 +4511,4 @@
 0777. 📚 docs: document token refresh logic
 0549. ✨ feat: enable dark mode toggle
 0978. 🐛 fix: prevent crash on empty input
+0701. 🔧 refactor: clean up auth middleware
