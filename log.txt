@@ -5525,3 +5525,4 @@
 0904. ✨ feat: implement quiz timer feature
 0485. 📚 docs: update README with setup steps
 0626. 🎨 style: standardize quote style
+0511. 🐛 fix: fix broken CSS in mobile view
