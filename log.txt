@@ -209,3 +209,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0194. 🎨 style: standardize quote style
 0770. ♻️ chore: rename env.example
+0393. 🚀 perf: lazy-load components
