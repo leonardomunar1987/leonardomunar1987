@@ -210,3 +210,4 @@
 0194. 🎨 style: standardize quote style
 0770. ♻️ chore: rename env.example
 0393. 🚀 perf: lazy-load components
+0826. 📚 docs: clarify environment setup
