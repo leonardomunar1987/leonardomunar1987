@@ -211,3 +211,4 @@
 0770. ♻️ chore: rename env.example
 0393. 🚀 perf: lazy-load components
 0826. 📚 docs: clarify environment setup
+0969. ✨ feat: create admin dashboard
