@@ -1928,3 +1928,4 @@
 0859. ✨ feat: create admin dashboard
 0469. 🚀 perf: lazy-load components
 0784. ♻️ chore: clean up unused files
+0063. 🐛 fix: handle 500 error in quiz API
