@@ -3528,3 +3528,4 @@
 0407. 🚀 perf: cache repeated calculations
 0203. 🚀 perf: lazy-load components
 0434. 📚 docs: document token refresh logic
+0430. 🐛 fix: fix null pointer exception on login
