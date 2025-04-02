@@ -5530,3 +5530,4 @@
 0135. ✅ test: test user registration edge cases
 0979. 🎨 style: standardize quote style
 0285. 🐛 fix: resolve issue with date parsing
+0624. ✅ test: add unit test for quiz service
