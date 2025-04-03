@@ -3530,3 +3530,4 @@
 0434. 📚 docs: document token refresh logic
 0430. 🐛 fix: fix null pointer exception on login
 0495. 🔧 refactor: remove redundant code blocks
+0751. 🐛 fix: handle 500 error in quiz API
