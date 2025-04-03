@@ -5531,3 +5531,4 @@
 0979. 🎨 style: standardize quote style
 0285. 🐛 fix: resolve issue with date parsing
 0624. ✅ test: add unit test for quiz service
+0834. ✅ test: increase coverage on auth module
