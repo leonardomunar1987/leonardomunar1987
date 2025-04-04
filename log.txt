@@ -4518,3 +4518,4 @@
 0458. ✨ feat: create admin dashboard
 0568. 🐛 fix: handle 500 error in quiz API
 0190. 🎨 style: rename variables for clarity
+0058. ♻️ chore: add GitHub actions badge
