@@ -5536,3 +5536,4 @@
 0627. 📚 docs: document token refresh logic
 0778. 📚 docs: write FAQ section
 0314. ✨ feat: implement quiz timer feature
+0506. 🐛 fix: handle 500 error in quiz API
