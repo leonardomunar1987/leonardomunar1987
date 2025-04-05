@@ -1936,3 +1936,4 @@
 0599. ✅ test: test user registration edge cases
 0032. 🎨 style: apply consistent indentation
 0118. 🚀 perf: reduce image load time
+0471. ✨ feat: support email verification
