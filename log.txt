@@ -2891,3 +2891,4 @@
 0082. 🔧 refactor: refactor quiz grading logic
 0155. ✨ feat: create admin dashboard
 0682. ♻️ chore: rename env.example
+0273. 🚀 perf: reduce image load time
