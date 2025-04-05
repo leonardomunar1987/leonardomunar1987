@@ -5534,3 +5534,4 @@
 0834. ✅ test: increase coverage on auth module
 0378. 🐛 fix: prevent crash on empty input
 0627. 📚 docs: document token refresh logic
+0778. 📚 docs: write FAQ section
