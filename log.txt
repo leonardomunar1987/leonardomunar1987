@@ -5539,3 +5539,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0712. 🎨 style: apply consistent indentation
 0753. 🔧 refactor: remove redundant code blocks
+0750. 🎨 style: apply consistent indentation
