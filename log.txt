@@ -1192,3 +1192,4 @@
 0141. 📚 docs: document token refresh logic
 0933. 📚 docs: clarify environment setup
 0403. ✅ test: mock database connection in test suite
+0491. 🚀 perf: lazy-load components
