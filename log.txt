@@ -1937,3 +1937,4 @@
 0032. 🎨 style: apply consistent indentation
 0118. 🚀 perf: reduce image load time
 0471. ✨ feat: support email verification
+0055. 📚 docs: update README with setup steps
