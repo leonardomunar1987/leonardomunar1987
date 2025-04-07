@@ -4526,3 +4526,4 @@
 0333. 🚀 perf: cache repeated calculations
 0623. 🎨 style: standardize quote style
 0205. 📚 docs: update README with setup steps
+0722. 📚 docs: add API usage examples
