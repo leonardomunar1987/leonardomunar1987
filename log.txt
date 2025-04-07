@@ -5540,3 +5540,4 @@
 0712. 🎨 style: apply consistent indentation
 0753. 🔧 refactor: remove redundant code blocks
 0750. 🎨 style: apply consistent indentation
+0797. 📚 docs: add API usage examples
