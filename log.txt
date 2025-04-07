@@ -3540,3 +3540,4 @@
 0605. ✨ feat: support email verification
 0841. 🚀 perf: optimize database query for quiz results
 0720. ✨ feat: add export to CSV option
+0366. 🔧 refactor: remove redundant code blocks
