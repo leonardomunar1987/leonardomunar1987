@@ -5546,3 +5546,4 @@
 0073. 🔧 refactor: split large controller into smaller functions
 0898. 🐛 fix: fix broken CSS in mobile view
 0425. 🔧 refactor: refactor quiz grading logic
+0605. ✨ feat: support email verification
