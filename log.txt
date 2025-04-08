@@ -4529,3 +4529,4 @@
 0722. 📚 docs: add API usage examples
 0054. ♻️ chore: update .gitignore
 0792. 🎨 style: standardize quote style
+0074. ♻️ chore: add GitHub actions badge
