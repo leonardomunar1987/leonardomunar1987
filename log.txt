@@ -5548,3 +5548,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0605. ✨ feat: support email verification
 0902. ✨ feat: enable dark mode toggle
+0863. 🐛 fix: correct typo in registration form
