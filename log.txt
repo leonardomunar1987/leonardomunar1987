@@ -4531,3 +4531,4 @@
 0792. 🎨 style: standardize quote style
 0074. ♻️ chore: add GitHub actions badge
 0626. 🎨 style: standardize quote style
+0989. 📚 docs: write FAQ section
