@@ -4530,3 +4530,4 @@
 0054. ♻️ chore: update .gitignore
 0792. 🎨 style: standardize quote style
 0074. ♻️ chore: add GitHub actions badge
+0626. 🎨 style: standardize quote style
