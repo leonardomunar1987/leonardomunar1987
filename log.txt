@@ -1940,3 +1940,4 @@
 0055. 📚 docs: update README with setup steps
 0357. ✅ test: add unit test for quiz service
 0524. ♻️ chore: rename env.example
+0412. ✅ test: increase coverage on auth module
