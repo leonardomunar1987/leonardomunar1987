@@ -3548,3 +3548,4 @@
 0706. ✨ feat: support email verification
 0299. 🐛 fix: resolve issue with date parsing
 0665. ♻️ chore: update .gitignore
+0940. 📚 docs: document token refresh logic
