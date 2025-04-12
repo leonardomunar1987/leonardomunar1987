@@ -5562,3 +5562,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0390. 🎨 style: standardize quote style
 0799. ♻️ chore: clean up unused files
+0994. 🚀 perf: reduce image load time
