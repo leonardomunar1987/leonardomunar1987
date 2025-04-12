@@ -4542,3 +4542,4 @@
 0085. ✨ feat: support email verification
 0044. ✅ test: add unit test for quiz service
 0594. 🎨 style: reformat files with black
+0609. 🐛 fix: handle 500 error in quiz API
