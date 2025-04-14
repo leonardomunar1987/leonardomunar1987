@@ -2899,3 +2899,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0611. ✅ test: test user registration edge cases
 0392. 🎨 style: remove trailing whitespace
+0559. 🔧 refactor: split large controller into smaller functions
