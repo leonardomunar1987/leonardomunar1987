@@ -1944,3 +1944,4 @@
 0070. ✨ feat: implement quiz timer feature
 0027. 📚 docs: clarify environment setup
 0907. 🔧 refactor: split large controller into smaller functions
+0276. ✅ test: add integration test for /submit endpoint
