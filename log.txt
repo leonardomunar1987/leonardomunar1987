@@ -2900,3 +2900,4 @@
 0611. ✅ test: test user registration edge cases
 0392. 🎨 style: remove trailing whitespace
 0559. 🔧 refactor: split large controller into smaller functions
+0253. 📚 docs: update README with setup steps
