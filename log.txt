@@ -3558,3 +3558,4 @@
 0088. 📚 docs: add API usage examples
 0122. ✨ feat: support email verification
 0189. 📚 docs: clarify environment setup
+0057. 🚀 perf: optimize database query for quiz results
