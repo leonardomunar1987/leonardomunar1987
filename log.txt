@@ -3557,3 +3557,4 @@
 0499. 🎨 style: reformat files with black
 0088. 📚 docs: add API usage examples
 0122. ✨ feat: support email verification
+0189. 📚 docs: clarify environment setup
