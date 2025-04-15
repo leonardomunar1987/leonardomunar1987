@@ -4551,3 +4551,4 @@
 0508. ✅ test: add unit test for quiz service
 0317. ✅ test: test user registration edge cases
 0953. 🎨 style: remove trailing whitespace
+0761. ✅ test: add unit test for quiz service
