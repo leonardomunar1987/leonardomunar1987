@@ -4553,3 +4553,4 @@
 0953. 🎨 style: remove trailing whitespace
 0761. ✅ test: add unit test for quiz service
 0115. 🚀 perf: reduce image load time
+0788. 📚 docs: add API usage examples
