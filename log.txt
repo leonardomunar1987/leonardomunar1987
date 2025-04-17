@@ -4558,3 +4558,4 @@
 0244. ✨ feat: add export to CSV option
 0223. 🔧 refactor: remove redundant code blocks
 0361. ✨ feat: support email verification
+0108. 🎨 style: remove trailing whitespace
