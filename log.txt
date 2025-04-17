@@ -5572,3 +5572,4 @@
 0597. 🚀 perf: cache repeated calculations
 0488. ♻️ chore: add GitHub actions badge
 0353. ♻️ chore: rename env.example
+0232. 🎨 style: apply consistent indentation
