@@ -4561,3 +4561,4 @@
 0108. 🎨 style: remove trailing whitespace
 0842. 🎨 style: remove trailing whitespace
 0595. ✨ feat: enable dark mode toggle
+0762. 🚀 perf: lazy-load components
