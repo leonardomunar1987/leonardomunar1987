@@ -4563,3 +4563,4 @@
 0595. ✨ feat: enable dark mode toggle
 0762. 🚀 perf: lazy-load components
 0790. 📚 docs: write FAQ section
+0569. 📚 docs: document token refresh logic
