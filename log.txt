@@ -3571,3 +3571,4 @@
 0266. 🔧 refactor: remove redundant code blocks
 0277. 🎨 style: standardize quote style
 0270. ♻️ chore: rename env.example
+0893. 🐛 fix: handle 500 error in quiz API
