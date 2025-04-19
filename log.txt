@@ -1199,3 +1199,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0763. 🔧 refactor: organize models into subfolders
 0439. 🐛 fix: correct typo in registration form
+0035. ✅ test: increase coverage on auth module
