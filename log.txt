@@ -5578,3 +5578,4 @@
 0692. ✅ test: add integration test for /submit endpoint
 0385. ♻️ chore: clean up unused files
 0899. 🚀 perf: cache repeated calculations
+0203. 🚀 perf: lazy-load components
