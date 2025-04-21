@@ -4566,3 +4566,4 @@
 0569. 📚 docs: document token refresh logic
 0075. ✅ test: mock database connection in test suite
 0149. ✨ feat: add export to CSV option
+0368. 🚀 perf: lazy-load components
