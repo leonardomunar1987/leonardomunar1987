@@ -2906,3 +2906,4 @@
 0119. 📚 docs: improve code comments in utils
 0086. 🐛 fix: correct typo in registration form
 0631. ✨ feat: create admin dashboard
+0671. 🐛 fix: fix null pointer exception on login
