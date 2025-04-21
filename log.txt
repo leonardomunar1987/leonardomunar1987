@@ -5579,3 +5579,4 @@
 0385. ♻️ chore: clean up unused files
 0899. 🚀 perf: cache repeated calculations
 0203. 🚀 perf: lazy-load components
+0522. 🐛 fix: handle 500 error in quiz API
