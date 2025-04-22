@@ -3580,3 +3580,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0350. 🚀 perf: cache repeated calculations
 0824. 🚀 perf: lazy-load components
+0339. 📚 docs: update README with setup steps
