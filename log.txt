@@ -4567,3 +4567,4 @@
 0075. ✅ test: mock database connection in test suite
 0149. ✨ feat: add export to CSV option
 0368. 🚀 perf: lazy-load components
+0002. 🚀 perf: cache repeated calculations
