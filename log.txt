@@ -4573,3 +4573,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0529. 📚 docs: write FAQ section
 0733. 🐛 fix: fix null pointer exception on login
+0805. ♻️ chore: add GitHub actions badge
