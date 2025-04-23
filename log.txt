@@ -5587,3 +5587,4 @@
 0204. 🎨 style: standardize quote style
 0244. ✨ feat: add export to CSV option
 0090. ✅ test: increase coverage on auth module
+0139. 📚 docs: document token refresh logic
