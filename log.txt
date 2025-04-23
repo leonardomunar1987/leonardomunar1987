@@ -3583,3 +3583,4 @@
 0339. 📚 docs: update README with setup steps
 0464. 🎨 style: remove trailing whitespace
 0716. ✨ feat: implement quiz timer feature
+0053. ✅ test: increase coverage on auth module
