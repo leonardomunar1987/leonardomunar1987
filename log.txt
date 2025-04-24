@@ -3585,3 +3585,4 @@
 0716. ✨ feat: implement quiz timer feature
 0053. ✅ test: increase coverage on auth module
 0550. 🔧 refactor: split large controller into smaller functions
+0361. ✨ feat: support email verification
