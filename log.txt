@@ -3587,3 +3587,4 @@
 0550. 🔧 refactor: split large controller into smaller functions
 0361. ✨ feat: support email verification
 0727. ♻️ chore: add GitHub actions badge
+0676. 🐛 fix: prevent crash on empty input
