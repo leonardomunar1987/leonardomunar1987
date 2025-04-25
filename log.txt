@@ -5594,3 +5594,4 @@
 0916. ♻️ chore: bump dependencies
 0775. 🐛 fix: fix null pointer exception on login
 0822. 🔧 refactor: remove redundant code blocks
+0419. 🎨 style: remove trailing whitespace
