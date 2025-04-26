@@ -3592,3 +3592,4 @@
 0091. ✨ feat: add user authentication
 0648. ♻️ chore: bump dependencies
 0789. ✨ feat: create admin dashboard
+0542. 🔧 refactor: organize models into subfolders
