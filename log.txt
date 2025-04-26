@@ -4584,3 +4584,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0703. 🔧 refactor: clean up auth middleware
 0541. 🐛 fix: correct typo in registration form
+0428. 🐛 fix: fix null pointer exception on login
