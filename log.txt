@@ -3591,3 +3591,4 @@
 0558. ✨ feat: enable dark mode toggle
 0091. ✨ feat: add user authentication
 0648. ♻️ chore: bump dependencies
+0789. ✨ feat: create admin dashboard
