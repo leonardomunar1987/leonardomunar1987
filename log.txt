@@ -4582,3 +4582,4 @@
 0612. ✅ test: test user registration edge cases
 0746. ♻️ chore: add GitHub actions badge
 0081. 🐛 fix: fix null pointer exception on login
+0703. 🔧 refactor: clean up auth middleware
