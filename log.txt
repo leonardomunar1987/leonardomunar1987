@@ -1954,3 +1954,4 @@
 0905. ♻️ chore: bump dependencies
 0729. 🔧 refactor: refactor quiz grading logic
 0060. ♻️ chore: clean up unused files
+0367. 🐛 fix: fix null pointer exception on login
