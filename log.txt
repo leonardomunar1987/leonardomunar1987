@@ -4587,3 +4587,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0766. 🎨 style: reformat files with black
 0184. 📚 docs: improve code comments in utils
+0121. ✨ feat: support email verification
