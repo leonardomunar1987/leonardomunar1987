@@ -4588,3 +4588,4 @@
 0766. 🎨 style: reformat files with black
 0184. 📚 docs: improve code comments in utils
 0121. ✨ feat: support email verification
+0239. 🎨 style: standardize quote style
