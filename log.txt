@@ -3596,3 +3596,4 @@
 0059. ♻️ chore: bump dependencies
 0074. ♻️ chore: add GitHub actions badge
 0176. 🔧 refactor: remove redundant code blocks
+0917. ✅ test: add integration test for /submit endpoint
