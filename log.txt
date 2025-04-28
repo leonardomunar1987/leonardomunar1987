@@ -3599,3 +3599,4 @@
 0917. ✅ test: add integration test for /submit endpoint
 0725. 🚀 perf: lazy-load components
 0104. 🎨 style: apply consistent indentation
+0777. 📚 docs: document token refresh logic
