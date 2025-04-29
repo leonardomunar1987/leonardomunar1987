@@ -1958,3 +1958,4 @@
 0073. 🔧 refactor: split large controller into smaller functions
 0440. 📚 docs: update README with setup steps
 0178. ✨ feat: support email verification
+0152. ✨ feat: add user authentication
