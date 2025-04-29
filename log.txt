@@ -5605,3 +5605,4 @@
 0639. 🐛 fix: correct typo in registration form
 0383. 🐛 fix: fix broken CSS in mobile view
 0886. ♻️ chore: clean up unused files
+0937. 🐛 fix: handle 500 error in quiz API
