@@ -3602,3 +3602,4 @@
 0777. 📚 docs: document token refresh logic
 0771. 🚀 perf: cache repeated calculations
 0600. 🐛 fix: prevent crash on empty input
+0061. ✨ feat: create admin dashboard
