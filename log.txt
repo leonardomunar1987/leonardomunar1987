@@ -1959,3 +1959,4 @@
 0440. 📚 docs: update README with setup steps
 0178. ✨ feat: support email verification
 0152. ✨ feat: add user authentication
+0039. ✅ test: add integration test for /submit endpoint
