@@ -5610,3 +5610,4 @@
 0138. 🎨 style: rename variables for clarity
 0699. 🎨 style: standardize quote style
 0991. ♻️ chore: clean up unused files
+0517. ✅ test: mock database connection in test suite
