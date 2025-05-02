@@ -5615,3 +5615,4 @@
 0584. 🚀 perf: lazy-load components
 0989. 📚 docs: write FAQ section
 0342. 🚀 perf: cache repeated calculations
+0508. ✅ test: add unit test for quiz service
