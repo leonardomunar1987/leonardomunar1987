@@ -3613,3 +3613,4 @@
 0570. 🎨 style: apply consistent indentation
 0490. ✨ feat: create admin dashboard
 0901. ✨ feat: add user authentication
+0793. 📚 docs: clarify environment setup
