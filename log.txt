@@ -4606,3 +4606,4 @@
 0038. 🎨 style: rename variables for clarity
 0929. ✨ feat: support email verification
 0900. 🐛 fix: handle 500 error in quiz API
+0227. ✅ test: test user registration edge cases
