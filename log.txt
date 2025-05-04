@@ -217,3 +217,4 @@
 0070. ✨ feat: implement quiz timer feature
 0464. 🎨 style: remove trailing whitespace
 0521. 🎨 style: standardize quote style
+0379. ✨ feat: support email verification
