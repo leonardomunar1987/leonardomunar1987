@@ -2924,3 +2924,4 @@
 0591. ♻️ chore: clean up unused files
 0534. 🔧 refactor: split large controller into smaller functions
 0999. 🔧 refactor: split large controller into smaller functions
+0036. 🔧 refactor: clean up auth middleware
