@@ -4612,3 +4612,4 @@
 0461. ✨ feat: add user authentication
 0808. 🚀 perf: optimize database query for quiz results
 0265. 🎨 style: reformat files with black
+0819. 🚀 perf: reduce image load time
