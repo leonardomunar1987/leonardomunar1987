@@ -1968,3 +1968,4 @@
 0297. 🎨 style: remove trailing whitespace
 0761. ✅ test: add unit test for quiz service
 0719. 🎨 style: apply consistent indentation
+0380. 🐛 fix: fix null pointer exception on login
