@@ -218,3 +218,4 @@
 0464. 🎨 style: remove trailing whitespace
 0521. 🎨 style: standardize quote style
 0379. ✨ feat: support email verification
+0731. 🎨 style: standardize quote style
