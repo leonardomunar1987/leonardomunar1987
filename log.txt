@@ -2929,3 +2929,4 @@
 0979. 🎨 style: standardize quote style
 0781. 🚀 perf: reduce image load time
 0749. ✨ feat: support email verification
+0339. 📚 docs: update README with setup steps
