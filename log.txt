@@ -3622,3 +3622,4 @@
 0143. ✨ feat: implement quiz timer feature
 0827. 🚀 perf: optimize database query for quiz results
 0756. ✨ feat: support email verification
+0939. 📚 docs: update README with setup steps
