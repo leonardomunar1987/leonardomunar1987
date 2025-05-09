@@ -5629,3 +5629,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0657. 🎨 style: standardize quote style
 0439. 🐛 fix: correct typo in registration form
+0649. 📚 docs: update README with setup steps
