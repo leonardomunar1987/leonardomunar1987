@@ -3625,3 +3625,4 @@
 0939. 📚 docs: update README with setup steps
 0123. ✨ feat: implement quiz timer feature
 0048. 📚 docs: update README with setup steps
+0711. 🐛 fix: fix broken CSS in mobile view
