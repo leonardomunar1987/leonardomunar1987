@@ -5630,3 +5630,4 @@
 0657. 🎨 style: standardize quote style
 0439. 🐛 fix: correct typo in registration form
 0649. 📚 docs: update README with setup steps
+0312. ✨ feat: add user authentication
