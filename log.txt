@@ -220,3 +220,4 @@
 0379. ✨ feat: support email verification
 0731. 🎨 style: standardize quote style
 0340. 🚀 perf: optimize database query for quiz results
+0890. 🔧 refactor: organize models into subfolders
