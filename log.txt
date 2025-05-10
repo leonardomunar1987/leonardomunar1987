@@ -2936,3 +2936,4 @@
 0686. 🎨 style: standardize quote style
 0691. 🎨 style: rename variables for clarity
 0632. 🎨 style: remove trailing whitespace
+0305. ✨ feat: enable dark mode toggle
