@@ -1973,3 +1973,4 @@
 0786. ✨ feat: enable dark mode toggle
 0897. 🐛 fix: prevent crash on empty input
 0416. 🎨 style: rename variables for clarity
+0901. ✨ feat: add user authentication
