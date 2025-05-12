@@ -5637,3 +5637,4 @@
 0847. ♻️ chore: clean up unused files
 0971. 🎨 style: standardize quote style
 0277. 🎨 style: standardize quote style
+0454. ♻️ chore: bump dependencies
