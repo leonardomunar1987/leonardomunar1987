@@ -1975,3 +1975,4 @@
 0416. 🎨 style: rename variables for clarity
 0901. ✨ feat: add user authentication
 0492. 🎨 style: remove trailing whitespace
+0844. 📚 docs: update README with setup steps
