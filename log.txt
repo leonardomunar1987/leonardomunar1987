@@ -5638,3 +5638,4 @@
 0971. 🎨 style: standardize quote style
 0277. 🎨 style: standardize quote style
 0454. ♻️ chore: bump dependencies
+0188. 🎨 style: apply consistent indentation
