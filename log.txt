@@ -4626,3 +4626,4 @@
 0059. ♻️ chore: bump dependencies
 0992. ♻️ chore: clean up unused files
 0717. 🔧 refactor: refactor quiz grading logic
+0574. ✨ feat: enable dark mode toggle
