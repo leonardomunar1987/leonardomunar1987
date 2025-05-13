@@ -1977,3 +1977,4 @@
 0492. 🎨 style: remove trailing whitespace
 0844. 📚 docs: update README with setup steps
 0959. 🐛 fix: fix null pointer exception on login
+0493. ✨ feat: add user authentication
