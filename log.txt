@@ -4630,3 +4630,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0680. ♻️ chore: add GitHub actions badge
 0552. 🐛 fix: fix null pointer exception on login
+0062. ♻️ chore: update .gitignore
