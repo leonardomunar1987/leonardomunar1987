@@ -5649,3 +5649,4 @@
 0595. ✨ feat: enable dark mode toggle
 0722. 📚 docs: add API usage examples
 0849. 🐛 fix: correct typo in registration form
+0876. ♻️ chore: rename env.example
