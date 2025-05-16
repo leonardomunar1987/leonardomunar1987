@@ -4640,3 +4640,4 @@
 0742. 📚 docs: clarify environment setup
 0275. 🎨 style: standardize quote style
 0764. ✨ feat: add user authentication
+0599. ✅ test: test user registration edge cases
