@@ -3644,3 +3644,4 @@
 0297. 🎨 style: remove trailing whitespace
 0222. 🐛 fix: handle 500 error in quiz API
 0574. ✨ feat: enable dark mode toggle
+0666. 🐛 fix: fix broken CSS in mobile view
