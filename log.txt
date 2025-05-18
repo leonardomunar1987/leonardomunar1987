@@ -4651,3 +4651,4 @@
 0454. ♻️ chore: bump dependencies
 0335. ♻️ chore: update .gitignore
 0305. ✨ feat: enable dark mode toggle
+0653. 🐛 fix: prevent crash on empty input
