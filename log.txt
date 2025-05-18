@@ -1984,3 +1984,4 @@
 0886. ♻️ chore: clean up unused files
 0407. 🚀 perf: cache repeated calculations
 0991. ♻️ chore: clean up unused files
+0476. 🚀 perf: reduce image load time
