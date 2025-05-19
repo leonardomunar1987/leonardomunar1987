@@ -225,3 +225,4 @@
 0649. 📚 docs: update README with setup steps
 0108. 🎨 style: remove trailing whitespace
 0322. 🔧 refactor: split large controller into smaller functions
+0291. 📚 docs: write FAQ section
