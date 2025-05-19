@@ -5661,3 +5661,4 @@
 0274. 🔧 refactor: refactor quiz grading logic
 0430. 🐛 fix: fix null pointer exception on login
 0811. 🎨 style: reformat files with black
+0401. 🚀 perf: reduce image load time
