@@ -1986,3 +1986,4 @@
 0991. ♻️ chore: clean up unused files
 0476. 🚀 perf: reduce image load time
 0677. 📚 docs: add API usage examples
+0785. ✨ feat: enable dark mode toggle
