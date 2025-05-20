@@ -3658,3 +3658,4 @@
 0493. ✨ feat: add user authentication
 0663. 🚀 perf: reduce image load time
 0298. ♻️ chore: update .gitignore
+0101. 📚 docs: clarify environment setup
