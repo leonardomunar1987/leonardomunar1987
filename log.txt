@@ -5663,3 +5663,4 @@
 0811. 🎨 style: reformat files with black
 0401. 🚀 perf: reduce image load time
 0146. 🎨 style: apply consistent indentation
+0249. ✅ test: increase coverage on auth module
