@@ -5665,3 +5665,4 @@
 0146. 🎨 style: apply consistent indentation
 0249. ✅ test: increase coverage on auth module
 0471. ✨ feat: support email verification
+0929. ✨ feat: support email verification
