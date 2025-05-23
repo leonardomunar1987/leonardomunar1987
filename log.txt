@@ -4659,3 +4659,4 @@
 0852. ✨ feat: enable dark mode toggle
 0495. 🔧 refactor: remove redundant code blocks
 0501. ✨ feat: add export to CSV option
+0513. ♻️ chore: bump dependencies
