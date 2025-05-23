@@ -3662,3 +3662,4 @@
 0267. 📚 docs: improve code comments in utils
 0055. 📚 docs: update README with setup steps
 0736. 🐛 fix: fix null pointer exception on login
+0946. ✅ test: add unit test for quiz service
