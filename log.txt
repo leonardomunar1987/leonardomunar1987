@@ -5669,3 +5669,4 @@
 0790. 📚 docs: write FAQ section
 0574. ✨ feat: enable dark mode toggle
 0655. 🚀 perf: cache repeated calculations
+0295. 🎨 style: remove trailing whitespace
