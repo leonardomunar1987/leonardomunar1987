@@ -3668,3 +3668,4 @@
 0301. 🎨 style: apply consistent indentation
 0441. 📚 docs: add API usage examples
 0351. ✨ feat: add export to CSV option
+0869. ♻️ chore: bump dependencies
