@@ -4676,3 +4676,4 @@
 0925. ✨ feat: add export to CSV option
 0794. ♻️ chore: clean up unused files
 0908. ♻️ chore: bump dependencies
+0456. 🚀 perf: optimize database query for quiz results
