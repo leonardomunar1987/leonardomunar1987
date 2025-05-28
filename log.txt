@@ -3676,3 +3676,4 @@
 0765. ♻️ chore: clean up unused files
 0451. ✨ feat: support email verification
 0219. ✅ test: increase coverage on auth module
+0860. 🔧 refactor: organize models into subfolders
