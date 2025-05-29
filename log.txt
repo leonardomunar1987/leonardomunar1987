@@ -5688,3 +5688,4 @@
 0678. ✨ feat: add user authentication
 0719. 🎨 style: apply consistent indentation
 0071. 🔧 refactor: refactor quiz grading logic
+0536. ✨ feat: add user authentication
