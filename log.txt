@@ -5694,3 +5694,4 @@
 0803. ✅ test: mock database connection in test suite
 0093. ✅ test: add unit test for quiz service
 0963. 🚀 perf: reduce image load time
+0861. ♻️ chore: clean up unused files
