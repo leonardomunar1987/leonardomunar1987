@@ -4685,3 +4685,4 @@
 0481. ✅ test: add unit test for quiz service
 0056. ♻️ chore: rename env.example
 0124. 🎨 style: reformat files with black
+0386. 🚀 perf: optimize database query for quiz results
