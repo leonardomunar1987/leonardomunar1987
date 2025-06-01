@@ -4688,3 +4688,4 @@
 0386. 🚀 perf: optimize database query for quiz results
 0783. 🐛 fix: handle 500 error in quiz API
 0439. 🐛 fix: correct typo in registration form
+0374. 🎨 style: standardize quote style
