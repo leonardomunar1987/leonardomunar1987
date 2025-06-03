@@ -3687,3 +3687,4 @@
 0406. ✨ feat: add export to CSV option
 0923. ✨ feat: support email verification
 0504. 📚 docs: document token refresh logic
+0557. 🔧 refactor: clean up auth middleware
