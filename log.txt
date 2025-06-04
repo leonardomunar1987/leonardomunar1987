@@ -4695,3 +4695,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0240. 🔧 refactor: remove redundant code blocks
 0310. 🔧 refactor: refactor quiz grading logic
+0356. 📚 docs: write FAQ section
