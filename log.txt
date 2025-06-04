@@ -5710,3 +5710,4 @@
 0399. ✅ test: mock database connection in test suite
 0980. 🎨 style: reformat files with black
 0662. ♻️ chore: clean up unused files
+0866. 📚 docs: add API usage examples
