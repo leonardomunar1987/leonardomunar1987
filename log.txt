@@ -5719,3 +5719,4 @@
 0260. ✨ feat: create admin dashboard
 0686. 🎨 style: standardize quote style
 0273. 🚀 perf: reduce image load time
+0519. 📚 docs: document token refresh logic
