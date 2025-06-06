@@ -4700,3 +4700,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0388. 🎨 style: reformat files with black
 0411. ✅ test: add unit test for quiz service
+0821. ✅ test: add integration test for /submit endpoint
