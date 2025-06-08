@@ -5725,3 +5725,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0412. ✅ test: increase coverage on auth module
 0733. 🐛 fix: fix null pointer exception on login
+0140. 🐛 fix: handle 500 error in quiz API
