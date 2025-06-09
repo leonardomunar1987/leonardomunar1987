@@ -1217,3 +1217,4 @@
 0649. 📚 docs: update README with setup steps
 0427. ✅ test: mock database connection in test suite
 0471. ✨ feat: support email verification
+0024. 📚 docs: write FAQ section
