@@ -5732,3 +5732,4 @@
 0300. ✨ feat: add export to CSV option
 0985. 📚 docs: document token refresh logic
 0486. ✨ feat: add export to CSV option
+0724. ✅ test: mock database connection in test suite
