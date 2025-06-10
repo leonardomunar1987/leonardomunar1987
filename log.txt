@@ -2014,3 +2014,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0618. ✨ feat: support email verification
 0876. ♻️ chore: rename env.example
+0433. 🐛 fix: prevent crash on empty input
