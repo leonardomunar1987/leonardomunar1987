@@ -3707,3 +3707,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0630. 🚀 perf: lazy-load components
 0911. ✅ test: increase coverage on auth module
+0026. 🔧 refactor: clean up auth middleware
