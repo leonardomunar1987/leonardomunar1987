@@ -2979,3 +2979,4 @@
 0792. 🎨 style: standardize quote style
 0641. 📚 docs: write FAQ section
 0128. ♻️ chore: rename env.example
+0586. 🎨 style: remove trailing whitespace
