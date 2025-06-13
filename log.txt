@@ -3714,3 +3714,4 @@
 0001. 🚀 perf: cache repeated calculations
 0998. 🐛 fix: fix null pointer exception on login
 0988. 🐛 fix: fix broken CSS in mobile view
+0849. 🐛 fix: correct typo in registration form
