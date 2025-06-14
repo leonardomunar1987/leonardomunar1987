@@ -2018,3 +2018,4 @@
 0017. ✅ test: mock database connection in test suite
 0794. ♻️ chore: clean up unused files
 0742. 📚 docs: clarify environment setup
+0737. 🐛 fix: handle 500 error in quiz API
