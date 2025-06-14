@@ -2980,3 +2980,4 @@
 0641. 📚 docs: write FAQ section
 0128. ♻️ chore: rename env.example
 0586. 🎨 style: remove trailing whitespace
+0588. 🔧 refactor: organize models into subfolders
