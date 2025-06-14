@@ -5743,3 +5743,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0568. 🐛 fix: handle 500 error in quiz API
 0632. 🎨 style: remove trailing whitespace
+0970. ♻️ chore: update .gitignore
