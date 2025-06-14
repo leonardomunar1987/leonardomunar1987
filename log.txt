@@ -4715,3 +4715,4 @@
 0342. 🚀 perf: cache repeated calculations
 0685. ✅ test: test user registration edge cases
 0948. 🐛 fix: fix broken CSS in mobile view
+0576. ♻️ chore: update .gitignore
