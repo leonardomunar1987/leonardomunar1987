@@ -5740,3 +5740,4 @@
 0982. 🚀 perf: lazy-load components
 0170. ✅ test: increase coverage on auth module
 0282. 🔧 refactor: remove redundant code blocks
+0718. 🐛 fix: resolve issue with date parsing
