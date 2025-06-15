@@ -3718,3 +3718,4 @@
 0651. ✨ feat: enable dark mode toggle
 0206. 🐛 fix: handle 500 error in quiz API
 0914. ✅ test: test user registration edge cases
+0889. 🚀 perf: lazy-load components
