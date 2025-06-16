@@ -3723,3 +3723,4 @@
 0884. 📚 docs: clarify environment setup
 0628. ♻️ chore: add GitHub actions badge
 0855. 🎨 style: reformat files with black
+0525. ✅ test: mock database connection in test suite
