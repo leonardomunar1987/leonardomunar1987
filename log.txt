@@ -3727,3 +3727,4 @@
 0128. ♻️ chore: rename env.example
 0735. ♻️ chore: add GitHub actions badge
 0760. 🐛 fix: resolve issue with date parsing
+0258. 🐛 fix: prevent crash on empty input
