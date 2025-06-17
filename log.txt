@@ -5749,3 +5749,4 @@
 0033. 🎨 style: apply consistent indentation
 0288. 🔧 refactor: refactor quiz grading logic
 0614. 🚀 perf: reduce image load time
+0922. 📚 docs: write FAQ section
