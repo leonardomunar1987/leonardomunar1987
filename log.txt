@@ -5753,3 +5753,4 @@
 0730. ✅ test: test user registration edge cases
 0348. ✅ test: test user registration edge cases
 0613. 🐛 fix: prevent crash on empty input
+0698. 🐛 fix: handle 500 error in quiz API
