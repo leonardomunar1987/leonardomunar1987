@@ -3730,3 +3730,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0591. ♻️ chore: clean up unused files
 0834. ✅ test: increase coverage on auth module
+0193. 🚀 perf: optimize database query for quiz results
