@@ -2984,3 +2984,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0443. 🎨 style: standardize quote style
 0200. 🐛 fix: handle 500 error in quiz API
+0099. 🚀 perf: reduce image load time
