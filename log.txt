@@ -5757,3 +5757,4 @@
 0180. ✨ feat: add export to CSV option
 0956. 📚 docs: clarify environment setup
 0868. ✅ test: add unit test for quiz service
+0294. 🐛 fix: prevent crash on empty input
