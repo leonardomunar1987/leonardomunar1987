@@ -4729,3 +4729,4 @@
 0550. 🔧 refactor: split large controller into smaller functions
 0536. ✨ feat: add user authentication
 0486. ✨ feat: add export to CSV option
+0543. ✨ feat: support email verification
