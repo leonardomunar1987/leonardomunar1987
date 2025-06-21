@@ -3738,3 +3738,4 @@
 0325. 🎨 style: rename variables for clarity
 0363. 📚 docs: clarify environment setup
 0261. 🔧 refactor: refactor quiz grading logic
+0233. 🚀 perf: lazy-load components
