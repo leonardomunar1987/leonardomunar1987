@@ -3742,3 +3742,4 @@
 0054. ♻️ chore: update .gitignore
 0519. 📚 docs: document token refresh logic
 0549. ✨ feat: enable dark mode toggle
+0197. 📚 docs: update README with setup steps
