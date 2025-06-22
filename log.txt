@@ -3743,3 +3743,4 @@
 0519. 📚 docs: document token refresh logic
 0549. ✨ feat: enable dark mode toggle
 0197. 📚 docs: update README with setup steps
+0790. 📚 docs: write FAQ section
