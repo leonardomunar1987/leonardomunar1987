@@ -1219,3 +1219,4 @@
 0471. ✨ feat: support email verification
 0024. 📚 docs: write FAQ section
 0012. 🚀 perf: cache repeated calculations
+0204. 🎨 style: standardize quote style
