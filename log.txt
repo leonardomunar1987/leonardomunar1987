@@ -2032,3 +2032,4 @@
 0526. ✨ feat: add user authentication
 0875. ✅ test: increase coverage on auth module
 0559. 🔧 refactor: split large controller into smaller functions
+0961. 📚 docs: add API usage examples
