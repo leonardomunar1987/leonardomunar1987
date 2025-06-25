@@ -4746,3 +4746,4 @@
 0592. 📚 docs: add API usage examples
 0035. ✅ test: increase coverage on auth module
 0336. ✨ feat: add export to CSV option
+0947. 📚 docs: write FAQ section
