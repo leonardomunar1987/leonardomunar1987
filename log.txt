@@ -5773,3 +5773,4 @@
 0160. ♻️ chore: bump dependencies
 0498. ✅ test: mock database connection in test suite
 0880. 🐛 fix: fix broken CSS in mobile view
+0673. 🐛 fix: correct typo in registration form
