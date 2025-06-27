@@ -1220,3 +1220,4 @@
 0024. 📚 docs: write FAQ section
 0012. 🚀 perf: cache repeated calculations
 0204. 🎨 style: standardize quote style
+0442. 🎨 style: standardize quote style
