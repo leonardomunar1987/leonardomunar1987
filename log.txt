@@ -4754,3 +4754,4 @@
 0225. 🚀 perf: reduce image load time
 0905. ♻️ chore: bump dependencies
 0712. 🎨 style: apply consistent indentation
+0713. 🐛 fix: handle 500 error in quiz API
