@@ -1221,3 +1221,4 @@
 0012. 🚀 perf: cache repeated calculations
 0204. 🎨 style: standardize quote style
 0442. 🎨 style: standardize quote style
+0279. ✨ feat: support email verification
