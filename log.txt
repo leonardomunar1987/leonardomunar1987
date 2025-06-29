@@ -5781,3 +5781,4 @@
 0369. 🎨 style: standardize quote style
 0731. 🎨 style: standardize quote style
 0242. ♻️ chore: clean up unused files
+0826. 📚 docs: clarify environment setup
