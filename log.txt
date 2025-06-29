@@ -3759,3 +3759,4 @@
 0554. 📚 docs: improve code comments in utils
 0982. 🚀 perf: lazy-load components
 0376. 🎨 style: apply consistent indentation
+0337. 📚 docs: document token refresh logic
