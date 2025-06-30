@@ -2038,3 +2038,4 @@
 0151. ✅ test: add unit test for quiz service
 0542. 🔧 refactor: organize models into subfolders
 0779. 🔧 refactor: organize models into subfolders
+0040. 🔧 refactor: clean up auth middleware
