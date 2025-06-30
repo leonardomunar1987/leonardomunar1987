@@ -5783,3 +5783,4 @@
 0242. ♻️ chore: clean up unused files
 0826. 📚 docs: clarify environment setup
 0654. ✨ feat: create admin dashboard
+0320. 📚 docs: update README with setup steps
