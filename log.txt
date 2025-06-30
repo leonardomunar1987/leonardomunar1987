@@ -5784,3 +5784,4 @@
 0826. 📚 docs: clarify environment setup
 0654. ✨ feat: create admin dashboard
 0320. 📚 docs: update README with setup steps
+0524. ♻️ chore: rename env.example
