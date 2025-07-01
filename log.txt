@@ -5787,3 +5787,4 @@
 0524. ♻️ chore: rename env.example
 0760. 🐛 fix: resolve issue with date parsing
 0396. 🔧 refactor: split large controller into smaller functions
+0392. 🎨 style: remove trailing whitespace
