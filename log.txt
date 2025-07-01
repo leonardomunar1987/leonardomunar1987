@@ -4761,3 +4761,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0876. ♻️ chore: rename env.example
 0606. 📚 docs: improve code comments in utils
+0222. 🐛 fix: handle 500 error in quiz API
