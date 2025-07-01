@@ -3764,3 +3764,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0178. ✨ feat: support email verification
 0243. 🔧 refactor: clean up auth middleware
+0684. 🚀 perf: reduce image load time
