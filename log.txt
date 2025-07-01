@@ -5790,3 +5790,4 @@
 0392. 🎨 style: remove trailing whitespace
 0194. 🎨 style: standardize quote style
 0587. 🔧 refactor: remove redundant code blocks
+0653. 🐛 fix: prevent crash on empty input
