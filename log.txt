@@ -3768,3 +3768,4 @@
 0236. 🔧 refactor: remove redundant code blocks
 0256. ✅ test: mock database connection in test suite
 0618. ✨ feat: support email verification
+0779. 🔧 refactor: organize models into subfolders
