@@ -5794,3 +5794,4 @@
 0616. 🚀 perf: lazy-load components
 0132. ✅ test: add unit test for quiz service
 0984. ♻️ chore: clean up unused files
+0053. ✅ test: increase coverage on auth module
