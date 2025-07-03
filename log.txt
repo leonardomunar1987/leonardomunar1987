@@ -5796,3 +5796,4 @@
 0984. ♻️ chore: clean up unused files
 0053. ✅ test: increase coverage on auth module
 0415. 🐛 fix: handle 500 error in quiz API
+0207. 🐛 fix: prevent crash on empty input
