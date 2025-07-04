@@ -2044,3 +2044,4 @@
 0455. ♻️ chore: clean up unused files
 0080. ✨ feat: support email verification
 0010. ✨ feat: add user authentication
+0561. 📚 docs: write FAQ section
