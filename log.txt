@@ -2042,3 +2042,4 @@
 0656. 🎨 style: apply consistent indentation
 0870. ♻️ chore: clean up unused files
 0455. ♻️ chore: clean up unused files
+0080. ✨ feat: support email verification
