@@ -5800,3 +5800,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0555. ✨ feat: create admin dashboard
 0805. ♻️ chore: add GitHub actions badge
+0174. 📚 docs: clarify environment setup
