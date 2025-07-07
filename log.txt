@@ -3783,3 +3783,4 @@
 0956. 📚 docs: clarify environment setup
 0921. 🐛 fix: correct typo in registration form
 0530. 🔧 refactor: refactor quiz grading logic
+0737. 🐛 fix: handle 500 error in quiz API
