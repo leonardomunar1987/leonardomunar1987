@@ -3789,3 +3789,4 @@
 0250. 📚 docs: update README with setup steps
 0244. ✨ feat: add export to CSV option
 0106. 🎨 style: reformat files with black
+0023. 📚 docs: clarify environment setup
