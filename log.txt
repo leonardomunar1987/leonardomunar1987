@@ -4791,3 +4791,4 @@
 0147. ♻️ chore: bump dependencies
 0334. 🚀 perf: cache repeated calculations
 0597. 🚀 perf: cache repeated calculations
+0589. 🐛 fix: fix broken CSS in mobile view
