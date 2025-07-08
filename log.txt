@@ -3015,3 +3015,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0644. 🎨 style: apply consistent indentation
 0464. 🎨 style: remove trailing whitespace
+0378. 🐛 fix: prevent crash on empty input
