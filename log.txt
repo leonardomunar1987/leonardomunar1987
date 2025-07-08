@@ -3016,3 +3016,4 @@
 0644. 🎨 style: apply consistent indentation
 0464. 🎨 style: remove trailing whitespace
 0378. 🐛 fix: prevent crash on empty input
+0985. 📚 docs: document token refresh logic
