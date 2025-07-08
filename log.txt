@@ -5811,3 +5811,4 @@
 0747. 🔧 refactor: clean up auth middleware
 0691. 🎨 style: rename variables for clarity
 0715. ✨ feat: create admin dashboard
+0118. 🚀 perf: reduce image load time
