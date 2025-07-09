@@ -4794,3 +4794,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0091. ✨ feat: add user authentication
 0259. 🚀 perf: lazy-load components
+0340. 🚀 perf: optimize database query for quiz results
