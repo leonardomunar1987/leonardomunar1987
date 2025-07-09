@@ -2053,3 +2053,4 @@
 0293. ✅ test: add integration test for /submit endpoint
 0360. ✨ feat: add export to CSV option
 0270. ♻️ chore: rename env.example
+0156. 🎨 style: rename variables for clarity
