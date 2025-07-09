@@ -3793,3 +3793,4 @@
 0352. ✨ feat: add export to CSV option
 0411. ✅ test: add unit test for quiz service
 0828. ♻️ chore: add GitHub actions badge
+0107. 🐛 fix: prevent crash on empty input
