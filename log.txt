@@ -4792,3 +4792,4 @@
 0334. 🚀 perf: cache repeated calculations
 0597. 🚀 perf: cache repeated calculations
 0589. 🐛 fix: fix broken CSS in mobile view
+0091. ✨ feat: add user authentication
