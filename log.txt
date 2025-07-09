@@ -5813,3 +5813,4 @@
 0715. ✨ feat: create admin dashboard
 0118. 🚀 perf: reduce image load time
 0376. 🎨 style: apply consistent indentation
+0363. 📚 docs: clarify environment setup
