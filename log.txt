@@ -5824,3 +5824,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0887. 📚 docs: add API usage examples
 0831. 📚 docs: clarify environment setup
+0364. 🐛 fix: resolve issue with date parsing
