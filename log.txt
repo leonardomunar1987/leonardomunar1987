@@ -237,3 +237,4 @@
 0158. 📚 docs: clarify environment setup
 0323. 📚 docs: clarify environment setup
 0678. ✨ feat: add user authentication
+0048. 📚 docs: update README with setup steps
