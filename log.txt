@@ -3799,3 +3799,4 @@
 0910. 🎨 style: remove trailing whitespace
 0082. 🔧 refactor: refactor quiz grading logic
 0840. 🔧 refactor: refactor quiz grading logic
+0330. ✅ test: test user registration edge cases
