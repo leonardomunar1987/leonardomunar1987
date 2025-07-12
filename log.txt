@@ -5827,3 +5827,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0064. 📚 docs: clarify environment setup
 0110. 🐛 fix: prevent crash on empty input
+0362. 📚 docs: add API usage examples
