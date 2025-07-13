@@ -2059,3 +2059,4 @@
 0877. 🚀 perf: optimize database query for quiz results
 0579. 📚 docs: clarify environment setup
 0727. ♻️ chore: add GitHub actions badge
+0860. 🔧 refactor: organize models into subfolders
