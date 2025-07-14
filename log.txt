@@ -4808,3 +4808,4 @@
 0679. ♻️ chore: bump dependencies
 0634. 🎨 style: reformat files with black
 0358. 🚀 perf: reduce image load time
+0749. ✨ feat: support email verification
