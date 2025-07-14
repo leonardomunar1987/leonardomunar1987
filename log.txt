@@ -5833,3 +5833,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0298. ♻️ chore: update .gitignore
 0422. 🔧 refactor: organize models into subfolders
+0754. 🐛 fix: handle 500 error in quiz API
