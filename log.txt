@@ -3809,3 +3809,4 @@
 0798. 🚀 perf: reduce image load time
 0670. ✨ feat: add export to CSV option
 0816. 🔧 refactor: organize models into subfolders
+0316. 🐛 fix: fix broken CSS in mobile view
