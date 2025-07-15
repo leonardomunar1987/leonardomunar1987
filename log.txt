@@ -4811,3 +4811,4 @@
 0749. ✨ feat: support email verification
 0162. ♻️ chore: add GitHub actions badge
 0186. ✅ test: test user registration edge cases
+0608. 🔧 refactor: remove redundant code blocks
