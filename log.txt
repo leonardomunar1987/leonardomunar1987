@@ -5843,3 +5843,4 @@
 0102. ✨ feat: support email verification
 0254. 🚀 perf: reduce image load time
 0009. ✨ feat: enable dark mode toggle
+0942. ✅ test: increase coverage on auth module
