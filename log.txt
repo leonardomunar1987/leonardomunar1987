@@ -5841,3 +5841,4 @@
 0354. 📚 docs: add API usage examples
 0854. ♻️ chore: rename env.example
 0102. ✨ feat: support email verification
+0254. 🚀 perf: reduce image load time
