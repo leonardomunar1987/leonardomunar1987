@@ -5842,3 +5842,4 @@
 0854. ♻️ chore: rename env.example
 0102. ✨ feat: support email verification
 0254. 🚀 perf: reduce image load time
+0009. ✨ feat: enable dark mode toggle
