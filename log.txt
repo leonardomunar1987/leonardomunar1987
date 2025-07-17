@@ -5845,3 +5845,4 @@
 0009. ✨ feat: enable dark mode toggle
 0942. ✅ test: increase coverage on auth module
 0182. 🔧 refactor: remove redundant code blocks
+0450. 🐛 fix: fix broken CSS in mobile view
