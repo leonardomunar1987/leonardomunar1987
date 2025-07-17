@@ -3026,3 +3026,4 @@
 0728. 🔧 refactor: split large controller into smaller functions
 0240. 🔧 refactor: remove redundant code blocks
 0580. ♻️ chore: bump dependencies
+0693. 📚 docs: add API usage examples
