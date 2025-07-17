@@ -2061,3 +2061,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0860. 🔧 refactor: organize models into subfolders
 0788. 📚 docs: add API usage examples
+0157. ✅ test: mock database connection in test suite
