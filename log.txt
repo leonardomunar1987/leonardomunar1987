@@ -3028,3 +3028,4 @@
 0580. ♻️ chore: bump dependencies
 0693. 📚 docs: add API usage examples
 0001. 🚀 perf: cache repeated calculations
+0345. 📚 docs: document token refresh logic
