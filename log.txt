@@ -3822,3 +3822,4 @@
 0639. 🐛 fix: correct typo in registration form
 0021. ✨ feat: support email verification
 0008. 🚀 perf: reduce image load time
+0580. ♻️ chore: bump dependencies
