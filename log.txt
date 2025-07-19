@@ -1226,3 +1226,4 @@
 0361. ✨ feat: support email verification
 0648. ♻️ chore: bump dependencies
 0602. 🔧 refactor: remove redundant code blocks
+0515. 🚀 perf: optimize database query for quiz results
