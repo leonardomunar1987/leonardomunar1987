@@ -4818,3 +4818,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0621. 🔧 refactor: clean up auth middleware
 0057. 🚀 perf: optimize database query for quiz results
+0856. 🐛 fix: fix null pointer exception on login
