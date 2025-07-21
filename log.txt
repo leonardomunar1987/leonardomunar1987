@@ -3828,3 +3828,4 @@
 0262. 🎨 style: remove trailing whitespace
 0190. 🎨 style: rename variables for clarity
 0740. 🐛 fix: resolve issue with date parsing
+0056. ♻️ chore: rename env.example
