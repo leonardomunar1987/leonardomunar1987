@@ -3836,3 +3836,4 @@
 0906. 📚 docs: add API usage examples
 0187. ✨ feat: support email verification
 0538. 🐛 fix: fix broken CSS in mobile view
+0308. 🚀 perf: reduce image load time
