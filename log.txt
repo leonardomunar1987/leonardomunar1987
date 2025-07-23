@@ -4827,3 +4827,4 @@
 0851. ✅ test: mock database connection in test suite
 0709. ♻️ chore: bump dependencies
 0687. 🎨 style: remove trailing whitespace
+0084. 🐛 fix: handle 500 error in quiz API
