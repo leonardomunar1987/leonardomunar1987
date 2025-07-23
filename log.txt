@@ -5855,3 +5855,4 @@
 0212. 🎨 style: standardize quote style
 0935. 📚 docs: update README with setup steps
 0301. 🎨 style: apply consistent indentation
+0945. ♻️ chore: add GitHub actions badge
