@@ -3034,3 +3034,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0428. 🐛 fix: fix null pointer exception on login
 0672. 🐛 fix: fix broken CSS in mobile view
+0603. 🐛 fix: fix broken CSS in mobile view
