@@ -3835,3 +3835,4 @@
 0147. ♻️ chore: bump dependencies
 0906. 📚 docs: add API usage examples
 0187. ✨ feat: support email verification
+0538. 🐛 fix: fix broken CSS in mobile view
