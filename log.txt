@@ -4830,3 +4830,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0241. 📚 docs: add API usage examples
 0740. 🐛 fix: resolve issue with date parsing
+0041. 🐛 fix: fix broken CSS in mobile view
