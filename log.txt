@@ -4834,3 +4834,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0649. 📚 docs: update README with setup steps
 0970. ♻️ chore: update .gitignore
+0378. 🐛 fix: prevent crash on empty input
