@@ -5861,3 +5861,4 @@
 0516. ✅ test: add unit test for quiz service
 0726. ✨ feat: enable dark mode toggle
 0351. ✨ feat: add export to CSV option
+0882. 🚀 perf: optimize database query for quiz results
