@@ -2072,3 +2072,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0802. 🔧 refactor: remove redundant code blocks
 0001. 🚀 perf: cache repeated calculations
+0958. 🐛 fix: prevent crash on empty input
