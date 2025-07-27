@@ -3848,3 +3848,4 @@
 0398. 🚀 perf: cache repeated calculations
 0511. 🐛 fix: fix broken CSS in mobile view
 0650. ✅ test: add unit test for quiz service
+0975. 🎨 style: apply consistent indentation
