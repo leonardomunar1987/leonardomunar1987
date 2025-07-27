@@ -5865,3 +5865,4 @@
 0287. 📚 docs: write FAQ section
 0992. ♻️ chore: clean up unused files
 0940. 📚 docs: document token refresh logic
+0205. 📚 docs: update README with setup steps
