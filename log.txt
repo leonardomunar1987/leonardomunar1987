@@ -5870,3 +5870,4 @@
 0780. 📚 docs: add API usage examples
 0583. ✅ test: increase coverage on auth module
 0580. ♻️ chore: bump dependencies
+0658. 🎨 style: rename variables for clarity
