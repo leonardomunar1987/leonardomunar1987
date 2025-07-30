@@ -5872,3 +5872,4 @@
 0580. ♻️ chore: bump dependencies
 0658. 🎨 style: rename variables for clarity
 0150. 🎨 style: remove trailing whitespace
+0239. 🎨 style: standardize quote style
