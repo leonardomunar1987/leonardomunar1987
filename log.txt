@@ -3855,3 +3855,4 @@
 0553. 🐛 fix: correct typo in registration form
 0336. ✨ feat: add export to CSV option
 0179. 🔧 refactor: split large controller into smaller functions
+0804. ♻️ chore: add GitHub actions badge
