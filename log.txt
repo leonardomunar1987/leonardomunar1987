@@ -5881,3 +5881,4 @@
 0500. ✅ test: add integration test for /submit endpoint
 0648. ♻️ chore: bump dependencies
 0526. ✨ feat: add user authentication
+0400. 🐛 fix: fix null pointer exception on login
