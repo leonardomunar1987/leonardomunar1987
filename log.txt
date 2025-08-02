@@ -5880,3 +5880,4 @@
 0586. 🎨 style: remove trailing whitespace
 0500. ✅ test: add integration test for /submit endpoint
 0648. ♻️ chore: bump dependencies
+0526. ✨ feat: add user authentication
