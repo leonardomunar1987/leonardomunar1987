@@ -4856,3 +4856,4 @@
 0734. ✨ feat: add export to CSV option
 0444. ✅ test: add unit test for quiz service
 0023. 📚 docs: clarify environment setup
+0269. ✅ test: test user registration edge cases
