@@ -5878,3 +5878,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0617. ✨ feat: support email verification
 0586. 🎨 style: remove trailing whitespace
+0500. ✅ test: add integration test for /submit endpoint
