@@ -4863,3 +4863,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0870. ♻️ chore: clean up unused files
 0366. 🔧 refactor: remove redundant code blocks
+0673. 🐛 fix: correct typo in registration form
