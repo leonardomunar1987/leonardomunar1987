@@ -3064,3 +3064,4 @@
 0623. 🎨 style: standardize quote style
 0986. 📚 docs: document token refresh logic
 0662. ♻️ chore: clean up unused files
+0110. 🐛 fix: prevent crash on empty input
