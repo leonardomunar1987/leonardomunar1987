@@ -3874,3 +3874,4 @@
 0275. 🎨 style: standardize quote style
 0200. 🐛 fix: handle 500 error in quiz API
 0429. ✨ feat: add user authentication
+0821. ✅ test: add integration test for /submit endpoint
