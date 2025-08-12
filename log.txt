@@ -245,3 +245,4 @@
 0175. 📚 docs: add API usage examples
 0646. ✅ test: test user registration edge cases
 0792. 🎨 style: standardize quote style
+0360. ✨ feat: add export to CSV option
