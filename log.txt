@@ -4875,3 +4875,4 @@
 0053. ✅ test: increase coverage on auth module
 1000. ✅ test: increase coverage on auth module
 0232. 🎨 style: apply consistent indentation
+0859. ✨ feat: create admin dashboard
