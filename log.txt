@@ -3883,3 +3883,4 @@
 0231. 🔧 refactor: clean up auth middleware
 0556. ✨ feat: support email verification
 0894. ✅ test: add integration test for /submit endpoint
+0900. 🐛 fix: handle 500 error in quiz API
