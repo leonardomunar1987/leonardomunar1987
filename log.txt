@@ -1234,3 +1234,4 @@
 0615. 🐛 fix: correct typo in registration form
 0898. 🐛 fix: fix broken CSS in mobile view
 0645. 🐛 fix: resolve issue with date parsing
+0157. ✅ test: mock database connection in test suite
