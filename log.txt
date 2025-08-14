@@ -3077,3 +3077,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0816. 🔧 refactor: organize models into subfolders
 0467. ✅ test: add integration test for /submit endpoint
+0344. ♻️ chore: add GitHub actions badge
