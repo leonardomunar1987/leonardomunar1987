@@ -4885,3 +4885,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0993. ✨ feat: implement quiz timer feature
 0867. 🔧 refactor: refactor quiz grading logic
+0636. ✅ test: increase coverage on auth module
