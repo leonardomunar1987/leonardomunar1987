@@ -5913,3 +5913,4 @@
 0564. 📚 docs: clarify environment setup
 0548. 📚 docs: write FAQ section
 0631. ✨ feat: create admin dashboard
+0359. 🔧 refactor: clean up auth middleware
