@@ -2102,3 +2102,4 @@
 0501. ✨ feat: add export to CSV option
 0688. 🚀 perf: reduce image load time
 0282. 🔧 refactor: remove redundant code blocks
+0873. 🚀 perf: cache repeated calculations
