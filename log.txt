@@ -5910,3 +5910,4 @@
 0845. 🚀 perf: cache repeated calculations
 0901. ✨ feat: add user authentication
 0679. ♻️ chore: bump dependencies
+0564. 📚 docs: clarify environment setup
