@@ -3892,3 +3892,4 @@
 0108. 🎨 style: remove trailing whitespace
 0121. ✨ feat: support email verification
 0042. 📚 docs: document token refresh logic
+0953. 🎨 style: remove trailing whitespace
