@@ -3079,3 +3079,4 @@
 0467. ✅ test: add integration test for /submit endpoint
 0344. ♻️ chore: add GitHub actions badge
 0122. ✨ feat: support email verification
+0411. ✅ test: add unit test for quiz service
