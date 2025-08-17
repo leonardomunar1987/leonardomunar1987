@@ -3080,3 +3080,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0122. ✨ feat: support email verification
 0411. ✅ test: add unit test for quiz service
+0605. ✨ feat: support email verification
