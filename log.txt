@@ -3082,3 +3082,4 @@
 0411. ✅ test: add unit test for quiz service
 0605. ✨ feat: support email verification
 0908. ♻️ chore: bump dependencies
+0492. 🎨 style: remove trailing whitespace
