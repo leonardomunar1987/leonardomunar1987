@@ -5919,3 +5919,4 @@
 0060. ♻️ chore: clean up unused files
 0860. 🔧 refactor: organize models into subfolders
 0271. ✅ test: add unit test for quiz service
+0785. ✨ feat: enable dark mode toggle
