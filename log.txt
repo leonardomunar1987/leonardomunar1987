@@ -5921,3 +5921,4 @@
 0271. ✅ test: add unit test for quiz service
 0785. ✨ feat: enable dark mode toggle
 0767. 🔧 refactor: remove redundant code blocks
+0562. 🔧 refactor: clean up auth middleware
