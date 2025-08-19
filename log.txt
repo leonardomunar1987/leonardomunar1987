@@ -5923,3 +5923,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0562. 🔧 refactor: clean up auth middleware
 0012. 🚀 perf: cache repeated calculations
+0178. ✨ feat: support email verification
