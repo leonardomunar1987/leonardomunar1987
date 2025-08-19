@@ -3900,3 +3900,4 @@
 0453. 🎨 style: standardize quote style
 0356. 📚 docs: write FAQ section
 0372. ✨ feat: add user authentication
+0829. 🔧 refactor: organize models into subfolders
