@@ -1238,3 +1238,4 @@
 0232. 🎨 style: apply consistent indentation
 0690. 🚀 perf: lazy-load components
 0819. 🚀 perf: reduce image load time
+0154. 🐛 fix: prevent crash on empty input
