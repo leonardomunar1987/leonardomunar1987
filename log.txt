@@ -5925,3 +5925,4 @@
 0012. 🚀 perf: cache repeated calculations
 0178. ✨ feat: support email verification
 0350. 🚀 perf: cache repeated calculations
+0798. 🚀 perf: reduce image load time
