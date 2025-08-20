@@ -4901,3 +4901,4 @@
 0557. 🔧 refactor: clean up auth middleware
 0167. 🚀 perf: reduce image load time
 0187. ✨ feat: support email verification
+0732. ♻️ chore: add GitHub actions badge
