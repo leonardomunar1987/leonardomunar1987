@@ -246,3 +246,4 @@
 0646. ✅ test: test user registration edge cases
 0792. 🎨 style: standardize quote style
 0360. ✨ feat: add export to CSV option
+0514. 🐛 fix: fix broken CSS in mobile view
