@@ -4908,3 +4908,4 @@
 0785. ✨ feat: enable dark mode toggle
 0769. ✨ feat: create admin dashboard
 0833. ✨ feat: add user authentication
+0613. 🐛 fix: prevent crash on empty input
