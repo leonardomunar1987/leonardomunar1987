@@ -5934,3 +5934,4 @@
 0186. ✅ test: test user registration edge cases
 0919. 🚀 perf: optimize database query for quiz results
 0347. ♻️ chore: update .gitignore
+0181. ♻️ chore: add GitHub actions badge
