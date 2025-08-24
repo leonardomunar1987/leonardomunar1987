@@ -5936,3 +5936,4 @@
 0347. ♻️ chore: update .gitignore
 0181. ♻️ chore: add GitHub actions badge
 0656. 🎨 style: apply consistent indentation
+0344. ♻️ chore: add GitHub actions badge
