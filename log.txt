@@ -3914,3 +3914,4 @@
 0343. 🚀 perf: optimize database query for quiz results
 0957. 🐛 fix: fix null pointer exception on login
 0635. 🎨 style: apply consistent indentation
+0387. ✨ feat: enable dark mode toggle
