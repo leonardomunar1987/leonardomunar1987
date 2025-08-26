@@ -2118,3 +2118,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0303. 🎨 style: rename variables for clarity
 0119. 📚 docs: improve code comments in utils
+0243. 🔧 refactor: clean up auth middleware
