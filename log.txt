@@ -4919,3 +4919,4 @@
 0312. ✨ feat: add user authentication
 0049. 🐛 fix: handle 500 error in quiz API
 0018. 🔧 refactor: organize models into subfolders
+0295. 🎨 style: remove trailing whitespace
