@@ -4929,3 +4929,4 @@
 0555. ✨ feat: create admin dashboard
 0308. 🚀 perf: reduce image load time
 0617. ✨ feat: support email verification
+0210. 🎨 style: apply consistent indentation
