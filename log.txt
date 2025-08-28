@@ -3921,3 +3921,4 @@
 0669. ✨ feat: enable dark mode toggle
 0632. 🎨 style: remove trailing whitespace
 0581. ✅ test: add integration test for /submit endpoint
+0936. 🔧 refactor: organize models into subfolders
