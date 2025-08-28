@@ -4928,3 +4928,4 @@
 0693. 📚 docs: add API usage examples
 0555. ✨ feat: create admin dashboard
 0308. 🚀 perf: reduce image load time
+0617. ✨ feat: support email verification
