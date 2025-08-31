@@ -3098,3 +3098,4 @@
 0270. ♻️ chore: rename env.example
 0338. ♻️ chore: add GitHub actions badge
 0868. ✅ test: add unit test for quiz service
+0970. ♻️ chore: update .gitignore
