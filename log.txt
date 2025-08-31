@@ -5957,3 +5957,4 @@
 0085. ✨ feat: support email verification
 0175. 📚 docs: add API usage examples
 0280. ✅ test: add integration test for /submit endpoint
+0393. 🚀 perf: lazy-load components
