@@ -3934,3 +3934,4 @@
 0172. 📚 docs: add API usage examples
 0960. ✅ test: increase coverage on auth module
 0195. 📚 docs: clarify environment setup
+0462. ♻️ chore: update .gitignore
