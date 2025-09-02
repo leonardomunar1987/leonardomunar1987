@@ -5963,3 +5963,4 @@
 0374. 🎨 style: standardize quote style
 0473. 📚 docs: write FAQ section
 0936. 🔧 refactor: organize models into subfolders
+0600. 🐛 fix: prevent crash on empty input
