@@ -4944,3 +4944,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0097. 🐛 fix: handle 500 error in quiz API
 0940. 📚 docs: document token refresh logic
+0487. 🎨 style: reformat files with black
