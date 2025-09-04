@@ -5968,3 +5968,4 @@
 0941. 🚀 perf: cache repeated calculations
 0946. ✅ test: add unit test for quiz service
 0576. ♻️ chore: update .gitignore
+0598. 🔧 refactor: remove redundant code blocks
