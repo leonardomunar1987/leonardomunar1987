@@ -5970,3 +5970,4 @@
 0576. ♻️ chore: update .gitignore
 0598. 🔧 refactor: remove redundant code blocks
 0684. 🚀 perf: reduce image load time
+0475. 🔧 refactor: clean up auth middleware
