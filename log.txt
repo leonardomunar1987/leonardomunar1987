@@ -3954,3 +3954,4 @@
 0112. ✨ feat: enable dark mode toggle
 0373. 📚 docs: document token refresh logic
 0521. 🎨 style: standardize quote style
+0935. 📚 docs: update README with setup steps
