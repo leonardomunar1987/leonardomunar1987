@@ -2134,3 +2134,4 @@
 0467. ✅ test: add integration test for /submit endpoint
 0747. 🔧 refactor: clean up auth middleware
 0447. ♻️ chore: bump dependencies
+0365. 🚀 perf: reduce image load time
