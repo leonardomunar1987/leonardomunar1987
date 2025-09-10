@@ -5984,3 +5984,4 @@
 0608. 🔧 refactor: remove redundant code blocks
 0676. 🐛 fix: prevent crash on empty input
 0650. ✅ test: add unit test for quiz service
+0909. 🔧 refactor: organize models into subfolders
