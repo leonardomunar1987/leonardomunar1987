@@ -3109,3 +3109,4 @@
 0797. 📚 docs: add API usage examples
 0907. 🔧 refactor: split large controller into smaller functions
 0711. 🐛 fix: fix broken CSS in mobile view
+0731. 🎨 style: standardize quote style
