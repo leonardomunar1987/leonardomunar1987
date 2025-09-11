@@ -2139,3 +2139,4 @@
 0271. ✅ test: add unit test for quiz service
 0528. ♻️ chore: clean up unused files
 0803. ✅ test: mock database connection in test suite
+0250. 📚 docs: update README with setup steps
