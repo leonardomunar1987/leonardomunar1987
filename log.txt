@@ -5992,3 +5992,4 @@
 0122. ✨ feat: support email verification
 0356. 📚 docs: write FAQ section
 0874. 🔧 refactor: split large controller into smaller functions
+0332. 🎨 style: standardize quote style
