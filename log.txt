@@ -3973,3 +3973,4 @@
 0148. 🔧 refactor: organize models into subfolders
 0313. 🎨 style: apply consistent indentation
 0971. 🎨 style: standardize quote style
+0239. 🎨 style: standardize quote style
