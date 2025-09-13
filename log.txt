@@ -4965,3 +4965,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0961. 📚 docs: add API usage examples
 0511. 🐛 fix: fix broken CSS in mobile view
+0581. ✅ test: add integration test for /submit endpoint
