@@ -5995,3 +5995,4 @@
 0332. 🎨 style: standardize quote style
 0743. 🎨 style: apply consistent indentation
 0338. ♻️ chore: add GitHub actions badge
+0432. 🎨 style: apply consistent indentation
