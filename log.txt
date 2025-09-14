@@ -5998,3 +5998,4 @@
 0432. 🎨 style: apply consistent indentation
 0708. ✅ test: add integration test for /submit endpoint
 0257. 📚 docs: clarify environment setup
+0030. 🐛 fix: fix null pointer exception on login
