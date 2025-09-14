@@ -5999,3 +5999,4 @@
 0708. ✅ test: add integration test for /submit endpoint
 0257. 📚 docs: clarify environment setup
 0030. 🐛 fix: fix null pointer exception on login
+0800. 🚀 perf: optimize database query for quiz results
