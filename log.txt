@@ -6001,3 +6001,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0800. 🚀 perf: optimize database query for quiz results
 0049. 🐛 fix: handle 500 error in quiz API
+0066. 🔧 refactor: clean up auth middleware
