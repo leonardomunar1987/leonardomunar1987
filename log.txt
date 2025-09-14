@@ -2143,3 +2143,4 @@
 0053. ✅ test: increase coverage on auth module
 0028. 🎨 style: standardize quote style
 0595. ✨ feat: enable dark mode toggle
+0102. ✨ feat: support email verification
