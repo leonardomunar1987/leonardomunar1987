@@ -2144,3 +2144,4 @@
 0028. 🎨 style: standardize quote style
 0595. ✨ feat: enable dark mode toggle
 0102. ✨ feat: support email verification
+0401. 🚀 perf: reduce image load time
