@@ -3981,3 +3981,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0085. ✨ feat: support email verification
 0415. 🐛 fix: handle 500 error in quiz API
+0348. ✅ test: test user registration edge cases
