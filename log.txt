@@ -4973,3 +4973,4 @@
 0632. 🎨 style: remove trailing whitespace
 0836. 🚀 perf: optimize database query for quiz results
 0850. ♻️ chore: rename env.example
+0690. 🚀 perf: lazy-load components
