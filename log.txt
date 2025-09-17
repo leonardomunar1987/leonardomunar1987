@@ -4975,3 +4975,4 @@
 0850. ♻️ chore: rename env.example
 0690. 🚀 perf: lazy-load components
 0231. 🔧 refactor: clean up auth middleware
+0136. 🚀 perf: lazy-load components
