@@ -3986,3 +3986,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0440. 📚 docs: update README with setup steps
 0694. 🎨 style: rename variables for clarity
+0646. ✅ test: test user registration edge cases
