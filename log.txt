@@ -6013,3 +6013,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0250. 📚 docs: update README with setup steps
 0325. 🎨 style: rename variables for clarity
+0256. ✅ test: mock database connection in test suite
