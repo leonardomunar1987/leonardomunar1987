@@ -252,3 +252,4 @@
 0750. 🎨 style: apply consistent indentation
 0918. ✨ feat: enable dark mode toggle
 0876. ♻️ chore: rename env.example
+0799. ♻️ chore: clean up unused files
