@@ -3125,3 +3125,4 @@
 0143. ✨ feat: implement quiz timer feature
 0417. 🎨 style: rename variables for clarity
 0324. 📚 docs: document token refresh logic
+0463. 🚀 perf: reduce image load time
