@@ -2149,3 +2149,4 @@
 0142. ✨ feat: implement quiz timer feature
 0311. 🎨 style: apply consistent indentation
 0100. ♻️ chore: update .gitignore
+0630. 🚀 perf: lazy-load components
