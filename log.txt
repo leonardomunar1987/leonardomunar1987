@@ -6010,3 +6010,4 @@
 0023. 📚 docs: clarify environment setup
 0727. ♻️ chore: add GitHub actions badge
 0001. 🚀 perf: cache repeated calculations
+0097. 🐛 fix: handle 500 error in quiz API
