@@ -6017,3 +6017,4 @@
 0669. ✨ feat: enable dark mode toggle
 0923. ✨ feat: support email verification
 0839. 🎨 style: apply consistent indentation
+0197. 📚 docs: update README with setup steps
