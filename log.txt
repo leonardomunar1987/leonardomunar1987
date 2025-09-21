@@ -3994,3 +3994,4 @@
 0226. 🚀 perf: lazy-load components
 0463. 🚀 perf: reduce image load time
 0198. 📚 docs: clarify environment setup
+0208. 🔧 refactor: clean up auth middleware
