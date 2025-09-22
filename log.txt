@@ -4000,3 +4000,4 @@
 0801. ✨ feat: enable dark mode toggle
 0011. ✅ test: add unit test for quiz service
 0596. ♻️ chore: update .gitignore
+0120. ✅ test: add integration test for /submit endpoint
