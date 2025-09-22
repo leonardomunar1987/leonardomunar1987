@@ -3999,3 +3999,4 @@
 0614. 🚀 perf: reduce image load time
 0801. ✨ feat: enable dark mode toggle
 0011. ✅ test: add unit test for quiz service
+0596. ♻️ chore: update .gitignore
