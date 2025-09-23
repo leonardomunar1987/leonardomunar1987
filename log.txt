@@ -3128,3 +3128,4 @@
 0463. 🚀 perf: reduce image load time
 0337. 📚 docs: document token refresh logic
 0460. 📚 docs: write FAQ section
+0487. 🎨 style: reformat files with black
