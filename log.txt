@@ -4992,3 +4992,4 @@
 0069. 🎨 style: rename variables for clarity
 0504. 📚 docs: document token refresh logic
 0515. 🚀 perf: optimize database query for quiz results
+0582. ✨ feat: add export to CSV option
