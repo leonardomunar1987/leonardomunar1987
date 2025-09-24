@@ -6025,3 +6025,4 @@
 0973. 🔧 refactor: organize models into subfolders
 0490. ✨ feat: create admin dashboard
 0464. 🎨 style: remove trailing whitespace
+0914. ✅ test: test user registration edge cases
