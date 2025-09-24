@@ -6026,3 +6026,4 @@
 0490. ✨ feat: create admin dashboard
 0464. 🎨 style: remove trailing whitespace
 0914. ✅ test: test user registration edge cases
+0217. 🚀 perf: reduce image load time
