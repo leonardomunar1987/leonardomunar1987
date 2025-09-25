@@ -4006,3 +4006,4 @@
 0709. ♻️ chore: bump dependencies
 0381. ♻️ chore: clean up unused files
 0595. ✨ feat: enable dark mode toggle
+0566. 📚 docs: write FAQ section
