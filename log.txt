@@ -3134,3 +3134,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0159. 🚀 perf: lazy-load components
 0291. 📚 docs: write FAQ section
+0997. ✅ test: increase coverage on auth module
