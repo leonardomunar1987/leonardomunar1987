@@ -2156,3 +2156,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0363. 📚 docs: clarify environment setup
 0509. ♻️ chore: bump dependencies
+0468. 📚 docs: update README with setup steps
