@@ -4007,3 +4007,4 @@
 0381. ♻️ chore: clean up unused files
 0595. ✨ feat: enable dark mode toggle
 0566. 📚 docs: write FAQ section
+0294. 🐛 fix: prevent crash on empty input
