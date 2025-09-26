@@ -1247,3 +1247,4 @@
 0712. 🎨 style: apply consistent indentation
 0205. 📚 docs: update README with setup steps
 0627. 📚 docs: document token refresh logic
+0556. ✨ feat: support email verification
