@@ -6029,3 +6029,4 @@
 0217. 🚀 perf: reduce image load time
 0098. 🎨 style: rename variables for clarity
 0155. ✨ feat: create admin dashboard
+0770. ♻️ chore: rename env.example
