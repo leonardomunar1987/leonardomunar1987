@@ -6031,3 +6031,4 @@
 0155. ✨ feat: create admin dashboard
 0770. ♻️ chore: rename env.example
 0977. 🔧 refactor: organize models into subfolders
+0003. ✅ test: increase coverage on auth module
