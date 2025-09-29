@@ -4011,3 +4011,4 @@
 0811. 🎨 style: reformat files with black
 0034. 📚 docs: improve code comments in utils
 0235. 🐛 fix: fix null pointer exception on login
+0105. 🐛 fix: correct typo in registration form
