@@ -5005,3 +5005,4 @@
 0033. 🎨 style: apply consistent indentation
 0540. ♻️ chore: add GitHub actions badge
 0473. 📚 docs: write FAQ section
+0281. ✨ feat: support email verification
