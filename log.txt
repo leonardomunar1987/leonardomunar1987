@@ -5003,3 +5003,4 @@
 0462. ♻️ chore: update .gitignore
 0212. 🎨 style: standardize quote style
 0033. 🎨 style: apply consistent indentation
+0540. ♻️ chore: add GitHub actions badge
