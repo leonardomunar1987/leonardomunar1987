@@ -6043,3 +6043,4 @@
 0869. ♻️ chore: bump dependencies
 0867. 🔧 refactor: refactor quiz grading logic
 0881. 🔧 refactor: split large controller into smaller functions
+0875. ✅ test: increase coverage on auth module
