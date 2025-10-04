@@ -2171,3 +2171,4 @@
 0241. 📚 docs: add API usage examples
 0188. 🎨 style: apply consistent indentation
 0240. 🔧 refactor: remove redundant code blocks
+0703. 🔧 refactor: clean up auth middleware
