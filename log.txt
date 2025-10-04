@@ -3145,3 +3145,4 @@
 0352. ✨ feat: add export to CSV option
 0630. 🚀 perf: lazy-load components
 0311. 🎨 style: apply consistent indentation
+0882. 🚀 perf: optimize database query for quiz results
