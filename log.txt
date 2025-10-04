@@ -6054,3 +6054,4 @@
 0259. 🚀 perf: lazy-load components
 0707. 🎨 style: apply consistent indentation
 0303. 🎨 style: rename variables for clarity
+0111. 📚 docs: update README with setup steps
