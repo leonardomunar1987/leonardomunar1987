@@ -3143,3 +3143,4 @@
 0205. 📚 docs: update README with setup steps
 0164. 📚 docs: document token refresh logic
 0352. ✨ feat: add export to CSV option
+0630. 🚀 perf: lazy-load components
