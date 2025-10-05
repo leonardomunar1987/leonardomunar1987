@@ -5015,3 +5015,4 @@
 0611. ✅ test: test user registration edge cases
 0862. ♻️ chore: bump dependencies
 0909. 🔧 refactor: organize models into subfolders
+0192. ✨ feat: enable dark mode toggle
