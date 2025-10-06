@@ -5018,3 +5018,4 @@
 0192. ✨ feat: enable dark mode toggle
 0365. 🚀 perf: reduce image load time
 0316. 🐛 fix: fix broken CSS in mobile view
+0442. 🎨 style: standardize quote style
