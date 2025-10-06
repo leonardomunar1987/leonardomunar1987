@@ -3151,3 +3151,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0942. ✅ test: increase coverage on auth module
 0975. 🎨 style: apply consistent indentation
+0639. 🐛 fix: correct typo in registration form
