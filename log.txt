@@ -2176,3 +2176,4 @@
 0351. ✨ feat: add export to CSV option
 0847. ♻️ chore: clean up unused files
 0323. 📚 docs: clarify environment setup
+0563. 📚 docs: clarify environment setup
