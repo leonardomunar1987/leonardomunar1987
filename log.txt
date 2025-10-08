@@ -6062,3 +6062,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0241. 📚 docs: add API usage examples
 0944. ✨ feat: add user authentication
+0278. 🔧 refactor: clean up auth middleware
