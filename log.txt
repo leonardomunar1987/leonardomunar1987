@@ -5022,3 +5022,4 @@
 0028. 🎨 style: standardize quote style
 0434. 📚 docs: document token refresh logic
 0118. 🚀 perf: reduce image load time
+0772. 🐛 fix: fix null pointer exception on login
