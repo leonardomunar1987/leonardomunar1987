@@ -4034,3 +4034,4 @@
 0679. ♻️ chore: bump dependencies
 0394. 🚀 perf: lazy-load components
 0281. ✨ feat: support email verification
+0349. ✅ test: increase coverage on auth module
