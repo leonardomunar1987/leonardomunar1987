@@ -1251,3 +1251,4 @@
 0254. 🚀 perf: reduce image load time
 0535. 📚 docs: write FAQ section
 0740. 🐛 fix: resolve issue with date parsing
+0346. ✅ test: mock database connection in test suite
