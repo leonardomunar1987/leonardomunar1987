@@ -4038,3 +4038,4 @@
 0138. 🎨 style: rename variables for clarity
 0097. 🐛 fix: handle 500 error in quiz API
 0286. ✅ test: mock database connection in test suite
+0653. 🐛 fix: prevent crash on empty input
