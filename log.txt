@@ -4039,3 +4039,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0286. ✅ test: mock database connection in test suite
 0653. 🐛 fix: prevent crash on empty input
+0726. ✨ feat: enable dark mode toggle
