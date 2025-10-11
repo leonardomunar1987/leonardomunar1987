@@ -2181,3 +2181,4 @@
 0465. 🎨 style: rename variables for clarity
 0513. ♻️ chore: bump dependencies
 0358. 🚀 perf: reduce image load time
+0629. 🔧 refactor: organize models into subfolders
