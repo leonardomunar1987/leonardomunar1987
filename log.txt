@@ -3158,3 +3158,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0834. ✅ test: increase coverage on auth module
 0660. 🐛 fix: correct typo in registration form
+0839. 🎨 style: apply consistent indentation
