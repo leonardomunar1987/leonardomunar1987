@@ -6070,3 +6070,4 @@
 0885. ♻️ chore: update .gitignore
 0230. ✨ feat: create admin dashboard
 0716. ✨ feat: implement quiz timer feature
+0272. 🔧 refactor: remove redundant code blocks
