@@ -4043,3 +4043,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0705. 🔧 refactor: refactor quiz grading logic
 0410. 🎨 style: reformat files with black
+0880. 🐛 fix: fix broken CSS in mobile view
