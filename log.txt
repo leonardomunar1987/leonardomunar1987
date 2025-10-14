@@ -6079,3 +6079,4 @@
 0352. ✨ feat: add export to CSV option
 0545. 🎨 style: standardize quote style
 0560. 🎨 style: rename variables for clarity
+0080. ✨ feat: support email verification
