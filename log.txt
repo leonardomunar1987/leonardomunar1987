@@ -6082,3 +6082,4 @@
 0080. ✨ feat: support email verification
 0465. 🎨 style: rename variables for clarity
 0106. 🎨 style: reformat files with black
+0696. 🔧 refactor: clean up auth middleware
