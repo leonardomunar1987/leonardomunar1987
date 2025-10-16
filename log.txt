@@ -1253,3 +1253,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0346. ✅ test: mock database connection in test suite
 0026. 🔧 refactor: clean up auth middleware
+0843. 📚 docs: document token refresh logic
