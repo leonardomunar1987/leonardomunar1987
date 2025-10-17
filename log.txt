@@ -5047,3 +5047,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0863. 🐛 fix: correct typo in registration form
 0937. 🐛 fix: handle 500 error in quiz API
+0698. 🐛 fix: handle 500 error in quiz API
