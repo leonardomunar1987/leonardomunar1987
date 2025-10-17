@@ -1255,3 +1255,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0843. 📚 docs: document token refresh logic
 0618. ✨ feat: support email verification
+0682. ♻️ chore: rename env.example
