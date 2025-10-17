@@ -6091,3 +6091,4 @@
 0070. ✨ feat: implement quiz timer feature
 0251. ♻️ chore: update .gitignore
 0694. 🎨 style: rename variables for clarity
+0037. 🐛 fix: correct typo in registration form
