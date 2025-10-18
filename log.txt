@@ -5051,3 +5051,4 @@
 0882. 🚀 perf: optimize database query for quiz results
 0401. 🚀 perf: reduce image load time
 0942. ✅ test: increase coverage on auth module
+0451. ✨ feat: support email verification
