@@ -2187,3 +2187,4 @@
 0838. 🎨 style: standardize quote style
 0731. 🎨 style: standardize quote style
 0664. ✅ test: add unit test for quiz service
+0768. 🎨 style: remove trailing whitespace
