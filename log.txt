@@ -5057,3 +5057,4 @@
 0327. 🔧 refactor: split large controller into smaller functions
 0101. 📚 docs: clarify environment setup
 0408. ♻️ chore: add GitHub actions badge
+0935. 📚 docs: update README with setup steps
