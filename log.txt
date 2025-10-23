@@ -5068,3 +5068,4 @@
 0435. ✅ test: add unit test for quiz service
 0829. 🔧 refactor: organize models into subfolders
 0921. 🐛 fix: correct typo in registration form
+0981. 🚀 perf: lazy-load components
