@@ -259,3 +259,4 @@
 0984. ♻️ chore: clean up unused files
 0084. 🐛 fix: handle 500 error in quiz API
 0907. 🔧 refactor: split large controller into smaller functions
+0477. 🐛 fix: fix broken CSS in mobile view
