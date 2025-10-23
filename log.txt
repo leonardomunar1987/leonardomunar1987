@@ -5064,3 +5064,4 @@
 0332. 🎨 style: standardize quote style
 0828. ♻️ chore: add GitHub actions badge
 0723. 🔧 refactor: remove redundant code blocks
+0959. 🐛 fix: fix null pointer exception on login
