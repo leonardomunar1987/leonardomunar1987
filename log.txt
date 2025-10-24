@@ -5072,3 +5072,4 @@
 0971. 🎨 style: standardize quote style
 0520. 🐛 fix: fix null pointer exception on login
 0895. ✨ feat: support email verification
+0009. ✨ feat: enable dark mode toggle
