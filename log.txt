@@ -4078,3 +4078,4 @@
 0323. 📚 docs: clarify environment setup
 0788. 📚 docs: add API usage examples
 0399. ✅ test: mock database connection in test suite
+0741. 🎨 style: apply consistent indentation
