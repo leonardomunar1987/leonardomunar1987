@@ -4076,3 +4076,4 @@
 0567. 📚 docs: add API usage examples
 0995. ✅ test: mock database connection in test suite
 0323. 📚 docs: clarify environment setup
+0788. 📚 docs: add API usage examples
