@@ -6112,3 +6112,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0925. ✨ feat: add export to CSV option
 0436. ✅ test: add integration test for /submit endpoint
+0585. 🚀 perf: lazy-load components
