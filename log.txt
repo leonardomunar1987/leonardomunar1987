@@ -4084,3 +4084,4 @@
 0561. 📚 docs: write FAQ section
 0876. ♻️ chore: rename env.example
 0102. ✨ feat: support email verification
+0086. 🐛 fix: correct typo in registration form
