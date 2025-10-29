@@ -5082,3 +5082,4 @@
 0008. 🚀 perf: reduce image load time
 0215. 🎨 style: reformat files with black
 0914. ✅ test: test user registration edge cases
+0268. 🐛 fix: prevent crash on empty input
