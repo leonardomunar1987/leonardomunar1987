@@ -5087,3 +5087,4 @@
 0795. 📚 docs: update README with setup steps
 0291. 📚 docs: write FAQ section
 0285. 🐛 fix: resolve issue with date parsing
+0505. ♻️ chore: add GitHub actions badge
