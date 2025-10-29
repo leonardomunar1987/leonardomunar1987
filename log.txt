@@ -3184,3 +3184,4 @@
 0410. 🎨 style: reformat files with black
 0172. 📚 docs: add API usage examples
 0269. ✅ test: test user registration edge cases
+0161. ✨ feat: create admin dashboard
