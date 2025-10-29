@@ -6118,3 +6118,4 @@
 0509. ♻️ chore: bump dependencies
 0407. 🚀 perf: cache repeated calculations
 0472. 🐛 fix: fix null pointer exception on login
+0394. 🚀 perf: lazy-load components
