@@ -5088,3 +5088,4 @@
 0291. 📚 docs: write FAQ section
 0285. 🐛 fix: resolve issue with date parsing
 0505. ♻️ chore: add GitHub actions badge
+0110. 🐛 fix: prevent crash on empty input
