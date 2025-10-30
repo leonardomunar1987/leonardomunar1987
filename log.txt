@@ -6123,3 +6123,4 @@
 0604. 📚 docs: add API usage examples
 0265. 🎨 style: reformat files with black
 0021. ✨ feat: support email verification
+0539. 🔧 refactor: organize models into subfolders
