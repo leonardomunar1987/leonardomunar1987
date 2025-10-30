@@ -5089,3 +5089,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0505. ♻️ chore: add GitHub actions badge
 0110. 🐛 fix: prevent crash on empty input
+0670. ✨ feat: add export to CSV option
