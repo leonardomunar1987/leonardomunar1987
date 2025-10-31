@@ -5093,3 +5093,4 @@
 0815. 🔧 refactor: split large controller into smaller functions
 0877. 🚀 perf: optimize database query for quiz results
 0997. ✅ test: increase coverage on auth module
+0565. ♻️ chore: add GitHub actions badge
