@@ -3188,3 +3188,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0459. 🔧 refactor: organize models into subfolders
 0850. ♻️ chore: rename env.example
+0375. 🐛 fix: handle 500 error in quiz API
