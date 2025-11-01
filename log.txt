@@ -5096,3 +5096,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0580. ♻️ chore: bump dependencies
 0823. ✨ feat: add user authentication
+0399. ✅ test: mock database connection in test suite
