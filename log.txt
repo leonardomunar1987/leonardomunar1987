@@ -3191,3 +3191,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0377. ✨ feat: add user authentication
 0490. ✨ feat: create admin dashboard
+0914. ✅ test: test user registration edge cases
