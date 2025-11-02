@@ -5099,3 +5099,4 @@
 0399. ✅ test: mock database connection in test suite
 0646. ✅ test: test user registration edge cases
 0616. 🚀 perf: lazy-load components
+0180. ✨ feat: add export to CSV option
