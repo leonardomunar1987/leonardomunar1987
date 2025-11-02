@@ -5097,3 +5097,4 @@
 0580. ♻️ chore: bump dependencies
 0823. ✨ feat: add user authentication
 0399. ✅ test: mock database connection in test suite
+0646. ✅ test: test user registration edge cases
