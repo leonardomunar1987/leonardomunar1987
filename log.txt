@@ -6131,3 +6131,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0495. 🔧 refactor: remove redundant code blocks
 0164. 📚 docs: document token refresh logic
+0895. ✨ feat: support email verification
