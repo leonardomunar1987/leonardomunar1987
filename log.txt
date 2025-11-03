@@ -5100,3 +5100,4 @@
 0646. ✅ test: test user registration edge cases
 0616. 🚀 perf: lazy-load components
 0180. ✨ feat: add export to CSV option
+0875. ✅ test: increase coverage on auth module
