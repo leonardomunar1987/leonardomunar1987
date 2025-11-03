@@ -6134,3 +6134,4 @@
 0895. ✨ feat: support email verification
 0776. ✅ test: add integration test for /submit endpoint
 0990. ♻️ chore: rename env.example
+0709. ♻️ chore: bump dependencies
