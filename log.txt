@@ -2202,3 +2202,4 @@
 0780. 📚 docs: add API usage examples
 0023. 📚 docs: clarify environment setup
 0979. 🎨 style: standardize quote style
+0062. ♻️ chore: update .gitignore
