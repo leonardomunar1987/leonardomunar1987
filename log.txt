@@ -5104,3 +5104,4 @@
 0899. 🚀 perf: cache repeated calculations
 0784. ♻️ chore: clean up unused files
 0406. ✨ feat: add export to CSV option
+0918. ✨ feat: enable dark mode toggle
