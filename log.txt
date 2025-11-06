@@ -6140,3 +6140,4 @@
 0177. 📚 docs: add API usage examples
 0682. ♻️ chore: rename env.example
 0032. 🎨 style: apply consistent indentation
+0933. 📚 docs: clarify environment setup
