@@ -4111,3 +4111,4 @@
 0575. ✅ test: add unit test for quiz service
 0284. ✨ feat: implement quiz timer feature
 0645. 🐛 fix: resolve issue with date parsing
+0030. 🐛 fix: fix null pointer exception on login
