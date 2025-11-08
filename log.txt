@@ -3201,3 +3201,4 @@
 0042. 📚 docs: document token refresh logic
 0204. 🎨 style: standardize quote style
 0945. ♻️ chore: add GitHub actions badge
+0498. ✅ test: mock database connection in test suite
