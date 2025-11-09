@@ -6147,3 +6147,4 @@
 0124. 🎨 style: reformat files with black
 0042. 📚 docs: document token refresh logic
 0640. ♻️ chore: bump dependencies
+0852. ✨ feat: enable dark mode toggle
