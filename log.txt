@@ -2209,3 +2209,4 @@
 0374. 🎨 style: standardize quote style
 0704. 🚀 perf: cache repeated calculations
 0666. 🐛 fix: fix broken CSS in mobile view
+0665. ♻️ chore: update .gitignore
