@@ -6150,3 +6150,4 @@
 0852. ✨ feat: enable dark mode toggle
 0345. 📚 docs: document token refresh logic
 0998. 🐛 fix: fix null pointer exception on login
+0573. ✅ test: add integration test for /submit endpoint
