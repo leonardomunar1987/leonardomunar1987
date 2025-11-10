@@ -266,3 +266,4 @@
 0595. ✨ feat: enable dark mode toggle
 0176. 🔧 refactor: remove redundant code blocks
 0103. 🔧 refactor: remove redundant code blocks
+0463. 🚀 perf: reduce image load time
