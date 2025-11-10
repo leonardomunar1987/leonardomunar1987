@@ -5115,3 +5115,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0737. 🐛 fix: handle 500 error in quiz API
 0433. 🐛 fix: prevent crash on empty input
+0450. 🐛 fix: fix broken CSS in mobile view
