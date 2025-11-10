@@ -6149,3 +6149,4 @@
 0640. ♻️ chore: bump dependencies
 0852. ✨ feat: enable dark mode toggle
 0345. 📚 docs: document token refresh logic
+0998. 🐛 fix: fix null pointer exception on login
