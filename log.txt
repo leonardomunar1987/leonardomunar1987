@@ -4120,3 +4120,4 @@
 0794. ♻️ chore: clean up unused files
 0384. 📚 docs: clarify environment setup
 0851. ✅ test: mock database connection in test suite
+0762. 🚀 perf: lazy-load components
