@@ -6158,3 +6158,4 @@
 0377. ✨ feat: add user authentication
 0997. ✅ test: increase coverage on auth module
 0316. 🐛 fix: fix broken CSS in mobile view
+0589. 🐛 fix: fix broken CSS in mobile view
