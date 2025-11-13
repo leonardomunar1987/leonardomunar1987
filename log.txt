@@ -3210,3 +3210,4 @@
 0244. ✨ feat: add export to CSV option
 0203. 🚀 perf: lazy-load components
 0704. 🚀 perf: cache repeated calculations
+0432. 🎨 style: apply consistent indentation
