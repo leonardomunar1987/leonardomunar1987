@@ -4132,3 +4132,4 @@
 0052. 🎨 style: standardize quote style
 0047. 🎨 style: rename variables for clarity
 0486. ✨ feat: add export to CSV option
+0129. 🔧 refactor: organize models into subfolders
