@@ -5125,3 +5125,4 @@
 0203. 🚀 perf: lazy-load components
 0174. 📚 docs: clarify environment setup
 0503. ♻️ chore: rename env.example
+0171. 🐛 fix: fix broken CSS in mobile view
