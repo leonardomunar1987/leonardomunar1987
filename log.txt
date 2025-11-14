@@ -6165,3 +6165,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0547. 📚 docs: write FAQ section
 0535. 📚 docs: write FAQ section
+0693. 📚 docs: add API usage examples
