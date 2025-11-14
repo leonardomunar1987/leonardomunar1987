@@ -3214,3 +3214,4 @@
 0401. 🚀 perf: reduce image load time
 0317. ✅ test: test user registration edge cases
 0373. 📚 docs: document token refresh logic
+0461. ✨ feat: add user authentication
