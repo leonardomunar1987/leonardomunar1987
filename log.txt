@@ -6163,3 +6163,4 @@
 0269. ✅ test: test user registration edge cases
 0741. 🎨 style: apply consistent indentation
 0713. 🐛 fix: handle 500 error in quiz API
+0547. 📚 docs: write FAQ section
