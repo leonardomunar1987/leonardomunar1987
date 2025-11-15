@@ -4136,3 +4136,4 @@
 0742. 📚 docs: clarify environment setup
 0780. 📚 docs: add API usage examples
 0312. ✨ feat: add user authentication
+0186. ✅ test: test user registration edge cases
