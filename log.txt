@@ -5131,3 +5131,4 @@
 0913. 🚀 perf: optimize database query for quiz results
 0193. 🚀 perf: optimize database query for quiz results
 0962. ✨ feat: create admin dashboard
+0889. 🚀 perf: lazy-load components
