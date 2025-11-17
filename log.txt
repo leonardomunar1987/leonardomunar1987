@@ -5136,3 +5136,4 @@
 0724. ✅ test: mock database connection in test suite
 0218. 🔧 refactor: clean up auth middleware
 0789. ✨ feat: create admin dashboard
+0026. 🔧 refactor: clean up auth middleware
