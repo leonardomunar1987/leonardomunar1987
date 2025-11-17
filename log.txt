@@ -4145,3 +4145,4 @@
 0707. 🎨 style: apply consistent indentation
 0584. 🚀 perf: lazy-load components
 0813. 🔧 refactor: organize models into subfolders
+0212. 🎨 style: standardize quote style
