@@ -4149,3 +4149,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0224. 🐛 fix: fix broken CSS in mobile view
 0035. ✅ test: increase coverage on auth module
+0477. 🐛 fix: fix broken CSS in mobile view
