@@ -5140,3 +5140,4 @@
 0564. 📚 docs: clarify environment setup
 0756. ✨ feat: support email verification
 0088. 📚 docs: add API usage examples
+0107. 🐛 fix: prevent crash on empty input
