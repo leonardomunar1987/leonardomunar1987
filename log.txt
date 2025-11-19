@@ -4152,3 +4152,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0868. ✅ test: add unit test for quiz service
 0647. 🐛 fix: prevent crash on empty input
+0719. 🎨 style: apply consistent indentation
