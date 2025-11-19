@@ -269,3 +269,4 @@
 0463. 🚀 perf: reduce image load time
 0131. 📚 docs: write FAQ section
 0749. ✨ feat: support email verification
+0959. 🐛 fix: fix null pointer exception on login
