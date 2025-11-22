@@ -6185,3 +6185,4 @@
 0857. 🎨 style: rename variables for clarity
 0900. 🐛 fix: handle 500 error in quiz API
 0091. ✨ feat: add user authentication
+0646. ✅ test: test user registration edge cases
