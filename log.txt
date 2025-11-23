@@ -4163,3 +4163,4 @@
 0823. ✨ feat: add user authentication
 0405. ✅ test: mock database connection in test suite
 0181. ♻️ chore: add GitHub actions badge
+0854. ♻️ chore: rename env.example
