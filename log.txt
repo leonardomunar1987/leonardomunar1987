@@ -2227,3 +2227,4 @@
 0912. 📚 docs: document token refresh logic
 0258. 🐛 fix: prevent crash on empty input
 0918. ✨ feat: enable dark mode toggle
+0128. ♻️ chore: rename env.example
