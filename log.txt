@@ -3232,3 +3232,4 @@
 0599. ✅ test: test user registration edge cases
 0990. ♻️ chore: rename env.example
 0016. 🎨 style: apply consistent indentation
+0652. 🔧 refactor: organize models into subfolders
