@@ -6188,3 +6188,4 @@
 0646. ✅ test: test user registration edge cases
 0184. 📚 docs: improve code comments in utils
 0499. 🎨 style: reformat files with black
+0786. ✨ feat: enable dark mode toggle
