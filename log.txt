@@ -2229,3 +2229,4 @@
 0918. ✨ feat: enable dark mode toggle
 0128. ♻️ chore: rename env.example
 0269. ✅ test: test user registration edge cases
+0124. 🎨 style: reformat files with black
