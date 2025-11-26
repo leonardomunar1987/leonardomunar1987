@@ -5164,3 +5164,4 @@
 0395. 📚 docs: write FAQ section
 0177. 📚 docs: add API usage examples
 0475. 🔧 refactor: clean up auth middleware
+0353. ♻️ chore: rename env.example
