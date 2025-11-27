@@ -6193,3 +6193,4 @@
 0756. ✨ feat: support email verification
 0328. 🐛 fix: resolve issue with date parsing
 0629. 🔧 refactor: organize models into subfolders
+0501. ✨ feat: add export to CSV option
