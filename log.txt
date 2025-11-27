@@ -6195,3 +6195,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0501. ✨ feat: add export to CSV option
 0116. ✨ feat: support email verification
+0621. 🔧 refactor: clean up auth middleware
