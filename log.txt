@@ -4168,3 +4168,4 @@
 0044. ✅ test: add unit test for quiz service
 0099. 🚀 perf: reduce image load time
 0656. 🎨 style: apply consistent indentation
+0428. 🐛 fix: fix null pointer exception on login
