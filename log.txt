@@ -3238,3 +3238,4 @@
 0582. ✨ feat: add export to CSV option
 0933. 📚 docs: clarify environment setup
 0903. ✅ test: mock database connection in test suite
+0779. 🔧 refactor: organize models into subfolders
