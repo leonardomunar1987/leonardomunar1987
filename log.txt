@@ -4171,3 +4171,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0732. ♻️ chore: add GitHub actions badge
 0560. 🎨 style: rename variables for clarity
+0125. ✅ test: add integration test for /submit endpoint
