@@ -2232,3 +2232,4 @@
 0124. 🎨 style: reformat files with black
 0319. 🐛 fix: handle 500 error in quiz API
 0908. ♻️ chore: bump dependencies
+0621. 🔧 refactor: clean up auth middleware
