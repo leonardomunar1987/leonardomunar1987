@@ -4179,3 +4179,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0424. ✨ feat: add user authentication
 0202. 🔧 refactor: refactor quiz grading logic
+0065. ✅ test: add integration test for /submit endpoint
