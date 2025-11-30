@@ -5179,3 +5179,4 @@
 0499. 🎨 style: reformat files with black
 0219. ✅ test: increase coverage on auth module
 0760. 🐛 fix: resolve issue with date parsing
+0730. ✅ test: test user registration edge cases
