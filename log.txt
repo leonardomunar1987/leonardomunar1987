@@ -6205,3 +6205,4 @@
 1000. ✅ test: increase coverage on auth module
 0144. ✅ test: increase coverage on auth module
 0031. 📚 docs: document token refresh logic
+0084. 🐛 fix: handle 500 error in quiz API
