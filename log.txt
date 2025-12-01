@@ -5183,3 +5183,4 @@
 0933. 📚 docs: clarify environment setup
 0975. 🎨 style: apply consistent indentation
 0424. ✨ feat: add user authentication
+0027. 📚 docs: clarify environment setup
