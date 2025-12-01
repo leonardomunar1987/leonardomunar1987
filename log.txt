@@ -4182,3 +4182,4 @@
 0065. ✅ test: add integration test for /submit endpoint
 0069. 🎨 style: rename variables for clarity
 0753. 🔧 refactor: remove redundant code blocks
+0787. ♻️ chore: rename env.example
