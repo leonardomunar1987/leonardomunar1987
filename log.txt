@@ -4186,3 +4186,4 @@
 0895. ✨ feat: support email verification
 0292. 📚 docs: clarify environment setup
 0077. ♻️ chore: rename env.example
+0060. ♻️ chore: clean up unused files
