@@ -6211,3 +6211,4 @@
 0497. 🔧 refactor: refactor quiz grading logic
 0147. ♻️ chore: bump dependencies
 0636. ✅ test: increase coverage on auth module
+0083. 🎨 style: reformat files with black
