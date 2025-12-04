@@ -6213,3 +6213,4 @@
 0636. ✅ test: increase coverage on auth module
 0083. 🎨 style: reformat files with black
 0986. 📚 docs: document token refresh logic
+0540. ♻️ chore: add GitHub actions badge
