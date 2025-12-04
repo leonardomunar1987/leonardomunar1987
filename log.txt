@@ -4190,3 +4190,4 @@
 0037. 🐛 fix: correct typo in registration form
 0341. 🚀 perf: lazy-load components
 0194. 🎨 style: standardize quote style
+0484. 🐛 fix: handle 500 error in quiz API
