@@ -4193,3 +4193,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0031. 📚 docs: document token refresh logic
 0062. ♻️ chore: update .gitignore
+0009. ✨ feat: enable dark mode toggle
