@@ -6217,3 +6217,4 @@
 0341. 🚀 perf: lazy-load components
 0077. ♻️ chore: rename env.example
 0286. ✅ test: mock database connection in test suite
+0380. 🐛 fix: fix null pointer exception on login
