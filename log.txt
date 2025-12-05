@@ -4195,3 +4195,4 @@
 0062. ♻️ chore: update .gitignore
 0009. ✨ feat: enable dark mode toggle
 0903. ✅ test: mock database connection in test suite
+0546. 🐛 fix: fix null pointer exception on login
