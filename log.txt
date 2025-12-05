@@ -6216,3 +6216,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0341. 🚀 perf: lazy-load components
 0077. ♻️ chore: rename env.example
+0286. ✅ test: mock database connection in test suite
