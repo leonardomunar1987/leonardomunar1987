@@ -1270,3 +1270,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0811. 🎨 style: reformat files with black
 0974. ✨ feat: add export to CSV option
+0595. ✨ feat: enable dark mode toggle
