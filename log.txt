@@ -4197,3 +4197,4 @@
 0903. ✅ test: mock database connection in test suite
 0546. 🐛 fix: fix null pointer exception on login
 0380. 🐛 fix: fix null pointer exception on login
+0494. 🎨 style: rename variables for clarity
