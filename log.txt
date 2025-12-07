@@ -5201,3 +5201,4 @@
 0064. 📚 docs: clarify environment setup
 0718. 🐛 fix: resolve issue with date parsing
 0656. 🎨 style: apply consistent indentation
+0926. 🔧 refactor: organize models into subfolders
