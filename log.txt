@@ -2242,3 +2242,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0113. ✨ feat: add user authentication
 0144. ✅ test: increase coverage on auth module
+0646. ✅ test: test user registration edge cases
