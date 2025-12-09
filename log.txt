@@ -4211,3 +4211,4 @@
 0952. 🔧 refactor: split large controller into smaller functions
 0968. 🎨 style: standardize quote style
 0688. 🚀 perf: reduce image load time
+0657. 🎨 style: standardize quote style
