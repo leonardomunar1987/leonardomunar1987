@@ -5212,3 +5212,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0273. 🚀 perf: reduce image load time
 0037. 🐛 fix: correct typo in registration form
+0249. ✅ test: increase coverage on auth module
