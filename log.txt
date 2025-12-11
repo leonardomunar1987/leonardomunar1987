@@ -2246,3 +2246,4 @@
 0687. 🎨 style: remove trailing whitespace
 0680. ♻️ chore: add GitHub actions badge
 0881. 🔧 refactor: split large controller into smaller functions
+0506. 🐛 fix: handle 500 error in quiz API
