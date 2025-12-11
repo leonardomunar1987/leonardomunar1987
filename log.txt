@@ -4217,3 +4217,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0013. ✅ test: increase coverage on auth module
 0710. 🐛 fix: fix broken CSS in mobile view
+0870. ♻️ chore: clean up unused files
