@@ -3258,3 +3258,4 @@
 0347. ♻️ chore: update .gitignore
 0483. 📚 docs: update README with setup steps
 0916. ♻️ chore: bump dependencies
+0489. 🔧 refactor: organize models into subfolders
