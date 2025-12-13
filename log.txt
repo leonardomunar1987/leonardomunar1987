@@ -4221,3 +4221,4 @@
 0715. ✨ feat: create admin dashboard
 0850. ♻️ chore: rename env.example
 0866. 📚 docs: add API usage examples
+0326. 🚀 perf: cache repeated calculations
