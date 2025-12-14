@@ -5222,3 +5222,4 @@
 0409. 🚀 perf: lazy-load components
 0759. 🔧 refactor: organize models into subfolders
 0202. 🔧 refactor: refactor quiz grading logic
+0248. 🐛 fix: handle 500 error in quiz API
