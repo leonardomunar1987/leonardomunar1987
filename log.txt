@@ -4231,3 +4231,4 @@
 0022. 📚 docs: document token refresh logic
 0080. ✨ feat: support email verification
 0989. 📚 docs: write FAQ section
+0990. ♻️ chore: rename env.example
