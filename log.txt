@@ -5225,3 +5225,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0671. 🐛 fix: fix null pointer exception on login
 0522. 🐛 fix: handle 500 error in quiz API
+0644. 🎨 style: apply consistent indentation
