@@ -1272,3 +1272,4 @@
 0974. ✨ feat: add export to CSV option
 0595. ✨ feat: enable dark mode toggle
 0650. ✅ test: add unit test for quiz service
+0526. ✨ feat: add user authentication
