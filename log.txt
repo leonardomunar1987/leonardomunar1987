@@ -2250,3 +2250,4 @@
 0104. 🎨 style: apply consistent indentation
 0891. ✨ feat: create admin dashboard
 0756. ✨ feat: support email verification
+0641. 📚 docs: write FAQ section
