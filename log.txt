@@ -2251,3 +2251,4 @@
 0891. ✨ feat: create admin dashboard
 0756. ✨ feat: support email verification
 0641. 📚 docs: write FAQ section
+0612. ✅ test: test user registration edge cases
