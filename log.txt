@@ -4229,3 +4229,4 @@
 0045. 🎨 style: apply consistent indentation
 0300. ✨ feat: add export to CSV option
 0022. 📚 docs: document token refresh logic
+0080. ✨ feat: support email verification
