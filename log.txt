@@ -6244,3 +6244,4 @@
 0582. ✨ feat: add export to CSV option
 0006. 🐛 fix: prevent crash on empty input
 0947. 📚 docs: write FAQ section
+0484. 🐛 fix: handle 500 error in quiz API
