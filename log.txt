@@ -6241,3 +6241,4 @@
 0527. 🎨 style: remove trailing whitespace
 0460. 📚 docs: write FAQ section
 0818. 🔧 refactor: remove redundant code blocks
+0582. ✨ feat: add export to CSV option
