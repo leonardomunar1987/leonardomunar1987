@@ -2253,3 +2253,4 @@
 0641. 📚 docs: write FAQ section
 0612. ✅ test: test user registration edge cases
 0404. 📚 docs: improve code comments in utils
+0226. 🚀 perf: lazy-load components
