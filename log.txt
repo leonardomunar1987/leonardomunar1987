@@ -4233,3 +4233,4 @@
 0989. 📚 docs: write FAQ section
 0990. ♻️ chore: rename env.example
 0654. ✨ feat: create admin dashboard
+0611. ✅ test: test user registration edge cases
