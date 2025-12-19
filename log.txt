@@ -3263,3 +3263,4 @@
 0961. 📚 docs: add API usage examples
 0766. 🎨 style: reformat files with black
 0038. 🎨 style: rename variables for clarity
+0894. ✅ test: add integration test for /submit endpoint
