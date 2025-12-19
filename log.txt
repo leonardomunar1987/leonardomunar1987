@@ -4240,3 +4240,4 @@
 0523. ♻️ chore: bump dependencies
 0929. ✨ feat: support email verification
 0310. 🔧 refactor: refactor quiz grading logic
+0483. 📚 docs: update README with setup steps
