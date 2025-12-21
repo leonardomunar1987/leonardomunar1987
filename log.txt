@@ -6256,3 +6256,4 @@
 0051. ✨ feat: enable dark mode toggle
 0820. 📚 docs: add API usage examples
 0107. 🐛 fix: prevent crash on empty input
+0538. 🐛 fix: fix broken CSS in mobile view
