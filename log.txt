@@ -5247,3 +5247,4 @@
 0902. ✨ feat: enable dark mode toggle
 0307. ✨ feat: support email verification
 0551. 📚 docs: write FAQ section
+0879. 🎨 style: standardize quote style
