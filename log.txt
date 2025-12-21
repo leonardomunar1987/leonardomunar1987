@@ -3266,3 +3266,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0957. 🐛 fix: fix null pointer exception on login
 0893. 🐛 fix: handle 500 error in quiz API
+0452. ✨ feat: implement quiz timer feature
