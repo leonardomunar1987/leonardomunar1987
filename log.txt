@@ -6257,3 +6257,4 @@
 0820. 📚 docs: add API usage examples
 0107. 🐛 fix: prevent crash on empty input
 0538. 🐛 fix: fix broken CSS in mobile view
+0068. 🐛 fix: fix null pointer exception on login
