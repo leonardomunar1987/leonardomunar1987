@@ -6255,3 +6255,4 @@
 0950. 🎨 style: reformat files with black
 0051. ✨ feat: enable dark mode toggle
 0820. 📚 docs: add API usage examples
+0107. 🐛 fix: prevent crash on empty input
