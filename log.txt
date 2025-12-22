@@ -5249,3 +5249,4 @@
 0551. 📚 docs: write FAQ section
 0879. 🎨 style: standardize quote style
 0360. ✨ feat: add export to CSV option
+0491. 🚀 perf: lazy-load components
