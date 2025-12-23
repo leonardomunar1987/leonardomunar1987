@@ -3268,3 +3268,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0452. ✨ feat: implement quiz timer feature
 0090. ✅ test: increase coverage on auth module
+0210. 🎨 style: apply consistent indentation
