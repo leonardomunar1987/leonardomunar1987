@@ -3269,3 +3269,4 @@
 0452. ✨ feat: implement quiz timer feature
 0090. ✅ test: increase coverage on auth module
 0210. 🎨 style: apply consistent indentation
+0315. ✅ test: add integration test for /submit endpoint
