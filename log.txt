@@ -4259,3 +4259,4 @@
 0116. ✨ feat: support email verification
 0162. ♻️ chore: add GitHub actions badge
 0207. 🐛 fix: prevent crash on empty input
+0689. 🎨 style: reformat files with black
