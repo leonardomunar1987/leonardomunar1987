@@ -6263,3 +6263,4 @@
 0996. ✅ test: test user registration edge cases
 0361. ✨ feat: support email verification
 0810. 🔧 refactor: refactor quiz grading logic
+0292. 📚 docs: clarify environment setup
