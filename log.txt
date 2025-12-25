@@ -5259,3 +5259,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0807. 🔧 refactor: remove redundant code blocks
 0367. 🐛 fix: fix null pointer exception on login
+0647. 🐛 fix: prevent crash on empty input
