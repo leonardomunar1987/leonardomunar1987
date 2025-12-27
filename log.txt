@@ -5268,3 +5268,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0148. 🔧 refactor: organize models into subfolders
 0464. 🎨 style: remove trailing whitespace
+0864. 🐛 fix: correct typo in registration form
