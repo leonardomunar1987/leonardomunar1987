@@ -5270,3 +5270,4 @@
 0464. 🎨 style: remove trailing whitespace
 0864. 🐛 fix: correct typo in registration form
 0619. ✨ feat: create admin dashboard
+0538. 🐛 fix: fix broken CSS in mobile view
