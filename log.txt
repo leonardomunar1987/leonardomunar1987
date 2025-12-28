@@ -5273,3 +5273,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0837. 🚀 perf: cache repeated calculations
 0176. 🔧 refactor: remove redundant code blocks
+0257. 📚 docs: clarify environment setup
