@@ -4273,3 +4273,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0158. 📚 docs: clarify environment setup
 0673. 🐛 fix: correct typo in registration form
+0171. 🐛 fix: fix broken CSS in mobile view
